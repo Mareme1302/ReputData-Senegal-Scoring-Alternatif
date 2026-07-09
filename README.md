@@ -123,7 +123,7 @@ Le rapport visuel est structuré en **6 pages complémentaires** :
 ```text
 ReputData-Senegal-Scoring-Alternatif/
 ├── README.md
-├── data/                                       # Jeux de données fictifs
+├── 1_data/                                       # Jeux de données fictifs
 │   ├── utilisateurs_reputdata.csv
 │   ├── revenus_reputdata.csv
 │   ├── paiements_reputdata.csv
@@ -131,19 +131,19 @@ ReputData-Senegal-Scoring-Alternatif/
 │   ├── missions_reputdata.csv
 │   └── scores_reputdata.csv
 │
-├── sql/                                        # Scripts de validation
+├── 2_sql/                                        # Scripts de validation
 │   └── requetes_analyse_reputdata.sql
-├── powerbi/                                        # dashbord
+├── 3_powerbi/                                        # dashbord
 │   └── projetdata.pbix
 │
-└── maquettes/                                # Visuels du dashboard
+└── 4_maquettes/                                # Visuels du dashboard
     ├── page1_vue_ensemble.png
     ├── page2_score_alternatif.png
     ├── page3_revenus_activite.png
     ├── page4_paiements_fiabilite.png
     ├── page5_analyse_risque.png
     └── page6_ethique_limites.png
-├── documentation/
+├── 5_documentation/
 │   └── ReputData_Senegal_Presentation_GitHub.pdf
 ```
 
@@ -153,15 +153,15 @@ ReputData-Senegal-Scoring-Alternatif/
 
 | Page 1 : Vue d'ensemble | Page 2 : Score Alternatif |
 |---|---|
-| ![Vue d’ensemble](maquettes/screenshots/page1_vue_ensemble.png) | ![Score alternatif](maquettes/screenshots/page2_score_alternatif.png) |
+| ![Vue d’ensemble](4_maquettes/screenshots/page1_vue_ensemble.png) | ![Score alternatif](4_maquettes/screenshots/page2_score_alternatif.png) |
 
 | Page 3 : Revenus & Activité | Page 4 : Paiements & Fiabilité |
 |---|---|
-| ![Revenus et activité](maquettes/screenshots/page3_revenus_activite.png) | ![Paiements et fiabilité](maquettes/screenshots/page4_paiements_fiabilite.png) |
+| ![Revenus et activité](4_maquettes/screenshots/page3_revenus_activite.png) | ![Paiements et fiabilité](4_maquettes/screenshots/page4_paiements_fiabilite.png) |
 
 | Page 5 : Analyse Risque | Page 6 : Éthique & Limites |
 |---|---|
-| ![Analyse risque](maquettes/screenshots/page5_analyse_risque.png) | ![Éthique et limites](maquettes/screenshots/page6_ethique_limites.png) |
+| ![Analyse risque](4_maquettes/screenshots/page5_analyse_risque.png) | ![Éthique et limites](4_maquettes/screenshots/page6_ethique_limites.png) |
 
 ---
 
