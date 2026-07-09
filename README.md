@@ -153,7 +153,7 @@ ReputData-Senegal-Scoring-Alternatif/
 
 | Page 1 : Vue d'ensemble | Page 2 : Score Alternatif |
 |---|---|
-| ![Vue d’ensemble](4_maquettes/screenshots/page1_vue_ensemble.png) | ![Score alternatif](4_maquettes/screenshots/page2_score_alternatif.png) |
+| ![Vue d’ensemble](Reput_data/04_maquettes/screenshots/page1_vue_ensemble.png) | ![Score alternatif](4_maquettes/screenshots/page2_score_alternatif.png) |
 
 | Page 3 : Revenus & Activité | Page 4 : Paiements & Fiabilité |
 |---|---|
