@@ -1,0 +1,251 @@
+﻿id_utilisateur,nom_utilisateur,age,sexe,region,type_profil,anciennete_activite_mois,niveau_bancarisation
+U0001,Mamadou Cisse 001,42,Homme,Dakar,Livreur,8,Compte bancaire + mobile money
+U0002,Awa Ndiaye 002,19,Femme,Thiès,Livreur,37,Mobile money uniquement
+U0003,Khadija Ba 003,44,Femme,Dakar,Jeune actif,12,Compte bancaire + mobile money
+U0004,Moussa Ndiaye 004,30,Homme,Dakar,Freelance,40,Mobile money uniquement
+U0005,Ndeye Ndiaye 005,38,Femme,Louga,Vendeur en ligne,58,Aucun compte formel
+U0006,Sokhna Ba 006,22,Femme,Fatick,Prestataire de service,26,Mobile money uniquement
+U0007,Sokhna Niang 007,39,Femme,Tambacounda,Livreur,6,Compte bancaire + mobile money
+U0008,Ndeye Ba 008,36,Femme,Kaolack,Prestataire de service,16,Compte bancaire + mobile money
+U0009,Awa Gueye 009,37,Femme,Dakar,Vendeur en ligne,58,Compte bancaire + mobile money
+U0010,Serigne Fall 010,36,Homme,Dakar,Livreur,36,Mobile money uniquement
+U0011,Sokhna Fall 011,20,Femme,Dakar,Vendeur en ligne,57,Mobile money uniquement
+U0012,Fatou Seck 012,35,Femme,Kolda,Vendeur en ligne,18,Compte bancaire uniquement
+U0013,Pape Ba 013,28,Homme,Dakar,Jeune actif,29,Mobile money uniquement
+U0014,Pape Fall 014,39,Homme,Dakar,Vendeur en ligne,21,Aucun compte formel
+U0015,Mariama Sow 015,19,Femme,Tambacounda,Prestataire de service,40,Mobile money uniquement
+U0016,Babacar Sarr 016,21,Homme,Fatick,Freelance,7,Compte bancaire + mobile money
+U0017,Ousmane Fall 017,24,Homme,Tambacounda,Micro-entrepreneur,18,Compte bancaire + mobile money
+U0018,Ibrahima Cisse 018,39,Homme,Kolda,Livreur,25,Mobile money uniquement
+U0019,Mame Diop 019,26,Femme,Dakar,Micro-entrepreneur,2,Mobile money uniquement
+U0020,Moussa Ndiaye 020,34,Homme,Dakar,Vendeur en ligne,15,Compte bancaire + mobile money
+U0021,Ibrahima Faye 021,22,Homme,Dakar,Jeune actif,44,Mobile money uniquement
+U0022,Cheikh Diop 022,22,Homme,Dakar,Vendeur en ligne,17,Mobile money uniquement
+U0023,Astou Sarr 023,44,Femme,Dakar,Jeune actif,57,Aucun compte formel
+U0024,Mamadou Ndiaye 024,24,Homme,Louga,Prestataire de service,28,Compte bancaire + mobile money
+U0025,Ndeye Diop 025,44,Femme,Dakar,Prestataire de service,52,Mobile money uniquement
+U0026,Pape Niang 026,28,Homme,Dakar,Micro-entrepreneur,15,Compte bancaire uniquement
+U0027,Mamadou Diop 027,35,Homme,Thiès,Micro-entrepreneur,12,Mobile money uniquement
+U0028,Fatou Niang 028,37,Femme,Thiès,Jeune actif,17,Compte bancaire + mobile money
+U0029,Amadou Sow 029,40,Homme,Dakar,Livreur,47,Mobile money uniquement
+U0030,Serigne Gueye 030,19,Homme,Tambacounda,Prestataire de service,31,Compte bancaire + mobile money
+U0031,Pape Ba 031,21,Homme,Dakar,Freelance,58,Mobile money uniquement
+U0032,Babacar Diallo 032,35,Homme,Louga,Prestataire de service,2,Compte bancaire + mobile money
+U0033,Mariama Ba 033,36,Femme,Dakar,Freelance,11,Mobile money uniquement
+U0034,Aminata Sow 034,20,Femme,Tambacounda,Vendeur en ligne,7,Compte bancaire + mobile money
+U0035,Mariama Niang 035,33,Femme,Dakar,Prestataire de service,37,Compte bancaire + mobile money
+U0036,Ousmane Sow 036,36,Homme,Dakar,Freelance,11,Mobile money uniquement
+U0037,Mamadou Gueye 037,22,Homme,Dakar,Livreur,24,Aucun compte formel
+U0038,Ousmane Sarr 038,44,Homme,Kolda,Jeune actif,13,Aucun compte formel
+U0039,Ndeye Niang 039,27,Femme,Louga,Jeune actif,12,Aucun compte formel
+U0040,Ibrahima Sarr 040,28,Homme,Thiès,Jeune actif,54,Aucun compte formel
+U0041,Mame Ba 041,27,Femme,Kolda,Jeune actif,24,Compte bancaire + mobile money
+U0042,Mamadou Ndiaye 042,37,Homme,Dakar,Jeune actif,18,Mobile money uniquement
+U0043,Abdou Diallo 043,37,Homme,Dakar,Prestataire de service,14,Mobile money uniquement
+U0044,Pape Niang 044,40,Homme,Diourbel,Micro-entrepreneur,14,Mobile money uniquement
+U0045,Mame Niang 045,28,Femme,Ziguinchor,Jeune actif,34,Mobile money uniquement
+U0046,Mariama Sarr 046,40,Femme,Tambacounda,Vendeur en ligne,49,Compte bancaire uniquement
+U0047,Mamadou Ba 047,37,Homme,Thiès,Livreur,40,Compte bancaire + mobile money
+U0048,Astou Cisse 048,35,Femme,Dakar,Freelance,44,Compte bancaire + mobile money
+U0049,Babacar Sarr 049,20,Homme,Dakar,Jeune actif,17,Compte bancaire uniquement
+U0050,Khadija Sarr 050,31,Femme,Thiès,Micro-entrepreneur,17,Mobile money uniquement
+U0051,Cheikh Seck 051,41,Homme,Louga,Livreur,35,Compte bancaire + mobile money
+U0052,Mariama Faye 052,38,Femme,Kolda,Micro-entrepreneur,22,Compte bancaire uniquement
+U0053,Pape Seck 053,24,Homme,Saint-Louis,Jeune actif,49,Aucun compte formel
+U0054,Babacar Sow 054,33,Homme,Dakar,Vendeur en ligne,6,Compte bancaire + mobile money
+U0055,Cheikh Fall 055,23,Homme,Thiès,Freelance,47,Mobile money uniquement
+U0056,Mamadou Sarr 056,43,Homme,Thiès,Jeune actif,39,Compte bancaire uniquement
+U0057,Serigne Diop 057,31,Homme,Dakar,Prestataire de service,56,Aucun compte formel
+U0058,Amadou Sarr 058,34,Homme,Dakar,Vendeur en ligne,3,Mobile money uniquement
+U0059,Serigne Fall 059,31,Homme,Thiès,Prestataire de service,39,Compte bancaire + mobile money
+U0060,Astou Fall 060,25,Femme,Dakar,Freelance,31,Mobile money uniquement
+U0061,Abdou Ba 061,42,Homme,Thiès,Jeune actif,36,Mobile money uniquement
+U0062,Awa Diop 062,19,Femme,Dakar,Prestataire de service,41,Mobile money uniquement
+U0063,Ibrahima Faye 063,24,Homme,Diourbel,Micro-entrepreneur,40,Compte bancaire + mobile money
+U0064,Babacar Ndiaye 064,37,Homme,Tambacounda,Micro-entrepreneur,45,Compte bancaire uniquement
+U0065,Khadija Cisse 065,41,Femme,Dakar,Jeune actif,51,Mobile money uniquement
+U0066,Amadou Diop 066,30,Homme,Thiès,Livreur,6,Compte bancaire + mobile money
+U0067,Cheikh Seck 067,45,Homme,Kaolack,Prestataire de service,31,Compte bancaire + mobile money
+U0068,Babacar Diallo 068,34,Homme,Thiès,Jeune actif,31,Mobile money uniquement
+U0069,Cheikh Ba 069,33,Homme,Dakar,Prestataire de service,38,Compte bancaire + mobile money
+U0070,Ousmane Faye 070,29,Homme,Diourbel,Livreur,19,Aucun compte formel
+U0071,Sokhna Ndiaye 071,36,Femme,Thiès,Livreur,50,Mobile money uniquement
+U0072,Awa Ndiaye 072,26,Femme,Thiès,Livreur,21,Compte bancaire + mobile money
+U0073,Rokhaya Gueye 073,28,Femme,Thiès,Livreur,18,Mobile money uniquement
+U0074,Ousmane Sarr 074,42,Homme,Thiès,Livreur,39,Compte bancaire uniquement
+U0075,Sokhna Ba 075,19,Femme,Dakar,Livreur,47,Compte bancaire + mobile money
+U0076,Ousmane Niang 076,19,Homme,Thiès,Jeune actif,38,Mobile money uniquement
+U0077,Babacar Faye 077,34,Homme,Dakar,Freelance,6,Compte bancaire + mobile money
+U0078,Babacar Ndiaye 078,43,Homme,Dakar,Prestataire de service,28,Compte bancaire + mobile money
+U0079,Serigne Faye 079,32,Homme,Saint-Louis,Livreur,21,Compte bancaire + mobile money
+U0080,Sokhna Niang 080,24,Femme,Kaolack,Livreur,17,Mobile money uniquement
+U0081,Khadija Faye 081,41,Femme,Dakar,Livreur,20,Compte bancaire + mobile money
+U0082,Amadou Niang 082,22,Homme,Dakar,Jeune actif,36,Mobile money uniquement
+U0083,Awa Fall 083,45,Femme,Saint-Louis,Jeune actif,38,Compte bancaire uniquement
+U0084,Ndeye Ba 084,21,Femme,Thiès,Vendeur en ligne,40,Mobile money uniquement
+U0085,Fatou Sarr 085,37,Femme,Louga,Prestataire de service,39,Compte bancaire uniquement
+U0086,Awa Fall 086,27,Femme,Kaolack,Vendeur en ligne,13,Compte bancaire uniquement
+U0087,Serigne Gueye 087,22,Homme,Dakar,Vendeur en ligne,56,Mobile money uniquement
+U0088,Abdou Sow 088,27,Homme,Dakar,Freelance,22,Mobile money uniquement
+U0089,Mamadou Niang 089,20,Homme,Thiès,Jeune actif,14,Compte bancaire + mobile money
+U0090,Awa Sarr 090,28,Femme,Dakar,Livreur,30,Aucun compte formel
+U0091,Ibrahima Cisse 091,36,Homme,Saint-Louis,Freelance,28,Mobile money uniquement
+U0092,Cheikh Niang 092,41,Homme,Thiès,Jeune actif,20,Compte bancaire + mobile money
+U0093,Ibrahima Faye 093,38,Homme,Thiès,Vendeur en ligne,34,Compte bancaire + mobile money
+U0094,Abdou Gueye 094,45,Homme,Thiès,Prestataire de service,2,Mobile money uniquement
+U0095,Serigne Fall 095,29,Homme,Thiès,Vendeur en ligne,37,Compte bancaire + mobile money
+U0096,Ibrahima Diallo 096,32,Homme,Fatick,Vendeur en ligne,4,Mobile money uniquement
+U0097,Mariama Faye 097,37,Femme,Dakar,Prestataire de service,23,Aucun compte formel
+U0098,Serigne Diop 098,39,Homme,Thiès,Micro-entrepreneur,11,Mobile money uniquement
+U0099,Abdou Niang 099,40,Homme,Dakar,Freelance,56,Compte bancaire + mobile money
+U0100,Serigne Sow 100,39,Homme,Dakar,Freelance,45,Compte bancaire uniquement
+U0101,Fatou Niang 101,24,Femme,Dakar,Micro-entrepreneur,46,Mobile money uniquement
+U0102,Mame Gueye 102,32,Femme,Dakar,Vendeur en ligne,38,Compte bancaire + mobile money
+U0103,Abdou Diallo 103,37,Homme,Thiès,Micro-entrepreneur,11,Mobile money uniquement
+U0104,Serigne Ba 104,33,Homme,Dakar,Micro-entrepreneur,24,Compte bancaire uniquement
+U0105,Serigne Ba 105,34,Homme,Thiès,Livreur,8,Mobile money uniquement
+U0106,Babacar Diop 106,27,Homme,Kaolack,Prestataire de service,2,Compte bancaire + mobile money
+U0107,Khadija Cisse 107,28,Femme,Tambacounda,Vendeur en ligne,51,Aucun compte formel
+U0108,Amadou Ba 108,40,Homme,Ziguinchor,Micro-entrepreneur,45,Aucun compte formel
+U0109,Babacar Faye 109,23,Homme,Dakar,Freelance,7,Compte bancaire uniquement
+U0110,Rokhaya Gueye 110,45,Femme,Tambacounda,Vendeur en ligne,12,Mobile money uniquement
+U0111,Moussa Ndiaye 111,43,Homme,Dakar,Vendeur en ligne,16,Aucun compte formel
+U0112,Pape Gueye 112,27,Homme,Thiès,Freelance,36,Mobile money uniquement
+U0113,Ndeye Niang 113,26,Femme,Dakar,Prestataire de service,32,Mobile money uniquement
+U0114,Ibrahima Niang 114,41,Homme,Louga,Freelance,21,Compte bancaire + mobile money
+U0115,Astou Ndiaye 115,23,Femme,Fatick,Freelance,26,Mobile money uniquement
+U0116,Abdou Diallo 116,32,Homme,Dakar,Micro-entrepreneur,43,Mobile money uniquement
+U0117,Mamadou Cisse 117,26,Homme,Thiès,Vendeur en ligne,56,Mobile money uniquement
+U0118,Moussa Diop 118,22,Homme,Dakar,Vendeur en ligne,56,Aucun compte formel
+U0119,Mamadou Diop 119,23,Homme,Dakar,Jeune actif,52,Compte bancaire + mobile money
+U0120,Sokhna Sarr 120,38,Femme,Dakar,Livreur,2,Mobile money uniquement
+U0121,Ousmane Ndiaye 121,19,Homme,Dakar,Micro-entrepreneur,24,Aucun compte formel
+U0122,Awa Fall 122,42,Femme,Thiès,Micro-entrepreneur,6,Compte bancaire + mobile money
+U0123,Rokhaya Sarr 123,44,Femme,Dakar,Prestataire de service,60,Aucun compte formel
+U0124,Mamadou Faye 124,22,Homme,Thiès,Jeune actif,33,Compte bancaire + mobile money
+U0125,Mariama Ndiaye 125,37,Femme,Kaolack,Freelance,37,Compte bancaire + mobile money
+U0126,Rokhaya Diallo 126,22,Femme,Diourbel,Vendeur en ligne,56,Compte bancaire + mobile money
+U0127,Abdou Faye 127,45,Homme,Thiès,Prestataire de service,31,Mobile money uniquement
+U0128,Aminata Gueye 128,34,Femme,Kaolack,Prestataire de service,6,Mobile money uniquement
+U0129,Moussa Fall 129,36,Homme,Saint-Louis,Vendeur en ligne,37,Mobile money uniquement
+U0130,Abdou Cisse 130,28,Homme,Dakar,Freelance,24,Mobile money uniquement
+U0131,Cheikh Gueye 131,43,Homme,Dakar,Jeune actif,19,Compte bancaire + mobile money
+U0132,Amadou Diallo 132,38,Homme,Saint-Louis,Micro-entrepreneur,44,Aucun compte formel
+U0133,Babacar Gueye 133,23,Homme,Dakar,Livreur,38,Compte bancaire + mobile money
+U0134,Cheikh Cisse 134,33,Homme,Dakar,Vendeur en ligne,23,Mobile money uniquement
+U0135,Amadou Ndiaye 135,43,Homme,Dakar,Prestataire de service,41,Mobile money uniquement
+U0136,Khadija Faye 136,35,Femme,Dakar,Vendeur en ligne,9,Mobile money uniquement
+U0137,Pape Niang 137,38,Homme,Dakar,Livreur,5,Mobile money uniquement
+U0138,Aminata Ba 138,42,Femme,Dakar,Livreur,29,Mobile money uniquement
+U0139,Moussa Ndiaye 139,32,Homme,Diourbel,Vendeur en ligne,3,Mobile money uniquement
+U0140,Ndeye Cisse 140,31,Femme,Dakar,Micro-entrepreneur,3,Compte bancaire uniquement
+U0141,Moussa Ndiaye 141,32,Homme,Dakar,Vendeur en ligne,39,Mobile money uniquement
+U0142,Ibrahima Gueye 142,39,Homme,Dakar,Jeune actif,9,Compte bancaire + mobile money
+U0143,Mariama Sarr 143,24,Femme,Dakar,Freelance,40,Mobile money uniquement
+U0144,Serigne Faye 144,33,Homme,Diourbel,Micro-entrepreneur,45,Compte bancaire uniquement
+U0145,Moussa Fall 145,39,Homme,Thiès,Vendeur en ligne,21,Aucun compte formel
+U0146,Astou Faye 146,28,Femme,Dakar,Freelance,6,Compte bancaire + mobile money
+U0147,Abdou Faye 147,42,Homme,Kolda,Micro-entrepreneur,59,Mobile money uniquement
+U0148,Khadija Faye 148,33,Femme,Kolda,Vendeur en ligne,8,Aucun compte formel
+U0149,Mariama Diop 149,33,Femme,Thiès,Livreur,35,Compte bancaire + mobile money
+U0150,Ndeye Gueye 150,39,Femme,Dakar,Micro-entrepreneur,43,Mobile money uniquement
+U0151,Aminata Cisse 151,38,Femme,Kolda,Jeune actif,57,Mobile money uniquement
+U0152,Babacar Niang 152,38,Homme,Thiès,Micro-entrepreneur,47,Compte bancaire uniquement
+U0153,Ousmane Niang 153,40,Homme,Tambacounda,Micro-entrepreneur,60,Compte bancaire + mobile money
+U0154,Mame Ba 154,43,Femme,Dakar,Livreur,33,Mobile money uniquement
+U0155,Fatou Sow 155,35,Femme,Louga,Jeune actif,4,Compte bancaire + mobile money
+U0156,Ousmane Fall 156,38,Homme,Ziguinchor,Livreur,53,Compte bancaire uniquement
+U0157,Sokhna Faye 157,44,Femme,Diourbel,Micro-entrepreneur,30,Mobile money uniquement
+U0158,Ibrahima Gueye 158,33,Homme,Saint-Louis,Micro-entrepreneur,31,Compte bancaire + mobile money
+U0159,Mariama Sarr 159,27,Femme,Dakar,Jeune actif,5,Compte bancaire + mobile money
+U0160,Rokhaya Ndiaye 160,27,Femme,Diourbel,Livreur,30,Compte bancaire uniquement
+U0161,Ibrahima Faye 161,32,Homme,Tambacounda,Prestataire de service,5,Mobile money uniquement
+U0162,Sokhna Diop 162,41,Femme,Dakar,Livreur,43,Mobile money uniquement
+U0163,Serigne Cisse 163,34,Homme,Diourbel,Jeune actif,30,Compte bancaire + mobile money
+U0164,Mariama Sow 164,32,Femme,Saint-Louis,Prestataire de service,9,Compte bancaire + mobile money
+U0165,Khadija Faye 165,34,Femme,Louga,Freelance,40,Compte bancaire + mobile money
+U0166,Babacar Seck 166,37,Homme,Dakar,Freelance,28,Mobile money uniquement
+U0167,Rokhaya Sow 167,36,Femme,Kolda,Vendeur en ligne,3,Mobile money uniquement
+U0168,Babacar Cisse 168,30,Homme,Diourbel,Freelance,17,Compte bancaire + mobile money
+U0169,Moussa Fall 169,45,Homme,Saint-Louis,Freelance,43,Mobile money uniquement
+U0170,Ousmane Fall 170,33,Homme,Diourbel,Freelance,4,Mobile money uniquement
+U0171,Aminata Sow 171,34,Femme,Louga,Vendeur en ligne,18,Mobile money uniquement
+U0172,Mamadou Niang 172,30,Homme,Dakar,Livreur,29,Aucun compte formel
+U0173,Mariama Faye 173,44,Femme,Dakar,Micro-entrepreneur,35,Mobile money uniquement
+U0174,Mariama Sow 174,29,Femme,Dakar,Livreur,44,Mobile money uniquement
+U0175,Astou Gueye 175,30,Femme,Ziguinchor,Vendeur en ligne,41,Compte bancaire uniquement
+U0176,Cheikh Niang 176,44,Homme,Dakar,Micro-entrepreneur,49,Compte bancaire + mobile money
+U0177,Serigne Diop 177,39,Homme,Dakar,Freelance,25,Mobile money uniquement
+U0178,Astou Gueye 178,37,Femme,Diourbel,Vendeur en ligne,10,Compte bancaire + mobile money
+U0179,Fatou Diop 179,31,Femme,Thiès,Micro-entrepreneur,60,Compte bancaire + mobile money
+U0180,Khadija Ba 180,25,Femme,Kolda,Micro-entrepreneur,9,Mobile money uniquement
+U0181,Cheikh Niang 181,40,Homme,Kolda,Prestataire de service,24,Compte bancaire + mobile money
+U0182,Mariama Cisse 182,24,Femme,Ziguinchor,Micro-entrepreneur,52,Mobile money uniquement
+U0183,Ibrahima Faye 183,30,Homme,Saint-Louis,Freelance,31,Aucun compte formel
+U0184,Aminata Seck 184,35,Femme,Ziguinchor,Prestataire de service,28,Compte bancaire + mobile money
+U0185,Cheikh Faye 185,23,Homme,Thiès,Vendeur en ligne,58,Aucun compte formel
+U0186,Ousmane Seck 186,45,Homme,Fatick,Vendeur en ligne,9,Compte bancaire + mobile money
+U0187,Ibrahima Gueye 187,28,Homme,Thiès,Prestataire de service,56,Mobile money uniquement
+U0188,Aminata Diallo 188,24,Femme,Thiès,Vendeur en ligne,39,Compte bancaire uniquement
+U0189,Amadou Gueye 189,45,Homme,Saint-Louis,Jeune actif,57,Mobile money uniquement
+U0190,Ibrahima Diallo 190,34,Homme,Kaolack,Vendeur en ligne,58,Compte bancaire + mobile money
+U0191,Abdou Ba 191,24,Homme,Kaolack,Vendeur en ligne,30,Mobile money uniquement
+U0192,Mame Cisse 192,31,Femme,Dakar,Prestataire de service,10,Compte bancaire + mobile money
+U0193,Fatou Ba 193,20,Femme,Dakar,Vendeur en ligne,20,Compte bancaire uniquement
+U0194,Ousmane Gueye 194,25,Homme,Ziguinchor,Prestataire de service,50,Mobile money uniquement
+U0195,Serigne Diop 195,33,Homme,Thiès,Freelance,17,Mobile money uniquement
+U0196,Serigne Ba 196,32,Homme,Louga,Vendeur en ligne,10,Aucun compte formel
+U0197,Ndeye Diop 197,36,Femme,Dakar,Micro-entrepreneur,20,Mobile money uniquement
+U0198,Khadija Niang 198,22,Femme,Dakar,Micro-entrepreneur,27,Mobile money uniquement
+U0199,Mariama Sarr 199,20,Femme,Thiès,Micro-entrepreneur,4,Mobile money uniquement
+U0200,Ousmane Diallo 200,38,Homme,Dakar,Prestataire de service,22,Mobile money uniquement
+U0201,Mame Sow 201,41,Femme,Thiès,Jeune actif,38,Mobile money uniquement
+U0202,Abdou Diallo 202,41,Homme,Fatick,Livreur,42,Mobile money uniquement
+U0203,Amadou Diallo 203,34,Homme,Dakar,Livreur,12,Compte bancaire + mobile money
+U0204,Sokhna Diop 204,25,Femme,Ziguinchor,Micro-entrepreneur,3,Mobile money uniquement
+U0205,Rokhaya Diallo 205,42,Femme,Fatick,Prestataire de service,48,Mobile money uniquement
+U0206,Astou Sow 206,33,Femme,Kolda,Vendeur en ligne,60,Compte bancaire + mobile money
+U0207,Babacar Diallo 207,27,Homme,Kolda,Vendeur en ligne,37,Mobile money uniquement
+U0208,Ibrahima Cisse 208,30,Homme,Dakar,Micro-entrepreneur,37,Compte bancaire uniquement
+U0209,Rokhaya Seck 209,30,Femme,Thiès,Prestataire de service,51,Aucun compte formel
+U0210,Moussa Faye 210,25,Homme,Diourbel,Micro-entrepreneur,14,Aucun compte formel
+U0211,Fatou Diallo 211,20,Femme,Dakar,Micro-entrepreneur,44,Compte bancaire uniquement
+U0212,Mame Cisse 212,23,Femme,Kaolack,Vendeur en ligne,2,Compte bancaire uniquement
+U0213,Serigne Faye 213,28,Homme,Diourbel,Micro-entrepreneur,22,Mobile money uniquement
+U0214,Ibrahima Sow 214,20,Homme,Fatick,Micro-entrepreneur,60,Compte bancaire uniquement
+U0215,Mamadou Seck 215,42,Homme,Dakar,Jeune actif,57,Compte bancaire uniquement
+U0216,Cheikh Gueye 216,36,Homme,Kolda,Livreur,35,Compte bancaire + mobile money
+U0217,Ibrahima Ndiaye 217,39,Homme,Ziguinchor,Livreur,18,Compte bancaire + mobile money
+U0218,Sokhna Fall 218,31,Femme,Kaolack,Micro-entrepreneur,54,Mobile money uniquement
+U0219,Mariama Faye 219,27,Femme,Dakar,Livreur,26,Mobile money uniquement
+U0220,Khadija Diop 220,26,Femme,Dakar,Livreur,5,Compte bancaire + mobile money
+U0221,Babacar Cisse 221,28,Homme,Tambacounda,Freelance,25,Compte bancaire + mobile money
+U0222,Khadija Gueye 222,34,Femme,Saint-Louis,Vendeur en ligne,50,Compte bancaire + mobile money
+U0223,Khadija Ndiaye 223,30,Femme,Thiès,Vendeur en ligne,6,Compte bancaire uniquement
+U0224,Ibrahima Diallo 224,35,Homme,Dakar,Vendeur en ligne,30,Mobile money uniquement
+U0225,Rokhaya Faye 225,35,Femme,Thiès,Jeune actif,28,Mobile money uniquement
+U0226,Mamadou Seck 226,25,Homme,Dakar,Livreur,39,Mobile money uniquement
+U0227,Mamadou Ndiaye 227,28,Homme,Thiès,Prestataire de service,28,Mobile money uniquement
+U0228,Abdou Gueye 228,31,Homme,Thiès,Prestataire de service,26,Mobile money uniquement
+U0229,Mame Ndiaye 229,35,Femme,Thiès,Freelance,10,Compte bancaire + mobile money
+U0230,Aminata Faye 230,36,Femme,Saint-Louis,Micro-entrepreneur,26,Aucun compte formel
+U0231,Fatou Diop 231,43,Femme,Thiès,Jeune actif,58,Aucun compte formel
+U0232,Serigne Diallo 232,26,Homme,Fatick,Micro-entrepreneur,49,Mobile money uniquement
+U0233,Mamadou Fall 233,45,Homme,Dakar,Vendeur en ligne,60,Compte bancaire + mobile money
+U0234,Moussa Sarr 234,40,Homme,Dakar,Livreur,35,Mobile money uniquement
+U0235,Ousmane Niang 235,20,Homme,Saint-Louis,Micro-entrepreneur,24,Compte bancaire uniquement
+U0236,Ndeye Seck 236,43,Femme,Dakar,Freelance,36,Compte bancaire + mobile money
+U0237,Serigne Diop 237,36,Homme,Kolda,Micro-entrepreneur,35,Mobile money uniquement
+U0238,Serigne Gueye 238,25,Homme,Ziguinchor,Freelance,5,Mobile money uniquement
+U0239,Ibrahima Diallo 239,34,Homme,Saint-Louis,Micro-entrepreneur,15,Aucun compte formel
+U0240,Sokhna Cisse 240,34,Femme,Kolda,Freelance,60,Mobile money uniquement
+U0241,Pape Gueye 241,36,Homme,Thiès,Jeune actif,43,Mobile money uniquement
+U0242,Cheikh Cisse 242,25,Homme,Louga,Vendeur en ligne,25,Mobile money uniquement
+U0243,Mamadou Ba 243,42,Homme,Saint-Louis,Vendeur en ligne,28,Mobile money uniquement
+U0244,Ibrahima Faye 244,29,Homme,Tambacounda,Vendeur en ligne,18,Compte bancaire + mobile money
+U0245,Serigne Fall 245,23,Homme,Dakar,Micro-entrepreneur,48,Compte bancaire + mobile money
+U0246,Mamadou Sow 246,45,Homme,Louga,Freelance,44,Mobile money uniquement
+U0247,Cheikh Cisse 247,33,Homme,Dakar,Freelance,25,Mobile money uniquement
+U0248,Serigne Diop 248,19,Homme,Saint-Louis,Freelance,3,Compte bancaire + mobile money
+U0249,Ndeye Fall 249,23,Femme,Dakar,Freelance,17,Mobile money uniquement
+U0250,Ndeye Ndiaye 250,37,Femme,Thiès,Vendeur en ligne,17,Compte bancaire uniquement

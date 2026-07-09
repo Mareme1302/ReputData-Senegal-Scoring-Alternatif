@@ -1,0 +1,3092 @@
+﻿id_revenu,id_utilisateur,mois,source_revenu,montant_revenu,canal_reception,revenu_recurrent
+R000001,U0001,2025-08,Livraisons,158839,Virement,Non
+R000002,U0001,2025-09,Course directe,72193,Mobile money,Non
+R000003,U0001,2025-10,Course directe,128000,Mobile money,Oui
+R000004,U0001,2026-01,Livraisons,110000,Mobile money,Non
+R000005,U0001,2026-01,Bonus plateforme,113178,Virement,Oui
+R000006,U0001,2026-02,Bonus plateforme,110000,Virement,Oui
+R000007,U0001,2026-03,Livraisons,146000,Mobile money,Non
+R000008,U0001,2026-04,Livraisons,60999,Mobile money,Non
+R000009,U0001,2026-05,Course directe,66000,Cash,Oui
+R000010,U0001,2026-06,Livraisons,134000,Mobile money,Non
+R000011,U0002,2025-07,Bonus plateforme,119193,Mobile money,Oui
+R000012,U0002,2025-08,Bonus plateforme,34114,Cash,Non
+R000013,U0002,2025-08,Livraisons,46000,Virement,Oui
+R000014,U0002,2025-10,Bonus plateforme,141608,Virement,Oui
+R000015,U0002,2025-11,Bonus plateforme,30000,Mobile money,Non
+R000016,U0002,2025-12,Bonus plateforme,101000,Mobile money,Oui
+R000017,U0002,2025-12,Livraisons,90000,Mobile money,Oui
+R000018,U0003,2025-09,Mission ponctuelle,103793,Mobile money,Non
+R000019,U0003,2025-09,Salaire partiel,49583,Cash,Oui
+R000020,U0003,2025-12,Petit commerce,42188,Mobile money,Oui
+R000021,U0003,2026-01,Mission ponctuelle,78464,Cash,Non
+R000022,U0003,2026-01,Petit commerce,89958,Virement,Oui
+R000023,U0003,2026-01,Salaire partiel,112818,Mobile money,Oui
+R000024,U0003,2026-02,Salaire partiel,59053,Mobile money,Non
+R000025,U0003,2026-02,Mission ponctuelle,67181,Mobile money,Oui
+R000026,U0003,2026-02,Salaire partiel,74728,Cash,Oui
+R000027,U0003,2026-06,Salaire partiel,124120,Mobile money,Non
+R000028,U0003,2026-06,Salaire partiel,167000,Mobile money,Oui
+R000029,U0004,2025-07,Prestation digitale,245561,Mobile money,Non
+R000030,U0004,2025-08,Contrat ponctuel,92000,Mobile money,Oui
+R000031,U0004,2025-08,Contrat ponctuel,88000,Mobile money,Non
+R000032,U0004,2025-09,Contrat ponctuel,64947,Virement,Oui
+R000033,U0004,2025-10,Mission freelance,197168,Mobile money,Oui
+R000034,U0004,2025-10,Contrat ponctuel,210000,Mobile money,Oui
+R000035,U0004,2025-10,Prestation digitale,135651,Mobile money,Oui
+R000036,U0004,2025-11,Mission freelance,50412,Mobile money,Oui
+R000037,U0004,2025-12,Contrat ponctuel,176351,Mobile money,Oui
+R000038,U0004,2026-03,Mission freelance,63383,Mobile money,Non
+R000039,U0004,2026-04,Prestation digitale,189742,Mobile money,Non
+R000040,U0004,2026-05,Prestation digitale,291341,Mobile money,Oui
+R000041,U0005,2025-07,Marketplace,214421,Cash,Non
+R000042,U0005,2025-08,Commande WhatsApp,236549,Mobile money,Non
+R000043,U0005,2025-08,Vente en ligne,224878,Mobile money,Oui
+R000044,U0005,2025-12,Commande WhatsApp,86000,Mobile money,Oui
+R000045,U0005,2025-12,Marketplace,214000,Mobile money,Non
+R000046,U0005,2026-02,Commande WhatsApp,60605,Mobile money,Non
+R000047,U0005,2026-03,Vente en ligne,158000,Mobile money,Oui
+R000048,U0005,2026-03,Vente en ligne,104000,Virement,Oui
+R000049,U0005,2026-05,Marketplace,127721,Mobile money,Oui
+R000050,U0005,2026-05,Vente en ligne,80721,Mobile money,Oui
+R000051,U0005,2026-05,Commande WhatsApp,117000,Mobile money,Non
+R000052,U0005,2026-06,Vente en ligne,221552,Virement,Non
+R000053,U0006,2025-07,Prestation,101000,Mobile money,Non
+R000054,U0006,2026-01,Prestation,206000,Mobile money,Oui
+R000055,U0006,2026-03,Maintenance,49000,Virement,Non
+R000056,U0006,2026-03,Service client,160000,Mobile money,Oui
+R000057,U0006,2026-03,Service client,39240,Cash,Oui
+R000058,U0006,2026-04,Maintenance,235306,Mobile money,Non
+R000059,U0006,2026-05,Prestation,164000,Mobile money,Non
+R000060,U0006,2026-06,Maintenance,148000,Mobile money,Oui
+R000061,U0007,2025-07,Livraisons,77336,Cash,Oui
+R000062,U0007,2025-08,Livraisons,39860,Mobile money,Non
+R000063,U0007,2025-08,Course directe,69000,Cash,Oui
+R000064,U0007,2025-09,Bonus plateforme,93435,Mobile money,Oui
+R000065,U0007,2025-10,Bonus plateforme,37863,Mobile money,Non
+R000066,U0007,2025-10,Livraisons,31558,Mobile money,Non
+R000067,U0007,2025-11,Bonus plateforme,24407,Cash,Non
+R000068,U0007,2025-11,Course directe,140029,Mobile money,Non
+R000069,U0007,2025-11,Livraisons,46536,Cash,Oui
+R000070,U0007,2025-12,Livraisons,62885,Cash,Oui
+R000071,U0007,2026-03,Course directe,76173,Cash,Oui
+R000072,U0007,2026-03,Livraisons,123043,Mobile money,Oui
+R000073,U0007,2026-03,Course directe,126421,Mobile money,Oui
+R000074,U0007,2026-04,Livraisons,48618,Mobile money,Non
+R000075,U0007,2026-04,Bonus plateforme,140000,Mobile money,Non
+R000076,U0007,2026-04,Course directe,133000,Cash,Non
+R000077,U0007,2026-05,Livraisons,30919,Virement,Oui
+R000078,U0007,2026-05,Course directe,108686,Mobile money,Non
+R000079,U0007,2026-06,Livraisons,96066,Mobile money,Oui
+R000080,U0008,2025-07,Service client,223000,Cash,Oui
+R000081,U0008,2025-07,Prestation,192000,Cash,Oui
+R000082,U0008,2025-08,Prestation,71000,Mobile money,Non
+R000083,U0008,2026-02,Prestation,173625,Mobile money,Non
+R000084,U0008,2026-03,Prestation,217746,Mobile money,Oui
+R000085,U0008,2026-06,Service client,69000,Mobile money,Oui
+R000086,U0009,2025-07,Commande WhatsApp,200806,Mobile money,Non
+R000087,U0009,2025-08,Marketplace,139000,Mobile money,Oui
+R000088,U0009,2025-08,Commande WhatsApp,78513,Mobile money,Oui
+R000089,U0009,2025-09,Commande WhatsApp,82327,Mobile money,Non
+R000090,U0009,2025-10,Vente en ligne,114690,Cash,Oui
+R000091,U0009,2025-11,Vente en ligne,65775,Mobile money,Oui
+R000092,U0009,2025-11,Commande WhatsApp,62955,Cash,Oui
+R000093,U0009,2026-01,Marketplace,40863,Mobile money,Oui
+R000094,U0009,2026-01,Commande WhatsApp,223148,Mobile money,Oui
+R000095,U0009,2026-02,Marketplace,44425,Cash,Non
+R000096,U0009,2026-03,Commande WhatsApp,110456,Cash,Oui
+R000097,U0009,2026-03,Commande WhatsApp,57637,Mobile money,Non
+R000098,U0009,2026-04,Commande WhatsApp,42417,Cash,Non
+R000099,U0009,2026-04,Marketplace,170778,Cash,Non
+R000100,U0009,2026-04,Vente en ligne,137899,Mobile money,Non
+R000101,U0009,2026-05,Vente en ligne,203032,Mobile money,Oui
+R000102,U0009,2026-06,Commande WhatsApp,182351,Cash,Non
+R000103,U0009,2026-06,Marketplace,214052,Cash,Non
+R000104,U0009,2026-06,Commande WhatsApp,113330,Mobile money,Non
+R000105,U0010,2025-08,Bonus plateforme,111000,Mobile money,Non
+R000106,U0010,2025-08,Bonus plateforme,94000,Mobile money,Non
+R000107,U0010,2025-10,Livraisons,104000,Virement,Oui
+R000108,U0010,2025-12,Bonus plateforme,109000,Cash,Non
+R000109,U0010,2026-01,Course directe,66000,Mobile money,Oui
+R000110,U0010,2026-03,Livraisons,103515,Virement,Oui
+R000111,U0010,2026-03,Livraisons,125000,Cash,Non
+R000112,U0010,2026-04,Livraisons,117099,Virement,Oui
+R000113,U0010,2026-04,Course directe,124000,Cash,Oui
+R000114,U0010,2026-05,Bonus plateforme,51000,Cash,Non
+R000115,U0011,2025-07,Vente en ligne,109000,Mobile money,Oui
+R000116,U0011,2025-07,Marketplace,251921,Mobile money,Non
+R000117,U0011,2025-08,Commande WhatsApp,176967,Mobile money,Non
+R000118,U0011,2025-08,Commande WhatsApp,224665,Virement,Oui
+R000119,U0011,2025-10,Marketplace,111000,Virement,Oui
+R000120,U0011,2026-02,Marketplace,140000,Mobile money,Oui
+R000121,U0012,2025-08,Commande WhatsApp,60000,Cash,Oui
+R000122,U0012,2025-10,Commande WhatsApp,93000,Cash,Non
+R000123,U0012,2025-11,Marketplace,192769,Virement,Non
+R000124,U0012,2025-11,Marketplace,179928,Cash,Oui
+R000125,U0012,2025-11,Commande WhatsApp,58882,Mobile money,Non
+R000126,U0012,2025-12,Marketplace,39997,Virement,Non
+R000127,U0012,2026-01,Marketplace,220000,Virement,Non
+R000128,U0012,2026-02,Commande WhatsApp,72000,Mobile money,Oui
+R000129,U0012,2026-02,Marketplace,145977,Mobile money,Non
+R000130,U0012,2026-02,Vente en ligne,148469,Virement,Oui
+R000131,U0012,2026-04,Vente en ligne,155123,Mobile money,Non
+R000132,U0012,2026-06,Marketplace,174507,Virement,Oui
+R000133,U0013,2025-07,Mission ponctuelle,143830,Virement,Non
+R000134,U0013,2025-07,Petit commerce,141000,Virement,Oui
+R000135,U0013,2025-08,Salaire partiel,124813,Mobile money,Oui
+R000136,U0013,2025-10,Petit commerce,43233,Mobile money,Non
+R000137,U0013,2025-12,Mission ponctuelle,105887,Virement,Oui
+R000138,U0013,2025-12,Mission ponctuelle,114449,Cash,Non
+R000139,U0013,2026-01,Mission ponctuelle,150425,Virement,Non
+R000140,U0013,2026-02,Mission ponctuelle,27453,Mobile money,Non
+R000141,U0013,2026-03,Mission ponctuelle,42757,Mobile money,Oui
+R000142,U0013,2026-03,Salaire partiel,127289,Virement,Oui
+R000143,U0013,2026-04,Petit commerce,160306,Cash,Non
+R000144,U0013,2026-05,Petit commerce,49855,Virement,Non
+R000145,U0013,2026-05,Salaire partiel,119443,Cash,Oui
+R000146,U0013,2026-06,Petit commerce,49937,Cash,Oui
+R000147,U0014,2025-07,Commande WhatsApp,99000,Mobile money,Oui
+R000148,U0014,2025-08,Vente en ligne,204000,Mobile money,Non
+R000149,U0014,2025-09,Marketplace,107000,Mobile money,Oui
+R000150,U0014,2025-09,Vente en ligne,102000,Cash,Oui
+R000151,U0014,2025-09,Commande WhatsApp,160657,Cash,Non
+R000152,U0014,2025-10,Vente en ligne,38000,Virement,Non
+R000153,U0014,2025-12,Commande WhatsApp,64929,Mobile money,Non
+R000154,U0014,2025-12,Vente en ligne,127372,Mobile money,Oui
+R000155,U0014,2026-02,Vente en ligne,122683,Cash,Non
+R000156,U0014,2026-06,Vente en ligne,135000,Mobile money,Oui
+R000157,U0015,2025-07,Maintenance,261936,Cash,Oui
+R000158,U0015,2025-07,Service client,203501,Cash,Oui
+R000159,U0015,2025-09,Prestation,48957,Cash,Oui
+R000160,U0015,2025-09,Prestation,184000,Cash,Oui
+R000161,U0015,2025-09,Prestation,210602,Cash,Oui
+R000162,U0015,2025-11,Maintenance,90699,Mobile money,Non
+R000163,U0015,2025-12,Maintenance,58000,Mobile money,Non
+R000164,U0015,2026-01,Prestation,189000,Cash,Non
+R000165,U0015,2026-02,Prestation,266440,Cash,Non
+R000166,U0015,2026-02,Maintenance,171776,Virement,Oui
+R000167,U0015,2026-02,Service client,126031,Virement,Non
+R000168,U0015,2026-04,Service client,87774,Mobile money,Oui
+R000169,U0015,2026-04,Service client,207634,Mobile money,Non
+R000170,U0015,2026-04,Service client,253739,Mobile money,Oui
+R000171,U0015,2026-05,Service client,219084,Virement,Oui
+R000172,U0015,2026-05,Prestation,248046,Mobile money,Non
+R000173,U0016,2025-09,Prestation digitale,195000,Mobile money,Non
+R000174,U0016,2025-09,Prestation digitale,92000,Mobile money,Oui
+R000175,U0016,2025-11,Mission freelance,224820,Mobile money,Non
+R000176,U0016,2025-12,Mission freelance,157000,Mobile money,Oui
+R000177,U0016,2026-04,Prestation digitale,61107,Mobile money,Non
+R000178,U0016,2026-06,Mission freelance,247000,Mobile money,Oui
+R000179,U0017,2025-11,Vente boutique,188000,Mobile money,Oui
+R000180,U0017,2025-11,Vente boutique,298000,Mobile money,Non
+R000181,U0017,2025-12,Service local,153837,Mobile money,Oui
+R000182,U0017,2026-03,Commande client,217446,Cash,Non
+R000183,U0017,2026-03,Commande client,310000,Virement,Oui
+R000184,U0017,2026-03,Service local,317000,Mobile money,Oui
+R000185,U0017,2026-05,Service local,253109,Cash,Oui
+R000186,U0017,2026-05,Commande client,148561,Cash,Oui
+R000187,U0018,2025-07,Bonus plateforme,129966,Mobile money,Oui
+R000188,U0018,2025-07,Course directe,96000,Mobile money,Oui
+R000189,U0018,2025-10,Livraisons,106341,Cash,Oui
+R000190,U0018,2025-11,Bonus plateforme,151229,Mobile money,Oui
+R000191,U0018,2025-11,Livraisons,127000,Mobile money,Oui
+R000192,U0018,2025-12,Livraisons,127000,Cash,Oui
+R000193,U0018,2026-03,Livraisons,97000,Mobile money,Oui
+R000194,U0018,2026-03,Livraisons,47000,Cash,Non
+R000195,U0018,2026-04,Course directe,76000,Cash,Oui
+R000196,U0018,2026-05,Bonus plateforme,124000,Cash,Oui
+R000197,U0019,2025-07,Commande client,150000,Virement,Oui
+R000198,U0019,2025-09,Vente boutique,340833,Mobile money,Oui
+R000199,U0019,2025-09,Commande client,77000,Mobile money,Non
+R000200,U0019,2025-10,Commande client,244353,Mobile money,Non
+R000201,U0019,2025-10,Service local,187000,Cash,Oui
+R000202,U0019,2025-10,Commande client,62000,Virement,Oui
+R000203,U0019,2025-11,Vente boutique,110000,Mobile money,Oui
+R000204,U0019,2025-11,Vente boutique,120945,Mobile money,Non
+R000205,U0019,2026-05,Commande client,277543,Cash,Non
+R000206,U0019,2026-05,Service local,101646,Mobile money,Oui
+R000207,U0020,2025-07,Commande WhatsApp,183000,Mobile money,Non
+R000208,U0020,2025-07,Marketplace,167000,Mobile money,Oui
+R000209,U0020,2025-10,Commande WhatsApp,163000,Cash,Oui
+R000210,U0020,2025-11,Marketplace,197000,Mobile money,Oui
+R000211,U0020,2025-12,Vente en ligne,208000,Mobile money,Oui
+R000212,U0021,2025-07,Mission ponctuelle,175310,Cash,Non
+R000213,U0021,2025-08,Petit commerce,193283,Mobile money,Oui
+R000214,U0021,2025-08,Salaire partiel,111000,Mobile money,Non
+R000215,U0021,2025-10,Salaire partiel,202220,Cash,Non
+R000216,U0021,2025-12,Petit commerce,142539,Cash,Oui
+R000217,U0021,2025-12,Petit commerce,136328,Cash,Non
+R000218,U0021,2026-01,Mission ponctuelle,72261,Mobile money,Oui
+R000219,U0021,2026-01,Salaire partiel,137734,Cash,Non
+R000220,U0021,2026-02,Mission ponctuelle,158957,Mobile money,Oui
+R000221,U0021,2026-03,Salaire partiel,149000,Mobile money,Oui
+R000222,U0021,2026-03,Salaire partiel,99927,Cash,Non
+R000223,U0021,2026-04,Petit commerce,96897,Mobile money,Non
+R000224,U0021,2026-04,Petit commerce,39787,Cash,Non
+R000225,U0021,2026-05,Petit commerce,55422,Virement,Non
+R000226,U0022,2025-07,Marketplace,185296,Mobile money,Non
+R000227,U0022,2025-08,Marketplace,174000,Mobile money,Non
+R000228,U0022,2025-08,Marketplace,168000,Mobile money,Non
+R000229,U0022,2025-10,Vente en ligne,76110,Virement,Non
+R000230,U0022,2025-11,Commande WhatsApp,205305,Mobile money,Oui
+R000231,U0022,2025-12,Marketplace,35621,Mobile money,Oui
+R000232,U0022,2026-01,Marketplace,123000,Mobile money,Non
+R000233,U0022,2026-03,Commande WhatsApp,88000,Mobile money,Oui
+R000234,U0022,2026-03,Commande WhatsApp,79000,Cash,Non
+R000235,U0022,2026-04,Vente en ligne,77000,Virement,Non
+R000236,U0022,2026-05,Marketplace,219366,Mobile money,Oui
+R000237,U0023,2025-07,Salaire partiel,101270,Cash,Oui
+R000238,U0023,2025-08,Mission ponctuelle,112000,Mobile money,Oui
+R000239,U0023,2025-09,Salaire partiel,182622,Cash,Oui
+R000240,U0023,2025-09,Salaire partiel,135950,Cash,Non
+R000241,U0023,2025-10,Mission ponctuelle,30415,Cash,Non
+R000242,U0023,2025-10,Salaire partiel,104127,Mobile money,Oui
+R000243,U0023,2025-11,Petit commerce,67707,Mobile money,Oui
+R000244,U0023,2025-11,Mission ponctuelle,61445,Mobile money,Oui
+R000245,U0023,2025-11,Petit commerce,147173,Mobile money,Non
+R000246,U0023,2025-12,Petit commerce,193485,Cash,Non
+R000247,U0023,2025-12,Petit commerce,180000,Virement,Non
+R000248,U0023,2026-02,Mission ponctuelle,102735,Mobile money,Non
+R000249,U0023,2026-03,Mission ponctuelle,82853,Cash,Oui
+R000250,U0023,2026-03,Petit commerce,79373,Mobile money,Oui
+R000251,U0023,2026-05,Salaire partiel,123607,Virement,Non
+R000252,U0023,2026-06,Salaire partiel,40456,Mobile money,Oui
+R000253,U0024,2025-07,Service client,120503,Virement,Oui
+R000254,U0024,2025-07,Service client,51486,Cash,Non
+R000255,U0024,2025-08,Prestation,43608,Mobile money,Oui
+R000256,U0024,2025-09,Service client,150936,Mobile money,Non
+R000257,U0024,2025-10,Service client,94582,Mobile money,Oui
+R000258,U0024,2025-10,Maintenance,147225,Mobile money,Non
+R000259,U0024,2025-11,Service client,233000,Mobile money,Non
+R000260,U0024,2025-11,Maintenance,150000,Mobile money,Oui
+R000261,U0024,2025-12,Prestation,49654,Mobile money,Oui
+R000262,U0024,2026-01,Prestation,244643,Cash,Oui
+R000263,U0024,2026-02,Prestation,192042,Virement,Non
+R000264,U0024,2026-02,Maintenance,194000,Mobile money,Oui
+R000265,U0024,2026-03,Maintenance,112580,Cash,Non
+R000266,U0024,2026-04,Prestation,212695,Cash,Oui
+R000267,U0024,2026-04,Service client,102188,Mobile money,Oui
+R000268,U0025,2025-07,Maintenance,98499,Cash,Oui
+R000269,U0025,2025-08,Service client,67544,Mobile money,Oui
+R000270,U0025,2025-08,Maintenance,135000,Mobile money,Oui
+R000271,U0025,2025-09,Maintenance,179198,Virement,Oui
+R000272,U0025,2025-09,Prestation,138210,Cash,Oui
+R000273,U0025,2025-10,Prestation,114898,Mobile money,Oui
+R000274,U0025,2025-11,Prestation,261235,Virement,Non
+R000275,U0025,2025-11,Maintenance,161564,Cash,Non
+R000276,U0025,2025-12,Service client,78883,Mobile money,Oui
+R000277,U0025,2025-12,Prestation,201243,Cash,Non
+R000278,U0025,2025-12,Prestation,67981,Mobile money,Oui
+R000279,U0025,2026-01,Prestation,222004,Cash,Non
+R000280,U0025,2026-02,Service client,45333,Mobile money,Non
+R000281,U0025,2026-02,Maintenance,176221,Cash,Non
+R000282,U0025,2026-02,Prestation,96169,Mobile money,Oui
+R000283,U0025,2026-03,Service client,267269,Mobile money,Non
+R000284,U0025,2026-03,Service client,198826,Mobile money,Non
+R000285,U0025,2026-04,Maintenance,212210,Mobile money,Oui
+R000286,U0025,2026-04,Maintenance,171000,Mobile money,Non
+R000287,U0025,2026-05,Service client,204444,Mobile money,Oui
+R000288,U0025,2026-05,Prestation,75000,Mobile money,Non
+R000289,U0025,2026-05,Maintenance,144880,Virement,Non
+R000290,U0025,2026-06,Service client,107024,Mobile money,Non
+R000291,U0025,2026-06,Maintenance,159710,Mobile money,Oui
+R000292,U0025,2026-06,Prestation,167167,Mobile money,Oui
+R000293,U0026,2025-09,Service local,100306,Mobile money,Non
+R000294,U0026,2025-09,Service local,253000,Mobile money,Oui
+R000295,U0026,2025-09,Vente boutique,224129,Mobile money,Non
+R000296,U0026,2025-10,Commande client,131000,Cash,Oui
+R000297,U0026,2025-10,Service local,168131,Cash,Oui
+R000298,U0026,2025-12,Vente boutique,231334,Mobile money,Oui
+R000299,U0026,2025-12,Service local,304000,Mobile money,Non
+R000300,U0026,2026-04,Vente boutique,264790,Mobile money,Oui
+R000301,U0026,2026-04,Service local,93170,Mobile money,Oui
+R000302,U0026,2026-04,Commande client,72000,Mobile money,Oui
+R000303,U0026,2026-05,Commande client,70084,Mobile money,Non
+R000304,U0026,2026-05,Service local,139000,Mobile money,Oui
+R000305,U0026,2026-05,Vente boutique,104000,Mobile money,Non
+R000306,U0026,2026-06,Service local,288543,Mobile money,Non
+R000307,U0027,2025-07,Service local,118000,Mobile money,Non
+R000308,U0027,2025-08,Vente boutique,256000,Virement,Non
+R000309,U0027,2025-08,Service local,153000,Mobile money,Non
+R000310,U0027,2025-09,Service local,269410,Mobile money,Non
+R000311,U0027,2025-11,Commande client,300000,Virement,Non
+R000312,U0027,2026-04,Vente boutique,216667,Mobile money,Oui
+R000313,U0027,2026-04,Commande client,109514,Virement,Oui
+R000314,U0027,2026-05,Vente boutique,144866,Cash,Oui
+R000315,U0027,2026-05,Vente boutique,175505,Virement,Non
+R000316,U0027,2026-06,Vente boutique,181098,Mobile money,Non
+R000317,U0028,2025-07,Mission ponctuelle,169877,Mobile money,Non
+R000318,U0028,2025-07,Salaire partiel,115000,Cash,Oui
+R000319,U0028,2025-07,Petit commerce,151296,Mobile money,Oui
+R000320,U0028,2025-08,Petit commerce,143082,Mobile money,Non
+R000321,U0028,2025-10,Petit commerce,122000,Virement,Oui
+R000322,U0028,2025-12,Salaire partiel,77000,Mobile money,Non
+R000323,U0028,2026-05,Petit commerce,127000,Cash,Non
+R000324,U0028,2026-05,Mission ponctuelle,130932,Mobile money,Oui
+R000325,U0028,2026-06,Petit commerce,100043,Mobile money,Oui
+R000326,U0028,2026-06,Salaire partiel,168008,Mobile money,Non
+R000327,U0029,2025-07,Livraisons,150081,Cash,Oui
+R000328,U0029,2025-07,Course directe,118858,Mobile money,Oui
+R000329,U0029,2025-08,Course directe,34306,Mobile money,Oui
+R000330,U0029,2025-08,Bonus plateforme,73000,Cash,Non
+R000331,U0029,2025-08,Bonus plateforme,123817,Mobile money,Oui
+R000332,U0029,2025-09,Course directe,54114,Mobile money,Oui
+R000333,U0029,2025-10,Bonus plateforme,123000,Mobile money,Non
+R000334,U0029,2025-10,Course directe,169023,Cash,Non
+R000335,U0029,2025-11,Bonus plateforme,102559,Mobile money,Oui
+R000336,U0029,2025-12,Course directe,179913,Mobile money,Oui
+R000337,U0029,2025-12,Bonus plateforme,94671,Mobile money,Oui
+R000338,U0029,2025-12,Livraisons,39185,Cash,Oui
+R000339,U0029,2026-02,Bonus plateforme,151235,Cash,Oui
+R000340,U0029,2026-03,Bonus plateforme,101000,Mobile money,Oui
+R000341,U0029,2026-04,Bonus plateforme,91503,Cash,Oui
+R000342,U0030,2025-07,Maintenance,82019,Mobile money,Oui
+R000343,U0030,2025-09,Service client,156502,Mobile money,Non
+R000344,U0030,2025-09,Prestation,198649,Virement,Non
+R000345,U0030,2025-09,Maintenance,58373,Virement,Non
+R000346,U0030,2025-11,Prestation,149000,Mobile money,Non
+R000347,U0030,2025-11,Prestation,83266,Cash,Oui
+R000348,U0030,2026-01,Prestation,208774,Mobile money,Non
+R000349,U0030,2026-03,Service client,136000,Mobile money,Non
+R000350,U0030,2026-03,Prestation,49669,Cash,Non
+R000351,U0030,2026-03,Prestation,50000,Mobile money,Non
+R000352,U0031,2025-07,Contrat ponctuel,253164,Cash,Oui
+R000353,U0031,2025-07,Prestation digitale,160005,Mobile money,Non
+R000354,U0031,2025-08,Mission freelance,108165,Mobile money,Non
+R000355,U0031,2025-08,Prestation digitale,144270,Mobile money,Oui
+R000356,U0031,2025-08,Contrat ponctuel,175180,Cash,Oui
+R000357,U0031,2025-09,Contrat ponctuel,157013,Mobile money,Non
+R000358,U0031,2025-10,Prestation digitale,86786,Mobile money,Oui
+R000359,U0031,2025-11,Contrat ponctuel,242000,Virement,Oui
+R000360,U0031,2025-11,Mission freelance,248776,Cash,Non
+R000361,U0031,2025-11,Mission freelance,240105,Mobile money,Oui
+R000362,U0031,2025-12,Prestation digitale,74255,Mobile money,Non
+R000363,U0031,2026-01,Prestation digitale,144052,Mobile money,Oui
+R000364,U0031,2026-02,Mission freelance,261090,Virement,Non
+R000365,U0031,2026-03,Contrat ponctuel,130049,Mobile money,Oui
+R000366,U0031,2026-03,Prestation digitale,134947,Cash,Oui
+R000367,U0031,2026-05,Mission freelance,47277,Cash,Oui
+R000368,U0031,2026-05,Mission freelance,85893,Mobile money,Oui
+R000369,U0031,2026-06,Mission freelance,280667,Mobile money,Oui
+R000370,U0032,2025-07,Service client,109605,Mobile money,Non
+R000371,U0032,2025-07,Service client,207845,Mobile money,Non
+R000372,U0032,2025-08,Service client,79709,Mobile money,Non
+R000373,U0032,2025-08,Prestation,236000,Mobile money,Non
+R000374,U0032,2025-08,Service client,109319,Mobile money,Non
+R000375,U0032,2025-09,Maintenance,159247,Mobile money,Oui
+R000376,U0032,2026-01,Maintenance,53711,Mobile money,Non
+R000377,U0032,2026-01,Maintenance,174440,Mobile money,Non
+R000378,U0032,2026-02,Prestation,141124,Virement,Non
+R000379,U0032,2026-02,Maintenance,91000,Mobile money,Non
+R000380,U0032,2026-04,Maintenance,71000,Virement,Non
+R000381,U0032,2026-04,Maintenance,217381,Cash,Oui
+R000382,U0032,2026-04,Prestation,122000,Virement,Non
+R000383,U0032,2026-06,Prestation,67735,Virement,Non
+R000384,U0032,2026-06,Maintenance,107000,Cash,Non
+R000385,U0033,2025-09,Mission freelance,151000,Mobile money,Non
+R000386,U0033,2025-09,Contrat ponctuel,191000,Mobile money,Oui
+R000387,U0033,2025-09,Mission freelance,154000,Mobile money,Oui
+R000388,U0033,2025-12,Mission freelance,53000,Mobile money,Oui
+R000389,U0033,2026-01,Mission freelance,228051,Mobile money,Non
+R000390,U0033,2026-02,Mission freelance,245438,Virement,Non
+R000391,U0033,2026-02,Prestation digitale,198000,Mobile money,Oui
+R000392,U0033,2026-03,Mission freelance,102000,Mobile money,Non
+R000393,U0034,2026-02,Vente en ligne,174072,Mobile money,Non
+R000394,U0034,2026-04,Commande WhatsApp,225808,Mobile money,Non
+R000395,U0034,2026-04,Vente en ligne,88000,Mobile money,Non
+R000396,U0034,2026-04,Commande WhatsApp,180000,Mobile money,Oui
+R000397,U0034,2026-05,Commande WhatsApp,167000,Mobile money,Oui
+R000398,U0034,2026-06,Vente en ligne,213000,Mobile money,Non
+R000399,U0034,2026-06,Commande WhatsApp,52551,Mobile money,Non
+R000400,U0035,2025-10,Maintenance,70000,Cash,Oui
+R000401,U0035,2025-10,Service client,136574,Mobile money,Non
+R000402,U0035,2025-12,Prestation,81000,Mobile money,Non
+R000403,U0035,2026-02,Prestation,83620,Mobile money,Non
+R000404,U0035,2026-03,Maintenance,110000,Mobile money,Non
+R000405,U0035,2026-03,Service client,170483,Mobile money,Non
+R000406,U0035,2026-03,Service client,222000,Virement,Non
+R000407,U0035,2026-05,Maintenance,224000,Mobile money,Non
+R000408,U0035,2026-05,Service client,62561,Cash,Oui
+R000409,U0035,2026-06,Prestation,87267,Mobile money,Oui
+R000410,U0036,2025-07,Prestation digitale,166957,Mobile money,Oui
+R000411,U0036,2025-08,Prestation digitale,61000,Cash,Oui
+R000412,U0036,2025-09,Contrat ponctuel,226520,Mobile money,Oui
+R000413,U0036,2025-09,Mission freelance,84366,Virement,Non
+R000414,U0036,2025-11,Mission freelance,145000,Cash,Oui
+R000415,U0036,2025-12,Prestation digitale,224167,Mobile money,Oui
+R000416,U0036,2025-12,Mission freelance,76055,Mobile money,Oui
+R000417,U0036,2026-01,Prestation digitale,96672,Virement,Non
+R000418,U0036,2026-01,Mission freelance,170000,Cash,Non
+R000419,U0036,2026-01,Contrat ponctuel,105000,Virement,Oui
+R000420,U0036,2026-02,Contrat ponctuel,121529,Mobile money,Oui
+R000421,U0036,2026-03,Contrat ponctuel,56000,Mobile money,Oui
+R000422,U0036,2026-03,Prestation digitale,132000,Cash,Oui
+R000423,U0036,2026-03,Contrat ponctuel,118000,Cash,Oui
+R000424,U0036,2026-04,Contrat ponctuel,74888,Mobile money,Oui
+R000425,U0036,2026-04,Prestation digitale,88838,Cash,Non
+R000426,U0036,2026-04,Prestation digitale,248631,Virement,Non
+R000427,U0036,2026-06,Contrat ponctuel,184980,Cash,Oui
+R000428,U0037,2025-07,Livraisons,118000,Mobile money,Non
+R000429,U0037,2025-10,Bonus plateforme,182355,Mobile money,Oui
+R000430,U0037,2025-11,Livraisons,111982,Virement,Non
+R000431,U0037,2025-11,Livraisons,75000,Virement,Oui
+R000432,U0037,2025-12,Bonus plateforme,74430,Cash,Non
+R000433,U0037,2026-03,Course directe,149544,Mobile money,Non
+R000434,U0037,2026-04,Livraisons,65651,Virement,Oui
+R000435,U0038,2025-07,Petit commerce,170000,Mobile money,Oui
+R000436,U0038,2025-08,Petit commerce,175000,Mobile money,Oui
+R000437,U0038,2025-08,Mission ponctuelle,49000,Mobile money,Oui
+R000438,U0038,2025-08,Petit commerce,62998,Cash,Non
+R000439,U0038,2025-09,Petit commerce,43417,Virement,Oui
+R000440,U0038,2025-09,Salaire partiel,41118,Cash,Non
+R000441,U0038,2025-10,Petit commerce,53000,Mobile money,Oui
+R000442,U0038,2025-10,Salaire partiel,116000,Mobile money,Oui
+R000443,U0038,2025-11,Mission ponctuelle,197855,Virement,Non
+R000444,U0038,2026-03,Salaire partiel,86000,Virement,Oui
+R000445,U0038,2026-04,Mission ponctuelle,38000,Cash,Non
+R000446,U0038,2026-05,Salaire partiel,129000,Mobile money,Oui
+R000447,U0039,2025-07,Petit commerce,56271,Mobile money,Non
+R000448,U0039,2025-09,Mission ponctuelle,143572,Virement,Oui
+R000449,U0039,2025-10,Mission ponctuelle,55380,Mobile money,Non
+R000450,U0039,2026-01,Mission ponctuelle,130553,Mobile money,Oui
+R000451,U0039,2026-01,Salaire partiel,51683,Mobile money,Non
+R000452,U0039,2026-02,Mission ponctuelle,48279,Virement,Oui
+R000453,U0039,2026-03,Petit commerce,73911,Mobile money,Non
+R000454,U0039,2026-06,Salaire partiel,154400,Cash,Non
+R000455,U0040,2025-07,Petit commerce,73000,Cash,Non
+R000456,U0040,2025-07,Salaire partiel,120000,Cash,Oui
+R000457,U0040,2025-08,Salaire partiel,166000,Virement,Oui
+R000458,U0040,2025-08,Mission ponctuelle,87094,Mobile money,Oui
+R000459,U0040,2025-09,Petit commerce,216142,Mobile money,Non
+R000460,U0040,2025-09,Mission ponctuelle,53000,Mobile money,Non
+R000461,U0040,2025-09,Mission ponctuelle,144000,Mobile money,Oui
+R000462,U0040,2025-12,Salaire partiel,39109,Cash,Oui
+R000463,U0040,2025-12,Salaire partiel,71000,Mobile money,Non
+R000464,U0040,2026-01,Petit commerce,85000,Mobile money,Non
+R000465,U0040,2026-02,Mission ponctuelle,140000,Mobile money,Oui
+R000466,U0040,2026-03,Salaire partiel,97000,Cash,Oui
+R000467,U0040,2026-03,Mission ponctuelle,113000,Cash,Non
+R000468,U0040,2026-03,Petit commerce,131000,Mobile money,Oui
+R000469,U0040,2026-04,Mission ponctuelle,131939,Mobile money,Non
+R000470,U0040,2026-04,Mission ponctuelle,107000,Mobile money,Non
+R000471,U0040,2026-04,Petit commerce,110902,Mobile money,Non
+R000472,U0040,2026-05,Salaire partiel,148607,Mobile money,Oui
+R000473,U0040,2026-05,Petit commerce,91246,Mobile money,Oui
+R000474,U0040,2026-06,Salaire partiel,98135,Cash,Oui
+R000475,U0041,2025-07,Salaire partiel,50391,Mobile money,Non
+R000476,U0041,2025-08,Salaire partiel,96227,Virement,Oui
+R000477,U0041,2025-09,Petit commerce,83892,Mobile money,Oui
+R000478,U0041,2025-09,Mission ponctuelle,128038,Virement,Non
+R000479,U0041,2025-09,Mission ponctuelle,69000,Cash,Oui
+R000480,U0041,2025-10,Salaire partiel,54224,Virement,Non
+R000481,U0041,2025-10,Salaire partiel,104083,Cash,Oui
+R000482,U0041,2025-11,Salaire partiel,149165,Virement,Non
+R000483,U0041,2025-11,Mission ponctuelle,108163,Virement,Non
+R000484,U0041,2025-11,Salaire partiel,74510,Cash,Oui
+R000485,U0041,2025-12,Salaire partiel,82707,Mobile money,Oui
+R000486,U0041,2026-01,Petit commerce,109256,Cash,Non
+R000487,U0041,2026-01,Salaire partiel,50619,Virement,Non
+R000488,U0041,2026-01,Petit commerce,40181,Cash,Oui
+R000489,U0041,2026-02,Mission ponctuelle,147712,Virement,Non
+R000490,U0041,2026-03,Mission ponctuelle,42289,Mobile money,Non
+R000491,U0041,2026-03,Petit commerce,160647,Cash,Non
+R000492,U0041,2026-04,Mission ponctuelle,68576,Mobile money,Non
+R000493,U0041,2026-04,Salaire partiel,36648,Mobile money,Non
+R000494,U0041,2026-05,Petit commerce,137187,Mobile money,Oui
+R000495,U0041,2026-05,Salaire partiel,140882,Cash,Oui
+R000496,U0041,2026-05,Mission ponctuelle,78137,Virement,Oui
+R000497,U0041,2026-06,Mission ponctuelle,41957,Virement,Oui
+R000498,U0041,2026-06,Mission ponctuelle,84965,Mobile money,Oui
+R000499,U0042,2025-08,Mission ponctuelle,92208,Mobile money,Non
+R000500,U0042,2025-08,Petit commerce,110000,Mobile money,Oui
+R000501,U0042,2025-10,Mission ponctuelle,125905,Cash,Non
+R000502,U0042,2025-10,Petit commerce,171716,Cash,Oui
+R000503,U0042,2025-11,Petit commerce,166668,Mobile money,Oui
+R000504,U0042,2025-11,Salaire partiel,134000,Virement,Oui
+R000505,U0042,2025-12,Petit commerce,151000,Mobile money,Non
+R000506,U0042,2025-12,Mission ponctuelle,49000,Mobile money,Oui
+R000507,U0042,2026-03,Salaire partiel,139007,Mobile money,Non
+R000508,U0042,2026-03,Salaire partiel,116000,Mobile money,Non
+R000509,U0042,2026-04,Petit commerce,41000,Virement,Oui
+R000510,U0042,2026-06,Petit commerce,103000,Mobile money,Oui
+R000511,U0043,2025-07,Service client,101000,Cash,Non
+R000512,U0043,2025-08,Maintenance,176356,Cash,Oui
+R000513,U0043,2025-09,Service client,119445,Cash,Non
+R000514,U0043,2025-09,Prestation,98208,Cash,Oui
+R000515,U0043,2025-10,Prestation,221715,Mobile money,Oui
+R000516,U0043,2025-11,Service client,158715,Mobile money,Oui
+R000517,U0043,2025-12,Prestation,40000,Cash,Oui
+R000518,U0043,2025-12,Maintenance,174701,Mobile money,Non
+R000519,U0043,2025-12,Prestation,142224,Cash,Non
+R000520,U0043,2026-02,Maintenance,104487,Mobile money,Non
+R000521,U0043,2026-03,Prestation,234044,Mobile money,Oui
+R000522,U0043,2026-04,Maintenance,231000,Mobile money,Non
+R000523,U0043,2026-04,Prestation,120000,Virement,Oui
+R000524,U0043,2026-04,Maintenance,97000,Mobile money,Non
+R000525,U0044,2025-07,Vente boutique,208000,Cash,Non
+R000526,U0044,2025-08,Vente boutique,175264,Cash,Non
+R000527,U0044,2025-09,Commande client,88364,Mobile money,Non
+R000528,U0044,2025-09,Commande client,156673,Mobile money,Oui
+R000529,U0044,2025-10,Service local,81937,Cash,Oui
+R000530,U0044,2025-11,Vente boutique,236071,Virement,Non
+R000531,U0044,2025-11,Vente boutique,135000,Mobile money,Oui
+R000532,U0044,2025-12,Vente boutique,54604,Cash,Non
+R000533,U0044,2026-01,Service local,61259,Virement,Oui
+R000534,U0044,2026-04,Service local,134440,Mobile money,Oui
+R000535,U0044,2026-06,Vente boutique,171561,Virement,Non
+R000536,U0044,2026-06,Vente boutique,110034,Mobile money,Oui
+R000537,U0045,2025-07,Mission ponctuelle,72843,Virement,Non
+R000538,U0045,2025-07,Mission ponctuelle,217283,Cash,Oui
+R000539,U0045,2025-08,Salaire partiel,189920,Virement,Oui
+R000540,U0045,2025-08,Mission ponctuelle,146637,Virement,Non
+R000541,U0045,2025-08,Petit commerce,169051,Mobile money,Oui
+R000542,U0045,2025-09,Salaire partiel,35854,Mobile money,Oui
+R000543,U0045,2025-09,Salaire partiel,103568,Mobile money,Oui
+R000544,U0045,2025-10,Mission ponctuelle,140730,Mobile money,Oui
+R000545,U0045,2025-10,Mission ponctuelle,47000,Cash,Non
+R000546,U0045,2025-10,Mission ponctuelle,107654,Mobile money,Non
+R000547,U0045,2025-11,Mission ponctuelle,37000,Cash,Non
+R000548,U0045,2025-11,Salaire partiel,97058,Mobile money,Non
+R000549,U0045,2025-11,Salaire partiel,90497,Cash,Non
+R000550,U0045,2025-12,Petit commerce,144110,Virement,Oui
+R000551,U0045,2025-12,Salaire partiel,96000,Virement,Non
+R000552,U0045,2025-12,Petit commerce,87560,Mobile money,Non
+R000553,U0045,2026-01,Mission ponctuelle,75000,Mobile money,Non
+R000554,U0045,2026-01,Salaire partiel,180639,Mobile money,Oui
+R000555,U0045,2026-02,Salaire partiel,76447,Mobile money,Oui
+R000556,U0045,2026-04,Mission ponctuelle,76459,Mobile money,Non
+R000557,U0045,2026-05,Salaire partiel,127352,Virement,Non
+R000558,U0046,2025-08,Marketplace,43003,Mobile money,Non
+R000559,U0046,2025-09,Commande WhatsApp,241278,Mobile money,Non
+R000560,U0046,2025-09,Vente en ligne,62000,Cash,Oui
+R000561,U0046,2025-10,Marketplace,99000,Mobile money,Non
+R000562,U0046,2025-11,Vente en ligne,140000,Mobile money,Oui
+R000563,U0046,2025-11,Vente en ligne,65651,Mobile money,Non
+R000564,U0046,2026-01,Vente en ligne,30885,Cash,Oui
+R000565,U0046,2026-02,Vente en ligne,166000,Mobile money,Oui
+R000566,U0046,2026-03,Marketplace,195000,Cash,Non
+R000567,U0046,2026-03,Commande WhatsApp,208000,Virement,Oui
+R000568,U0046,2026-05,Marketplace,84899,Mobile money,Oui
+R000569,U0046,2026-05,Commande WhatsApp,88000,Cash,Non
+R000570,U0046,2026-06,Marketplace,79114,Cash,Oui
+R000571,U0047,2025-08,Course directe,91092,Mobile money,Oui
+R000572,U0047,2025-10,Course directe,48513,Mobile money,Oui
+R000573,U0047,2025-10,Bonus plateforme,92428,Cash,Non
+R000574,U0047,2025-11,Livraisons,90978,Mobile money,Oui
+R000575,U0047,2025-12,Livraisons,40000,Mobile money,Non
+R000576,U0047,2025-12,Livraisons,21363,Virement,Non
+R000577,U0047,2026-02,Bonus plateforme,65535,Cash,Oui
+R000578,U0047,2026-04,Livraisons,85962,Virement,Oui
+R000579,U0047,2026-04,Livraisons,79788,Cash,Non
+R000580,U0047,2026-05,Bonus plateforme,64170,Mobile money,Non
+R000581,U0047,2026-05,Livraisons,109330,Mobile money,Non
+R000582,U0047,2026-06,Bonus plateforme,70792,Virement,Oui
+R000583,U0048,2025-07,Contrat ponctuel,71450,Mobile money,Non
+R000584,U0048,2025-08,Mission freelance,220597,Cash,Non
+R000585,U0048,2025-09,Mission freelance,77726,Cash,Non
+R000586,U0048,2025-09,Mission freelance,184093,Mobile money,Oui
+R000587,U0048,2025-10,Contrat ponctuel,162288,Virement,Non
+R000588,U0048,2025-10,Contrat ponctuel,147352,Cash,Non
+R000589,U0048,2025-11,Contrat ponctuel,213924,Mobile money,Non
+R000590,U0048,2025-11,Prestation digitale,71903,Cash,Non
+R000591,U0048,2025-11,Prestation digitale,109611,Mobile money,Oui
+R000592,U0048,2025-12,Mission freelance,216887,Cash,Oui
+R000593,U0048,2025-12,Contrat ponctuel,46210,Mobile money,Non
+R000594,U0048,2026-01,Prestation digitale,94637,Mobile money,Non
+R000595,U0048,2026-02,Mission freelance,178810,Mobile money,Oui
+R000596,U0048,2026-02,Contrat ponctuel,278250,Virement,Non
+R000597,U0048,2026-03,Mission freelance,141000,Mobile money,Oui
+R000598,U0048,2026-04,Mission freelance,155000,Cash,Non
+R000599,U0048,2026-04,Prestation digitale,92454,Mobile money,Non
+R000600,U0048,2026-05,Prestation digitale,112646,Mobile money,Non
+R000601,U0048,2026-05,Mission freelance,225679,Mobile money,Non
+R000602,U0048,2026-06,Mission freelance,90692,Cash,Non
+R000603,U0048,2026-06,Prestation digitale,212976,Mobile money,Non
+R000604,U0049,2026-01,Mission ponctuelle,110663,Mobile money,Non
+R000605,U0049,2026-02,Mission ponctuelle,102000,Mobile money,Oui
+R000606,U0049,2026-02,Salaire partiel,97000,Mobile money,Non
+R000607,U0049,2026-04,Salaire partiel,101433,Mobile money,Non
+R000608,U0049,2026-04,Mission ponctuelle,125000,Cash,Non
+R000609,U0050,2025-07,Commande client,54000,Mobile money,Oui
+R000610,U0050,2025-07,Service local,310000,Cash,Oui
+R000611,U0050,2025-08,Service local,147000,Virement,Non
+R000612,U0050,2025-09,Vente boutique,270521,Cash,Oui
+R000613,U0050,2026-02,Commande client,254000,Cash,Oui
+R000614,U0051,2025-07,Course directe,75237,Cash,Oui
+R000615,U0051,2025-08,Bonus plateforme,74240,Mobile money,Non
+R000616,U0051,2025-10,Bonus plateforme,136000,Mobile money,Non
+R000617,U0051,2025-11,Livraisons,131360,Virement,Oui
+R000618,U0051,2026-01,Livraisons,158759,Virement,Oui
+R000619,U0051,2026-03,Bonus plateforme,175715,Mobile money,Oui
+R000620,U0051,2026-04,Course directe,72988,Cash,Non
+R000621,U0051,2026-06,Livraisons,143200,Virement,Oui
+R000622,U0052,2025-07,Service local,61000,Cash,Non
+R000623,U0052,2025-07,Commande client,50000,Virement,Non
+R000624,U0052,2025-08,Vente boutique,312000,Mobile money,Non
+R000625,U0052,2025-09,Service local,227000,Mobile money,Non
+R000626,U0052,2025-09,Vente boutique,99056,Mobile money,Oui
+R000627,U0052,2025-10,Service local,65957,Mobile money,Non
+R000628,U0052,2025-10,Commande client,113000,Cash,Oui
+R000629,U0052,2025-12,Service local,154772,Mobile money,Oui
+R000630,U0052,2025-12,Service local,330000,Mobile money,Oui
+R000631,U0052,2026-02,Service local,313000,Mobile money,Oui
+R000632,U0052,2026-03,Vente boutique,201000,Cash,Oui
+R000633,U0052,2026-03,Commande client,150478,Cash,Non
+R000634,U0052,2026-04,Commande client,132000,Mobile money,Oui
+R000635,U0052,2026-04,Service local,84000,Mobile money,Non
+R000636,U0052,2026-06,Service local,71795,Mobile money,Oui
+R000637,U0053,2025-07,Mission ponctuelle,132886,Mobile money,Non
+R000638,U0053,2025-08,Mission ponctuelle,48902,Mobile money,Non
+R000639,U0053,2025-08,Salaire partiel,89847,Mobile money,Non
+R000640,U0053,2025-09,Petit commerce,41414,Mobile money,Oui
+R000641,U0053,2025-09,Salaire partiel,58000,Mobile money,Non
+R000642,U0053,2025-10,Petit commerce,48992,Mobile money,Non
+R000643,U0053,2025-11,Salaire partiel,60360,Cash,Oui
+R000644,U0053,2025-11,Petit commerce,180000,Cash,Non
+R000645,U0053,2026-01,Petit commerce,45000,Mobile money,Non
+R000646,U0053,2026-01,Petit commerce,114000,Virement,Oui
+R000647,U0053,2026-02,Petit commerce,59695,Mobile money,Non
+R000648,U0053,2026-03,Mission ponctuelle,134000,Cash,Non
+R000649,U0053,2026-06,Salaire partiel,57432,Mobile money,Oui
+R000650,U0053,2026-06,Petit commerce,34744,Cash,Oui
+R000651,U0054,2025-07,Commande WhatsApp,168550,Mobile money,Non
+R000652,U0054,2025-07,Commande WhatsApp,54000,Mobile money,Non
+R000653,U0054,2025-07,Commande WhatsApp,189468,Cash,Non
+R000654,U0054,2025-08,Commande WhatsApp,204000,Mobile money,Oui
+R000655,U0054,2025-10,Vente en ligne,177000,Mobile money,Non
+R000656,U0054,2025-12,Commande WhatsApp,191978,Mobile money,Oui
+R000657,U0054,2026-01,Marketplace,162854,Cash,Oui
+R000658,U0054,2026-02,Marketplace,136717,Cash,Non
+R000659,U0054,2026-04,Commande WhatsApp,117947,Mobile money,Non
+R000660,U0054,2026-05,Marketplace,106180,Mobile money,Oui
+R000661,U0054,2026-06,Marketplace,72218,Mobile money,Oui
+R000662,U0054,2026-06,Vente en ligne,200178,Cash,Non
+R000663,U0055,2025-07,Prestation digitale,145466,Mobile money,Oui
+R000664,U0055,2025-08,Contrat ponctuel,215737,Cash,Non
+R000665,U0055,2025-10,Prestation digitale,187546,Cash,Oui
+R000666,U0055,2025-11,Mission freelance,97000,Mobile money,Non
+R000667,U0055,2025-11,Contrat ponctuel,141000,Mobile money,Non
+R000668,U0055,2025-11,Contrat ponctuel,246215,Mobile money,Oui
+R000669,U0055,2026-01,Prestation digitale,185393,Mobile money,Non
+R000670,U0055,2026-02,Prestation digitale,102000,Cash,Non
+R000671,U0055,2026-03,Contrat ponctuel,274657,Mobile money,Oui
+R000672,U0055,2026-03,Mission freelance,231091,Cash,Non
+R000673,U0055,2026-04,Contrat ponctuel,137016,Cash,Non
+R000674,U0055,2026-05,Prestation digitale,250000,Mobile money,Non
+R000675,U0055,2026-05,Mission freelance,295401,Mobile money,Non
+R000676,U0056,2025-07,Petit commerce,63000,Cash,Oui
+R000677,U0056,2025-08,Mission ponctuelle,135801,Virement,Non
+R000678,U0056,2025-09,Petit commerce,125014,Mobile money,Oui
+R000679,U0056,2025-10,Mission ponctuelle,145137,Cash,Non
+R000680,U0056,2025-10,Petit commerce,82244,Mobile money,Oui
+R000681,U0056,2025-12,Petit commerce,165911,Mobile money,Non
+R000682,U0056,2025-12,Mission ponctuelle,158000,Mobile money,Non
+R000683,U0056,2025-12,Petit commerce,143827,Cash,Oui
+R000684,U0056,2026-01,Salaire partiel,119230,Mobile money,Oui
+R000685,U0056,2026-02,Petit commerce,119066,Cash,Oui
+R000686,U0056,2026-02,Petit commerce,64170,Mobile money,Oui
+R000687,U0056,2026-03,Mission ponctuelle,53023,Mobile money,Oui
+R000688,U0057,2025-07,Service client,60000,Virement,Oui
+R000689,U0057,2025-07,Prestation,176000,Mobile money,Oui
+R000690,U0057,2025-07,Prestation,216238,Mobile money,Oui
+R000691,U0057,2026-04,Service client,52000,Mobile money,Non
+R000692,U0057,2026-05,Maintenance,89531,Mobile money,Non
+R000693,U0057,2026-05,Maintenance,109000,Mobile money,Non
+R000694,U0057,2026-05,Maintenance,139555,Virement,Non
+R000695,U0058,2025-11,Marketplace,41000,Mobile money,Oui
+R000696,U0058,2025-12,Marketplace,215000,Mobile money,Non
+R000697,U0058,2025-12,Commande WhatsApp,71000,Mobile money,Non
+R000698,U0058,2026-01,Marketplace,116000,Mobile money,Oui
+R000699,U0058,2026-06,Marketplace,120240,Mobile money,Oui
+R000700,U0058,2026-06,Marketplace,250714,Mobile money,Non
+R000701,U0059,2025-07,Service client,201774,Cash,Oui
+R000702,U0059,2025-08,Service client,196475,Mobile money,Oui
+R000703,U0059,2025-09,Service client,154736,Mobile money,Oui
+R000704,U0059,2025-11,Prestation,169111,Cash,Oui
+R000705,U0059,2025-12,Service client,91000,Cash,Oui
+R000706,U0059,2025-12,Prestation,160000,Mobile money,Non
+R000707,U0059,2025-12,Service client,155000,Mobile money,Oui
+R000708,U0059,2026-02,Service client,73023,Mobile money,Oui
+R000709,U0059,2026-02,Prestation,109233,Cash,Oui
+R000710,U0059,2026-04,Service client,233000,Mobile money,Oui
+R000711,U0059,2026-04,Prestation,184190,Mobile money,Oui
+R000712,U0059,2026-05,Service client,180138,Mobile money,Oui
+R000713,U0059,2026-06,Maintenance,70000,Mobile money,Oui
+R000714,U0059,2026-06,Maintenance,162000,Mobile money,Oui
+R000715,U0060,2025-07,Prestation digitale,164000,Virement,Oui
+R000716,U0060,2025-08,Prestation digitale,172682,Cash,Non
+R000717,U0060,2025-09,Mission freelance,258000,Mobile money,Non
+R000718,U0060,2025-09,Contrat ponctuel,144000,Mobile money,Non
+R000719,U0060,2025-11,Prestation digitale,206864,Virement,Non
+R000720,U0060,2026-01,Mission freelance,148768,Cash,Non
+R000721,U0060,2026-01,Contrat ponctuel,60000,Mobile money,Non
+R000722,U0060,2026-03,Contrat ponctuel,189000,Cash,Oui
+R000723,U0060,2026-03,Contrat ponctuel,84000,Mobile money,Non
+R000724,U0060,2026-06,Contrat ponctuel,229308,Cash,Oui
+R000725,U0061,2025-08,Petit commerce,115000,Mobile money,Non
+R000726,U0061,2025-09,Mission ponctuelle,98741,Mobile money,Non
+R000727,U0061,2025-09,Mission ponctuelle,46000,Virement,Non
+R000728,U0061,2025-09,Salaire partiel,100000,Mobile money,Oui
+R000729,U0061,2025-10,Mission ponctuelle,103490,Cash,Non
+R000730,U0061,2025-11,Petit commerce,77633,Mobile money,Non
+R000731,U0061,2025-12,Petit commerce,39000,Cash,Oui
+R000732,U0061,2026-01,Salaire partiel,129067,Mobile money,Non
+R000733,U0061,2026-01,Mission ponctuelle,102092,Mobile money,Non
+R000734,U0061,2026-01,Petit commerce,161000,Mobile money,Non
+R000735,U0061,2026-02,Mission ponctuelle,30110,Cash,Oui
+R000736,U0061,2026-05,Petit commerce,146751,Cash,Oui
+R000737,U0061,2026-06,Mission ponctuelle,36723,Cash,Oui
+R000738,U0062,2025-07,Maintenance,146362,Cash,Oui
+R000739,U0062,2025-07,Prestation,175334,Cash,Oui
+R000740,U0062,2025-08,Service client,98244,Mobile money,Oui
+R000741,U0062,2025-09,Prestation,184153,Cash,Oui
+R000742,U0062,2025-09,Service client,64000,Mobile money,Oui
+R000743,U0062,2025-10,Maintenance,188934,Cash,Oui
+R000744,U0062,2025-11,Maintenance,136454,Virement,Oui
+R000745,U0062,2025-11,Maintenance,129315,Mobile money,Non
+R000746,U0062,2025-11,Maintenance,194474,Virement,Oui
+R000747,U0062,2025-12,Maintenance,95577,Mobile money,Non
+R000748,U0062,2026-01,Service client,216752,Virement,Oui
+R000749,U0062,2026-02,Prestation,126000,Mobile money,Oui
+R000750,U0062,2026-03,Prestation,60303,Mobile money,Non
+R000751,U0062,2026-04,Maintenance,207460,Virement,Oui
+R000752,U0062,2026-05,Service client,98263,Mobile money,Non
+R000753,U0062,2026-05,Maintenance,83000,Cash,Non
+R000754,U0062,2026-05,Service client,232923,Cash,Non
+R000755,U0062,2026-06,Prestation,109873,Cash,Oui
+R000756,U0063,2025-07,Vente boutique,140000,Virement,Non
+R000757,U0063,2025-07,Commande client,286185,Mobile money,Non
+R000758,U0063,2025-07,Service local,235000,Mobile money,Oui
+R000759,U0063,2025-08,Service local,76300,Cash,Oui
+R000760,U0063,2025-11,Service local,284577,Mobile money,Oui
+R000761,U0063,2026-05,Commande client,186616,Mobile money,Non
+R000762,U0063,2026-05,Vente boutique,241000,Cash,Non
+R000763,U0063,2026-05,Service local,235000,Mobile money,Oui
+R000764,U0064,2025-07,Vente boutique,365492,Mobile money,Non
+R000765,U0064,2025-07,Vente boutique,175789,Mobile money,Non
+R000766,U0064,2025-08,Service local,301965,Mobile money,Oui
+R000767,U0064,2025-09,Commande client,288646,Cash,Oui
+R000768,U0064,2025-09,Vente boutique,267759,Mobile money,Non
+R000769,U0064,2025-10,Vente boutique,99000,Mobile money,Non
+R000770,U0064,2025-11,Service local,163536,Mobile money,Oui
+R000771,U0064,2026-01,Commande client,136402,Cash,Non
+R000772,U0064,2026-01,Commande client,206002,Mobile money,Non
+R000773,U0064,2026-02,Commande client,74371,Mobile money,Non
+R000774,U0064,2026-02,Service local,264531,Mobile money,Non
+R000775,U0064,2026-03,Vente boutique,74171,Virement,Non
+R000776,U0064,2026-04,Commande client,49263,Mobile money,Oui
+R000777,U0064,2026-05,Service local,226755,Mobile money,Non
+R000778,U0064,2026-05,Vente boutique,222000,Cash,Non
+R000779,U0064,2026-06,Service local,250566,Mobile money,Oui
+R000780,U0064,2026-06,Commande client,138473,Mobile money,Non
+R000781,U0065,2025-07,Salaire partiel,129000,Mobile money,Oui
+R000782,U0065,2025-07,Mission ponctuelle,160000,Mobile money,Non
+R000783,U0065,2026-01,Salaire partiel,68000,Mobile money,Non
+R000784,U0065,2026-02,Petit commerce,47000,Cash,Oui
+R000785,U0065,2026-04,Salaire partiel,131979,Mobile money,Non
+R000786,U0065,2026-05,Petit commerce,143000,Mobile money,Oui
+R000787,U0066,2025-08,Livraisons,84000,Mobile money,Oui
+R000788,U0066,2025-08,Livraisons,66162,Mobile money,Oui
+R000789,U0066,2025-08,Course directe,157169,Mobile money,Non
+R000790,U0066,2025-09,Bonus plateforme,113220,Virement,Oui
+R000791,U0066,2025-09,Course directe,24928,Mobile money,Oui
+R000792,U0066,2025-09,Livraisons,40945,Mobile money,Oui
+R000793,U0066,2025-10,Course directe,88812,Virement,Oui
+R000794,U0066,2025-10,Course directe,88857,Mobile money,Oui
+R000795,U0066,2025-11,Livraisons,119351,Mobile money,Oui
+R000796,U0066,2025-11,Livraisons,156097,Mobile money,Non
+R000797,U0066,2025-12,Livraisons,176165,Cash,Oui
+R000798,U0066,2026-02,Livraisons,94790,Mobile money,Non
+R000799,U0066,2026-03,Bonus plateforme,127425,Mobile money,Oui
+R000800,U0066,2026-04,Livraisons,27226,Mobile money,Non
+R000801,U0066,2026-04,Course directe,163412,Mobile money,Non
+R000802,U0066,2026-05,Livraisons,43269,Mobile money,Oui
+R000803,U0066,2026-06,Livraisons,68055,Virement,Non
+R000804,U0067,2025-07,Prestation,108000,Cash,Non
+R000805,U0067,2025-07,Service client,196554,Virement,Non
+R000806,U0067,2025-08,Service client,71000,Cash,Oui
+R000807,U0067,2025-10,Maintenance,229000,Mobile money,Oui
+R000808,U0067,2025-11,Prestation,71010,Mobile money,Oui
+R000809,U0067,2025-11,Service client,63000,Mobile money,Non
+R000810,U0067,2026-01,Maintenance,91256,Mobile money,Non
+R000811,U0067,2026-02,Prestation,200000,Cash,Oui
+R000812,U0067,2026-03,Prestation,259893,Cash,Non
+R000813,U0067,2026-04,Prestation,157272,Cash,Non
+R000814,U0067,2026-05,Service client,51636,Mobile money,Non
+R000815,U0067,2026-05,Prestation,202408,Cash,Oui
+R000816,U0067,2026-06,Maintenance,289911,Mobile money,Non
+R000817,U0068,2025-07,Salaire partiel,174257,Mobile money,Oui
+R000818,U0068,2025-09,Petit commerce,159000,Cash,Oui
+R000819,U0068,2025-10,Salaire partiel,47099,Cash,Oui
+R000820,U0068,2026-02,Petit commerce,54000,Mobile money,Non
+R000821,U0068,2026-02,Petit commerce,80000,Mobile money,Oui
+R000822,U0068,2026-02,Petit commerce,132868,Mobile money,Non
+R000823,U0068,2026-06,Salaire partiel,43000,Mobile money,Non
+R000824,U0068,2026-06,Petit commerce,65000,Mobile money,Oui
+R000825,U0069,2025-07,Service client,218000,Mobile money,Non
+R000826,U0069,2025-08,Maintenance,183683,Cash,Oui
+R000827,U0069,2025-08,Maintenance,202000,Mobile money,Oui
+R000828,U0069,2025-09,Service client,170000,Mobile money,Oui
+R000829,U0069,2025-10,Service client,48000,Virement,Oui
+R000830,U0069,2025-12,Service client,162000,Mobile money,Oui
+R000831,U0069,2026-01,Service client,67496,Cash,Non
+R000832,U0069,2026-01,Prestation,227000,Cash,Non
+R000833,U0069,2026-02,Maintenance,102548,Mobile money,Oui
+R000834,U0069,2026-02,Prestation,86836,Cash,Non
+R000835,U0069,2026-02,Maintenance,133170,Cash,Oui
+R000836,U0069,2026-05,Service client,94000,Mobile money,Oui
+R000837,U0069,2026-05,Service client,231250,Mobile money,Non
+R000838,U0069,2026-05,Maintenance,140387,Cash,Oui
+R000839,U0069,2026-06,Service client,55343,Cash,Non
+R000840,U0069,2026-06,Prestation,183000,Mobile money,Oui
+R000841,U0069,2026-06,Prestation,80891,Mobile money,Oui
+R000842,U0070,2025-08,Bonus plateforme,50571,Mobile money,Oui
+R000843,U0070,2025-09,Course directe,133908,Mobile money,Non
+R000844,U0070,2025-11,Course directe,57108,Mobile money,Non
+R000845,U0070,2025-11,Livraisons,61000,Mobile money,Oui
+R000846,U0070,2026-01,Bonus plateforme,74512,Mobile money,Oui
+R000847,U0070,2026-06,Bonus plateforme,117757,Mobile money,Non
+R000848,U0070,2026-06,Course directe,135570,Mobile money,Oui
+R000849,U0070,2026-06,Course directe,85202,Cash,Oui
+R000850,U0071,2025-08,Course directe,66705,Mobile money,Oui
+R000851,U0071,2025-08,Course directe,37598,Cash,Non
+R000852,U0071,2025-09,Course directe,118000,Cash,Non
+R000853,U0071,2025-10,Livraisons,63811,Virement,Non
+R000854,U0071,2025-12,Bonus plateforme,130098,Mobile money,Oui
+R000855,U0071,2025-12,Bonus plateforme,69236,Virement,Oui
+R000856,U0071,2025-12,Livraisons,82000,Mobile money,Non
+R000857,U0071,2026-01,Livraisons,49420,Mobile money,Non
+R000858,U0071,2026-01,Livraisons,98785,Virement,Non
+R000859,U0071,2026-02,Bonus plateforme,93953,Mobile money,Non
+R000860,U0071,2026-02,Livraisons,125000,Mobile money,Non
+R000861,U0071,2026-04,Course directe,57000,Mobile money,Non
+R000862,U0071,2026-04,Livraisons,46185,Cash,Oui
+R000863,U0071,2026-05,Bonus plateforme,32000,Cash,Non
+R000864,U0071,2026-05,Course directe,166669,Mobile money,Non
+R000865,U0071,2026-06,Course directe,49000,Mobile money,Non
+R000866,U0071,2026-06,Course directe,118476,Cash,Oui
+R000867,U0071,2026-06,Course directe,146000,Mobile money,Oui
+R000868,U0072,2025-07,Livraisons,148310,Cash,Non
+R000869,U0072,2025-08,Course directe,78960,Mobile money,Oui
+R000870,U0072,2025-08,Course directe,142000,Mobile money,Non
+R000871,U0072,2025-09,Livraisons,71539,Mobile money,Oui
+R000872,U0072,2025-09,Bonus plateforme,101196,Mobile money,Oui
+R000873,U0072,2025-09,Bonus plateforme,75619,Mobile money,Non
+R000874,U0072,2025-10,Course directe,36430,Cash,Oui
+R000875,U0072,2025-10,Course directe,119566,Cash,Non
+R000876,U0072,2025-11,Course directe,110028,Cash,Oui
+R000877,U0072,2025-11,Livraisons,31000,Mobile money,Oui
+R000878,U0072,2025-12,Course directe,121000,Mobile money,Non
+R000879,U0072,2025-12,Livraisons,135288,Mobile money,Oui
+R000880,U0072,2026-01,Bonus plateforme,72838,Mobile money,Oui
+R000881,U0072,2026-01,Course directe,45690,Cash,Oui
+R000882,U0072,2026-01,Livraisons,125496,Mobile money,Non
+R000883,U0072,2026-02,Livraisons,100000,Cash,Oui
+R000884,U0072,2026-03,Course directe,27757,Mobile money,Oui
+R000885,U0072,2026-04,Bonus plateforme,141551,Cash,Oui
+R000886,U0072,2026-05,Livraisons,37390,Virement,Non
+R000887,U0072,2026-05,Bonus plateforme,37843,Cash,Oui
+R000888,U0072,2026-06,Course directe,43350,Cash,Oui
+R000889,U0072,2026-06,Course directe,79641,Cash,Oui
+R000890,U0073,2025-08,Livraisons,68000,Virement,Oui
+R000891,U0073,2025-08,Course directe,61000,Cash,Non
+R000892,U0073,2025-08,Livraisons,60047,Mobile money,Oui
+R000893,U0073,2025-12,Bonus plateforme,39694,Mobile money,Oui
+R000894,U0073,2026-01,Bonus plateforme,97000,Mobile money,Non
+R000895,U0073,2026-01,Bonus plateforme,105000,Cash,Oui
+R000896,U0073,2026-02,Livraisons,111000,Virement,Non
+R000897,U0073,2026-03,Bonus plateforme,114000,Virement,Non
+R000898,U0073,2026-04,Livraisons,110866,Cash,Oui
+R000899,U0073,2026-04,Bonus plateforme,99000,Virement,Non
+R000900,U0073,2026-05,Course directe,134504,Virement,Non
+R000901,U0074,2025-07,Bonus plateforme,118366,Mobile money,Non
+R000902,U0074,2025-07,Livraisons,116308,Mobile money,Oui
+R000903,U0074,2025-08,Course directe,169011,Mobile money,Non
+R000904,U0074,2025-08,Livraisons,34000,Mobile money,Oui
+R000905,U0074,2025-10,Bonus plateforme,81000,Cash,Oui
+R000906,U0074,2025-11,Livraisons,39000,Mobile money,Non
+R000907,U0074,2025-12,Bonus plateforme,113799,Mobile money,Non
+R000908,U0074,2025-12,Livraisons,137000,Cash,Oui
+R000909,U0074,2026-01,Livraisons,45946,Virement,Non
+R000910,U0074,2026-06,Livraisons,69000,Cash,Non
+R000911,U0074,2026-06,Livraisons,67804,Mobile money,Non
+R000912,U0074,2026-06,Livraisons,118000,Mobile money,Non
+R000913,U0075,2025-07,Bonus plateforme,22965,Mobile money,Oui
+R000914,U0075,2025-08,Livraisons,98141,Virement,Oui
+R000915,U0075,2025-09,Course directe,93773,Mobile money,Non
+R000916,U0075,2025-10,Course directe,89264,Mobile money,Oui
+R000917,U0075,2025-11,Bonus plateforme,57000,Mobile money,Oui
+R000918,U0075,2025-12,Bonus plateforme,75415,Cash,Non
+R000919,U0075,2026-01,Course directe,139072,Virement,Oui
+R000920,U0075,2026-01,Bonus plateforme,62626,Mobile money,Oui
+R000921,U0075,2026-01,Bonus plateforme,142684,Cash,Non
+R000922,U0075,2026-02,Bonus plateforme,56728,Mobile money,Oui
+R000923,U0075,2026-03,Course directe,41397,Mobile money,Non
+R000924,U0075,2026-04,Course directe,69092,Virement,Oui
+R000925,U0075,2026-05,Course directe,86517,Mobile money,Oui
+R000926,U0075,2026-05,Course directe,123754,Mobile money,Oui
+R000927,U0075,2026-06,Bonus plateforme,50532,Cash,Oui
+R000928,U0076,2025-07,Salaire partiel,168446,Mobile money,Non
+R000929,U0076,2025-08,Mission ponctuelle,139159,Mobile money,Oui
+R000930,U0076,2025-09,Salaire partiel,79000,Mobile money,Non
+R000931,U0076,2025-10,Mission ponctuelle,178000,Mobile money,Oui
+R000932,U0076,2025-11,Petit commerce,131332,Mobile money,Oui
+R000933,U0076,2026-01,Mission ponctuelle,73148,Mobile money,Non
+R000934,U0076,2026-02,Mission ponctuelle,95689,Virement,Non
+R000935,U0076,2026-02,Salaire partiel,77362,Cash,Non
+R000936,U0076,2026-03,Salaire partiel,143000,Mobile money,Non
+R000937,U0076,2026-03,Salaire partiel,112486,Virement,Non
+R000938,U0076,2026-06,Salaire partiel,40023,Cash,Oui
+R000939,U0077,2025-07,Contrat ponctuel,189000,Mobile money,Oui
+R000940,U0077,2025-08,Prestation digitale,57333,Cash,Oui
+R000941,U0077,2025-08,Mission freelance,65000,Mobile money,Non
+R000942,U0077,2025-09,Contrat ponctuel,159842,Virement,Oui
+R000943,U0077,2025-09,Contrat ponctuel,276613,Mobile money,Oui
+R000944,U0077,2025-10,Prestation digitale,96000,Cash,Non
+R000945,U0077,2026-02,Contrat ponctuel,172000,Mobile money,Oui
+R000946,U0077,2026-05,Contrat ponctuel,95226,Mobile money,Oui
+R000947,U0077,2026-06,Contrat ponctuel,58142,Cash,Oui
+R000948,U0077,2026-06,Contrat ponctuel,194887,Mobile money,Non
+R000949,U0077,2026-06,Mission freelance,176000,Cash,Non
+R000950,U0078,2025-07,Maintenance,233000,Cash,Oui
+R000951,U0078,2025-08,Prestation,85547,Cash,Non
+R000952,U0078,2025-09,Maintenance,185621,Cash,Oui
+R000953,U0078,2025-09,Prestation,246870,Cash,Non
+R000954,U0078,2025-09,Service client,187527,Mobile money,Oui
+R000955,U0078,2025-12,Maintenance,53151,Cash,Oui
+R000956,U0078,2026-02,Maintenance,85000,Mobile money,Non
+R000957,U0078,2026-04,Prestation,109000,Cash,Non
+R000958,U0079,2025-07,Bonus plateforme,84390,Mobile money,Non
+R000959,U0079,2025-07,Livraisons,64224,Mobile money,Non
+R000960,U0079,2025-08,Bonus plateforme,43000,Cash,Oui
+R000961,U0079,2025-09,Bonus plateforme,114124,Mobile money,Oui
+R000962,U0079,2025-09,Livraisons,74046,Cash,Oui
+R000963,U0079,2025-10,Livraisons,29293,Mobile money,Non
+R000964,U0079,2025-10,Bonus plateforme,76000,Mobile money,Non
+R000965,U0079,2025-11,Bonus plateforme,134326,Mobile money,Oui
+R000966,U0079,2025-12,Livraisons,49400,Cash,Oui
+R000967,U0079,2026-01,Livraisons,32952,Mobile money,Non
+R000968,U0079,2026-02,Bonus plateforme,148965,Mobile money,Oui
+R000969,U0079,2026-03,Livraisons,99436,Cash,Non
+R000970,U0079,2026-03,Course directe,96517,Mobile money,Non
+R000971,U0079,2026-05,Bonus plateforme,139133,Cash,Non
+R000972,U0080,2025-08,Livraisons,116320,Cash,Oui
+R000973,U0080,2025-11,Livraisons,131587,Mobile money,Non
+R000974,U0080,2025-12,Bonus plateforme,33000,Mobile money,Non
+R000975,U0080,2025-12,Livraisons,122000,Mobile money,Oui
+R000976,U0080,2026-01,Bonus plateforme,134109,Mobile money,Oui
+R000977,U0080,2026-02,Livraisons,85086,Mobile money,Non
+R000978,U0080,2026-02,Livraisons,161543,Cash,Oui
+R000979,U0080,2026-02,Course directe,85515,Virement,Oui
+R000980,U0080,2026-05,Course directe,79000,Cash,Non
+R000981,U0080,2026-06,Course directe,34450,Virement,Oui
+R000982,U0081,2025-07,Course directe,142576,Virement,Non
+R000983,U0081,2025-07,Course directe,132214,Cash,Oui
+R000984,U0081,2025-08,Course directe,139000,Mobile money,Oui
+R000985,U0081,2025-08,Livraisons,65005,Mobile money,Non
+R000986,U0081,2025-09,Livraisons,137681,Mobile money,Non
+R000987,U0081,2025-10,Course directe,39000,Mobile money,Non
+R000988,U0081,2025-10,Livraisons,125702,Mobile money,Non
+R000989,U0081,2025-11,Livraisons,54728,Mobile money,Non
+R000990,U0081,2025-12,Bonus plateforme,115000,Cash,Non
+R000991,U0081,2025-12,Livraisons,89798,Mobile money,Oui
+R000992,U0081,2026-01,Course directe,92851,Cash,Non
+R000993,U0081,2026-02,Livraisons,127368,Mobile money,Non
+R000994,U0081,2026-02,Livraisons,69799,Mobile money,Oui
+R000995,U0081,2026-05,Bonus plateforme,146690,Mobile money,Non
+R000996,U0081,2026-06,Bonus plateforme,43673,Mobile money,Non
+R000997,U0081,2026-06,Livraisons,145562,Virement,Oui
+R000998,U0082,2025-07,Mission ponctuelle,103810,Cash,Oui
+R000999,U0082,2025-07,Salaire partiel,63185,Mobile money,Non
+R001000,U0082,2025-08,Salaire partiel,43232,Mobile money,Non
+R001001,U0082,2025-09,Mission ponctuelle,74000,Cash,Non
+R001002,U0082,2025-09,Petit commerce,98419,Virement,Oui
+R001003,U0082,2025-09,Mission ponctuelle,45758,Cash,Oui
+R001004,U0082,2025-11,Mission ponctuelle,33000,Mobile money,Non
+R001005,U0082,2026-01,Mission ponctuelle,88567,Mobile money,Oui
+R001006,U0082,2026-02,Mission ponctuelle,111093,Mobile money,Non
+R001007,U0082,2026-02,Mission ponctuelle,61000,Mobile money,Oui
+R001008,U0082,2026-04,Mission ponctuelle,150000,Mobile money,Non
+R001009,U0082,2026-05,Petit commerce,36306,Mobile money,Non
+R001010,U0082,2026-06,Petit commerce,103000,Mobile money,Oui
+R001011,U0083,2025-07,Salaire partiel,43895,Mobile money,Oui
+R001012,U0083,2025-08,Salaire partiel,44000,Cash,Non
+R001013,U0083,2025-08,Mission ponctuelle,100813,Cash,Oui
+R001014,U0083,2025-09,Salaire partiel,147000,Virement,Non
+R001015,U0083,2025-09,Mission ponctuelle,86579,Cash,Non
+R001016,U0083,2025-10,Mission ponctuelle,95347,Virement,Oui
+R001017,U0083,2025-11,Mission ponctuelle,108866,Cash,Oui
+R001018,U0083,2025-11,Mission ponctuelle,92081,Cash,Non
+R001019,U0083,2025-12,Mission ponctuelle,37271,Mobile money,Non
+R001020,U0083,2025-12,Petit commerce,144763,Cash,Oui
+R001021,U0083,2025-12,Salaire partiel,62115,Mobile money,Oui
+R001022,U0083,2026-01,Mission ponctuelle,58000,Cash,Non
+R001023,U0083,2026-01,Mission ponctuelle,164865,Cash,Non
+R001024,U0083,2026-01,Petit commerce,35018,Mobile money,Oui
+R001025,U0083,2026-02,Petit commerce,124694,Mobile money,Oui
+R001026,U0083,2026-02,Petit commerce,53000,Mobile money,Non
+R001027,U0083,2026-03,Mission ponctuelle,190458,Cash,Non
+R001028,U0083,2026-04,Petit commerce,122000,Mobile money,Non
+R001029,U0083,2026-04,Salaire partiel,28189,Mobile money,Non
+R001030,U0083,2026-04,Mission ponctuelle,146542,Cash,Oui
+R001031,U0083,2026-05,Mission ponctuelle,123000,Mobile money,Non
+R001032,U0084,2025-07,Vente en ligne,149505,Mobile money,Non
+R001033,U0084,2025-08,Vente en ligne,81088,Mobile money,Non
+R001034,U0084,2025-08,Marketplace,175647,Mobile money,Oui
+R001035,U0084,2025-08,Vente en ligne,201000,Mobile money,Non
+R001036,U0084,2025-10,Vente en ligne,83000,Mobile money,Non
+R001037,U0084,2025-10,Commande WhatsApp,123865,Mobile money,Non
+R001038,U0084,2025-12,Commande WhatsApp,192234,Mobile money,Oui
+R001039,U0084,2025-12,Commande WhatsApp,94000,Mobile money,Non
+R001040,U0084,2025-12,Marketplace,113000,Mobile money,Oui
+R001041,U0084,2026-01,Marketplace,101900,Mobile money,Oui
+R001042,U0084,2026-01,Marketplace,196416,Mobile money,Oui
+R001043,U0084,2026-04,Vente en ligne,154221,Virement,Non
+R001044,U0084,2026-05,Commande WhatsApp,98000,Virement,Oui
+R001045,U0085,2025-09,Prestation,52840,Mobile money,Non
+R001046,U0085,2025-11,Service client,172000,Virement,Non
+R001047,U0085,2025-11,Service client,178000,Cash,Oui
+R001048,U0085,2025-11,Maintenance,54590,Cash,Non
+R001049,U0085,2025-12,Service client,81000,Mobile money,Oui
+R001050,U0085,2025-12,Prestation,202270,Virement,Oui
+R001051,U0085,2025-12,Maintenance,146000,Mobile money,Oui
+R001052,U0085,2026-01,Maintenance,195999,Mobile money,Oui
+R001053,U0085,2026-03,Service client,91910,Mobile money,Oui
+R001054,U0085,2026-04,Service client,176387,Cash,Oui
+R001055,U0085,2026-05,Maintenance,111385,Mobile money,Non
+R001056,U0085,2026-06,Prestation,184000,Cash,Oui
+R001057,U0086,2025-07,Commande WhatsApp,194243,Cash,Oui
+R001058,U0086,2025-08,Commande WhatsApp,192000,Mobile money,Non
+R001059,U0086,2025-08,Commande WhatsApp,150525,Mobile money,Non
+R001060,U0086,2025-09,Vente en ligne,26442,Mobile money,Non
+R001061,U0086,2025-09,Commande WhatsApp,192794,Cash,Oui
+R001062,U0086,2025-10,Marketplace,53966,Mobile money,Oui
+R001063,U0086,2025-11,Commande WhatsApp,103571,Mobile money,Oui
+R001064,U0086,2025-11,Vente en ligne,152455,Mobile money,Oui
+R001065,U0086,2026-01,Marketplace,152620,Cash,Oui
+R001066,U0086,2026-03,Marketplace,136998,Mobile money,Oui
+R001067,U0086,2026-04,Commande WhatsApp,78458,Cash,Non
+R001068,U0086,2026-04,Vente en ligne,198000,Virement,Non
+R001069,U0086,2026-04,Marketplace,142063,Mobile money,Non
+R001070,U0087,2025-08,Marketplace,205953,Cash,Oui
+R001071,U0087,2025-08,Commande WhatsApp,51028,Mobile money,Oui
+R001072,U0087,2025-09,Vente en ligne,114000,Cash,Oui
+R001073,U0087,2025-10,Vente en ligne,66000,Mobile money,Non
+R001074,U0087,2025-11,Vente en ligne,203000,Mobile money,Oui
+R001075,U0087,2025-12,Marketplace,43333,Cash,Non
+R001076,U0087,2026-04,Commande WhatsApp,149064,Mobile money,Non
+R001077,U0087,2026-05,Marketplace,206900,Cash,Non
+R001078,U0087,2026-05,Marketplace,108000,Virement,Oui
+R001079,U0087,2026-06,Commande WhatsApp,187231,Mobile money,Oui
+R001080,U0087,2026-06,Vente en ligne,198101,Mobile money,Non
+R001081,U0088,2025-09,Mission freelance,116000,Mobile money,Non
+R001082,U0088,2025-10,Contrat ponctuel,202000,Cash,Oui
+R001083,U0088,2025-10,Prestation digitale,60000,Mobile money,Non
+R001084,U0088,2025-10,Contrat ponctuel,158000,Mobile money,Non
+R001085,U0088,2025-11,Prestation digitale,73000,Mobile money,Non
+R001086,U0088,2026-02,Mission freelance,164000,Mobile money,Oui
+R001087,U0088,2026-05,Mission freelance,70362,Mobile money,Oui
+R001088,U0089,2025-08,Petit commerce,137478,Mobile money,Non
+R001089,U0089,2025-08,Salaire partiel,50578,Cash,Non
+R001090,U0089,2025-08,Mission ponctuelle,106000,Cash,Non
+R001091,U0089,2026-01,Mission ponctuelle,54000,Mobile money,Non
+R001092,U0089,2026-01,Petit commerce,98000,Mobile money,Non
+R001093,U0089,2026-02,Mission ponctuelle,150000,Cash,Non
+R001094,U0089,2026-03,Petit commerce,125000,Cash,Oui
+R001095,U0089,2026-03,Mission ponctuelle,152000,Mobile money,Oui
+R001096,U0089,2026-03,Salaire partiel,167000,Cash,Non
+R001097,U0089,2026-06,Salaire partiel,119546,Mobile money,Oui
+R001098,U0090,2025-07,Livraisons,114906,Mobile money,Oui
+R001099,U0090,2025-07,Course directe,105000,Mobile money,Oui
+R001100,U0090,2025-08,Bonus plateforme,43000,Cash,Non
+R001101,U0090,2025-11,Course directe,141558,Mobile money,Non
+R001102,U0090,2025-11,Course directe,43000,Virement,Oui
+R001103,U0090,2025-12,Course directe,48146,Mobile money,Oui
+R001104,U0090,2026-01,Bonus plateforme,140000,Mobile money,Oui
+R001105,U0090,2026-01,Course directe,94000,Cash,Non
+R001106,U0090,2026-02,Course directe,108416,Mobile money,Oui
+R001107,U0090,2026-06,Bonus plateforme,69000,Mobile money,Non
+R001108,U0090,2026-06,Livraisons,43456,Mobile money,Oui
+R001109,U0090,2026-06,Livraisons,47000,Mobile money,Non
+R001110,U0091,2025-08,Mission freelance,107330,Mobile money,Non
+R001111,U0091,2025-09,Prestation digitale,125000,Cash,Oui
+R001112,U0091,2025-10,Contrat ponctuel,151371,Mobile money,Oui
+R001113,U0091,2025-11,Contrat ponctuel,181000,Cash,Non
+R001114,U0091,2025-12,Contrat ponctuel,155000,Cash,Non
+R001115,U0091,2025-12,Contrat ponctuel,239377,Cash,Oui
+R001116,U0091,2025-12,Mission freelance,225000,Mobile money,Non
+R001117,U0091,2026-01,Mission freelance,117000,Virement,Oui
+R001118,U0091,2026-02,Mission freelance,169000,Cash,Non
+R001119,U0091,2026-02,Prestation digitale,148000,Mobile money,Non
+R001120,U0091,2026-02,Prestation digitale,252000,Cash,Non
+R001121,U0091,2026-04,Contrat ponctuel,241000,Mobile money,Non
+R001122,U0092,2025-07,Petit commerce,81031,Mobile money,Oui
+R001123,U0092,2025-08,Petit commerce,156901,Virement,Non
+R001124,U0092,2025-08,Salaire partiel,142978,Virement,Oui
+R001125,U0092,2025-08,Salaire partiel,170464,Mobile money,Oui
+R001126,U0092,2025-09,Mission ponctuelle,90295,Mobile money,Non
+R001127,U0092,2025-09,Petit commerce,120728,Mobile money,Oui
+R001128,U0092,2025-10,Salaire partiel,137743,Mobile money,Non
+R001129,U0092,2025-11,Petit commerce,110212,Cash,Oui
+R001130,U0092,2025-11,Salaire partiel,187697,Mobile money,Non
+R001131,U0092,2025-12,Mission ponctuelle,141213,Mobile money,Non
+R001132,U0092,2025-12,Petit commerce,82463,Cash,Non
+R001133,U0092,2025-12,Mission ponctuelle,153953,Mobile money,Non
+R001134,U0092,2026-01,Petit commerce,110563,Cash,Non
+R001135,U0092,2026-02,Petit commerce,50772,Cash,Non
+R001136,U0092,2026-02,Petit commerce,93522,Mobile money,Non
+R001137,U0092,2026-02,Petit commerce,63453,Cash,Non
+R001138,U0092,2026-03,Salaire partiel,104954,Cash,Oui
+R001139,U0092,2026-03,Petit commerce,59725,Virement,Oui
+R001140,U0092,2026-04,Petit commerce,118490,Cash,Non
+R001141,U0092,2026-04,Salaire partiel,82604,Cash,Oui
+R001142,U0092,2026-05,Mission ponctuelle,96067,Mobile money,Oui
+R001143,U0092,2026-06,Mission ponctuelle,191618,Cash,Oui
+R001144,U0093,2025-07,Vente en ligne,127414,Cash,Oui
+R001145,U0093,2025-07,Vente en ligne,120207,Mobile money,Non
+R001146,U0093,2025-08,Vente en ligne,202000,Mobile money,Oui
+R001147,U0093,2025-08,Marketplace,60854,Mobile money,Non
+R001148,U0093,2025-08,Marketplace,31423,Mobile money,Oui
+R001149,U0093,2025-09,Vente en ligne,84000,Cash,Non
+R001150,U0093,2025-09,Marketplace,182050,Mobile money,Oui
+R001151,U0093,2025-10,Vente en ligne,217000,Cash,Oui
+R001152,U0093,2025-10,Commande WhatsApp,147597,Mobile money,Oui
+R001153,U0093,2025-11,Vente en ligne,105951,Cash,Non
+R001154,U0093,2026-02,Marketplace,116280,Cash,Oui
+R001155,U0093,2026-04,Vente en ligne,128000,Mobile money,Non
+R001156,U0093,2026-05,Marketplace,161781,Mobile money,Non
+R001157,U0094,2025-07,Service client,164377,Virement,Oui
+R001158,U0094,2025-08,Prestation,47391,Mobile money,Oui
+R001159,U0094,2025-09,Prestation,118853,Mobile money,Non
+R001160,U0094,2025-09,Maintenance,130909,Mobile money,Oui
+R001161,U0094,2025-10,Service client,97000,Mobile money,Oui
+R001162,U0094,2025-11,Maintenance,238586,Mobile money,Non
+R001163,U0094,2025-11,Prestation,173119,Mobile money,Oui
+R001164,U0094,2025-12,Service client,146420,Cash,Non
+R001165,U0094,2026-01,Prestation,166000,Mobile money,Oui
+R001166,U0094,2026-02,Service client,100029,Cash,Oui
+R001167,U0094,2026-03,Maintenance,243441,Cash,Non
+R001168,U0094,2026-04,Service client,142630,Mobile money,Oui
+R001169,U0094,2026-05,Service client,91622,Virement,Oui
+R001170,U0094,2026-06,Service client,113000,Cash,Oui
+R001171,U0094,2026-06,Service client,219000,Virement,Oui
+R001172,U0095,2025-07,Vente en ligne,61932,Mobile money,Non
+R001173,U0095,2025-08,Marketplace,36845,Mobile money,Oui
+R001174,U0095,2025-09,Commande WhatsApp,145515,Mobile money,Oui
+R001175,U0095,2025-09,Vente en ligne,76929,Virement,Non
+R001176,U0095,2025-10,Vente en ligne,42427,Cash,Non
+R001177,U0095,2025-11,Commande WhatsApp,138373,Mobile money,Oui
+R001178,U0095,2025-12,Commande WhatsApp,144539,Mobile money,Non
+R001179,U0095,2026-01,Commande WhatsApp,116839,Cash,Oui
+R001180,U0095,2026-02,Vente en ligne,39084,Mobile money,Non
+R001181,U0095,2026-03,Marketplace,109852,Cash,Non
+R001182,U0095,2026-04,Commande WhatsApp,126878,Mobile money,Oui
+R001183,U0095,2026-05,Vente en ligne,39330,Mobile money,Non
+R001184,U0095,2026-06,Vente en ligne,83405,Cash,Oui
+R001185,U0095,2026-06,Marketplace,43000,Mobile money,Oui
+R001186,U0096,2025-08,Marketplace,220984,Mobile money,Non
+R001187,U0096,2025-09,Marketplace,135000,Cash,Non
+R001188,U0096,2025-10,Marketplace,69017,Mobile money,Non
+R001189,U0096,2025-10,Vente en ligne,148886,Virement,Non
+R001190,U0096,2025-11,Marketplace,163984,Mobile money,Non
+R001191,U0096,2026-02,Vente en ligne,201546,Cash,Oui
+R001192,U0096,2026-02,Commande WhatsApp,146077,Cash,Non
+R001193,U0096,2026-03,Commande WhatsApp,194299,Mobile money,Oui
+R001194,U0096,2026-04,Commande WhatsApp,83000,Cash,Oui
+R001195,U0096,2026-05,Marketplace,35662,Mobile money,Non
+R001196,U0096,2026-05,Vente en ligne,42580,Virement,Oui
+R001197,U0096,2026-05,Marketplace,199000,Mobile money,Non
+R001198,U0096,2026-06,Marketplace,209000,Virement,Non
+R001199,U0096,2026-06,Marketplace,37415,Cash,Non
+R001200,U0097,2025-09,Maintenance,48000,Cash,Oui
+R001201,U0097,2025-09,Service client,152366,Virement,Oui
+R001202,U0097,2025-11,Service client,156000,Cash,Oui
+R001203,U0097,2026-01,Service client,73000,Mobile money,Oui
+R001204,U0097,2026-06,Service client,173000,Mobile money,Oui
+R001205,U0097,2026-06,Prestation,109000,Mobile money,Non
+R001206,U0098,2025-07,Vente boutique,115577,Cash,Oui
+R001207,U0098,2025-12,Service local,300000,Cash,Non
+R001208,U0098,2025-12,Commande client,277000,Mobile money,Non
+R001209,U0098,2026-02,Vente boutique,226000,Mobile money,Non
+R001210,U0098,2026-05,Service local,329000,Virement,Non
+R001211,U0098,2026-05,Service local,332000,Mobile money,Oui
+R001212,U0098,2026-05,Vente boutique,346000,Mobile money,Oui
+R001213,U0099,2025-07,Contrat ponctuel,159866,Mobile money,Non
+R001214,U0099,2025-08,Mission freelance,297405,Mobile money,Oui
+R001215,U0099,2025-08,Prestation digitale,64000,Cash,Non
+R001216,U0099,2025-08,Mission freelance,219000,Mobile money,Oui
+R001217,U0099,2025-10,Mission freelance,117290,Mobile money,Oui
+R001218,U0099,2025-11,Contrat ponctuel,146542,Cash,Oui
+R001219,U0099,2025-11,Prestation digitale,144935,Mobile money,Non
+R001220,U0099,2025-11,Prestation digitale,243190,Virement,Non
+R001221,U0099,2025-12,Mission freelance,193944,Cash,Non
+R001222,U0099,2026-02,Mission freelance,71298,Mobile money,Oui
+R001223,U0099,2026-03,Prestation digitale,131803,Mobile money,Non
+R001224,U0099,2026-03,Mission freelance,187044,Mobile money,Oui
+R001225,U0099,2026-04,Prestation digitale,217731,Virement,Non
+R001226,U0100,2025-07,Prestation digitale,228642,Cash,Oui
+R001227,U0100,2025-07,Prestation digitale,116000,Cash,Non
+R001228,U0100,2025-08,Contrat ponctuel,103298,Mobile money,Oui
+R001229,U0100,2025-08,Contrat ponctuel,90498,Mobile money,Non
+R001230,U0100,2025-09,Mission freelance,142127,Cash,Oui
+R001231,U0100,2025-09,Mission freelance,185479,Mobile money,Oui
+R001232,U0100,2025-09,Mission freelance,181669,Cash,Non
+R001233,U0100,2025-10,Mission freelance,267608,Mobile money,Non
+R001234,U0100,2025-10,Prestation digitale,223322,Cash,Non
+R001235,U0100,2026-01,Prestation digitale,69721,Mobile money,Non
+R001236,U0100,2026-02,Mission freelance,52000,Mobile money,Non
+R001237,U0100,2026-03,Prestation digitale,180789,Mobile money,Oui
+R001238,U0100,2026-04,Prestation digitale,67314,Cash,Oui
+R001239,U0100,2026-05,Prestation digitale,57000,Cash,Oui
+R001240,U0101,2025-07,Service local,139810,Mobile money,Oui
+R001241,U0101,2025-08,Vente boutique,302998,Cash,Non
+R001242,U0101,2025-10,Service local,167000,Mobile money,Oui
+R001243,U0101,2025-10,Vente boutique,363250,Mobile money,Non
+R001244,U0101,2025-11,Vente boutique,182966,Mobile money,Non
+R001245,U0101,2025-12,Vente boutique,358455,Cash,Non
+R001246,U0101,2026-01,Service local,356164,Cash,Oui
+R001247,U0101,2026-01,Service local,206000,Mobile money,Oui
+R001248,U0101,2026-02,Service local,266788,Mobile money,Oui
+R001249,U0101,2026-02,Commande client,314000,Cash,Non
+R001250,U0101,2026-03,Service local,106929,Cash,Non
+R001251,U0101,2026-03,Vente boutique,400291,Mobile money,Oui
+R001252,U0101,2026-04,Service local,304193,Virement,Non
+R001253,U0101,2026-06,Commande client,177000,Mobile money,Non
+R001254,U0102,2025-07,Vente en ligne,61702,Mobile money,Non
+R001255,U0102,2025-07,Marketplace,148000,Cash,Oui
+R001256,U0102,2025-08,Marketplace,205000,Virement,Non
+R001257,U0102,2025-09,Commande WhatsApp,182589,Virement,Oui
+R001258,U0102,2025-10,Vente en ligne,220807,Cash,Oui
+R001259,U0102,2025-10,Commande WhatsApp,224791,Cash,Oui
+R001260,U0102,2025-10,Vente en ligne,195000,Mobile money,Oui
+R001261,U0102,2025-12,Marketplace,39683,Mobile money,Non
+R001262,U0102,2026-01,Marketplace,137995,Mobile money,Non
+R001263,U0102,2026-02,Commande WhatsApp,104747,Mobile money,Oui
+R001264,U0102,2026-03,Vente en ligne,152000,Cash,Non
+R001265,U0102,2026-05,Commande WhatsApp,175587,Cash,Non
+R001266,U0102,2026-06,Commande WhatsApp,46000,Mobile money,Oui
+R001267,U0103,2025-08,Service local,126000,Mobile money,Non
+R001268,U0103,2025-09,Service local,147375,Mobile money,Non
+R001269,U0103,2026-01,Service local,239914,Mobile money,Oui
+R001270,U0103,2026-01,Commande client,291000,Cash,Non
+R001271,U0103,2026-03,Commande client,197366,Mobile money,Oui
+R001272,U0103,2026-05,Commande client,67000,Cash,Non
+R001273,U0103,2026-06,Service local,296471,Mobile money,Non
+R001274,U0104,2025-07,Vente boutique,148322,Mobile money,Oui
+R001275,U0104,2025-08,Vente boutique,134082,Cash,Non
+R001276,U0104,2025-08,Vente boutique,62492,Cash,Non
+R001277,U0104,2025-08,Service local,262601,Mobile money,Non
+R001278,U0104,2025-09,Vente boutique,315808,Virement,Non
+R001279,U0104,2025-10,Service local,339858,Mobile money,Non
+R001280,U0104,2025-11,Commande client,264000,Mobile money,Oui
+R001281,U0104,2025-12,Vente boutique,160364,Mobile money,Oui
+R001282,U0104,2025-12,Service local,136121,Cash,Non
+R001283,U0104,2026-01,Commande client,218727,Cash,Oui
+R001284,U0104,2026-02,Vente boutique,275852,Mobile money,Oui
+R001285,U0104,2026-02,Vente boutique,214291,Mobile money,Oui
+R001286,U0104,2026-03,Vente boutique,84192,Mobile money,Oui
+R001287,U0104,2026-03,Vente boutique,113872,Cash,Non
+R001288,U0104,2026-03,Service local,288713,Cash,Non
+R001289,U0104,2026-04,Service local,189169,Virement,Non
+R001290,U0104,2026-05,Service local,404484,Cash,Non
+R001291,U0104,2026-05,Service local,294427,Mobile money,Oui
+R001292,U0104,2026-06,Vente boutique,274819,Mobile money,Oui
+R001293,U0105,2025-07,Bonus plateforme,39909,Mobile money,Oui
+R001294,U0105,2025-07,Bonus plateforme,28000,Cash,Non
+R001295,U0105,2025-08,Livraisons,34413,Cash,Oui
+R001296,U0105,2025-09,Bonus plateforme,92941,Cash,Non
+R001297,U0105,2025-10,Livraisons,64863,Mobile money,Non
+R001298,U0105,2025-10,Bonus plateforme,98000,Virement,Non
+R001299,U0105,2025-12,Course directe,56000,Mobile money,Non
+R001300,U0105,2025-12,Bonus plateforme,117000,Cash,Non
+R001301,U0105,2026-03,Bonus plateforme,70000,Mobile money,Non
+R001302,U0105,2026-04,Bonus plateforme,97000,Mobile money,Oui
+R001303,U0105,2026-04,Course directe,54408,Mobile money,Non
+R001304,U0105,2026-05,Livraisons,68000,Cash,Oui
+R001305,U0105,2026-05,Bonus plateforme,32000,Mobile money,Oui
+R001306,U0106,2025-09,Maintenance,194000,Mobile money,Non
+R001307,U0106,2025-10,Maintenance,65000,Mobile money,Oui
+R001308,U0106,2025-10,Maintenance,164000,Mobile money,Oui
+R001309,U0106,2025-10,Maintenance,197000,Mobile money,Non
+R001310,U0106,2025-12,Maintenance,44000,Mobile money,Non
+R001311,U0106,2026-03,Maintenance,204000,Mobile money,Non
+R001312,U0106,2026-05,Service client,214000,Mobile money,Oui
+R001313,U0107,2025-07,Commande WhatsApp,58401,Mobile money,Non
+R001314,U0107,2025-08,Vente en ligne,121000,Mobile money,Oui
+R001315,U0107,2025-12,Commande WhatsApp,63000,Mobile money,Oui
+R001316,U0107,2025-12,Commande WhatsApp,152285,Mobile money,Oui
+R001317,U0107,2026-03,Commande WhatsApp,48000,Cash,Oui
+R001318,U0107,2026-04,Commande WhatsApp,202000,Mobile money,Non
+R001319,U0107,2026-04,Commande WhatsApp,87118,Mobile money,Non
+R001320,U0107,2026-04,Vente en ligne,125689,Mobile money,Non
+R001321,U0107,2026-05,Commande WhatsApp,195000,Cash,Non
+R001322,U0107,2026-05,Marketplace,104005,Mobile money,Non
+R001323,U0107,2026-06,Vente en ligne,154000,Mobile money,Non
+R001324,U0108,2025-07,Commande client,323000,Virement,Non
+R001325,U0108,2025-10,Service local,242059,Cash,Non
+R001326,U0108,2025-12,Commande client,285000,Mobile money,Non
+R001327,U0108,2025-12,Service local,299902,Virement,Non
+R001328,U0108,2026-01,Vente boutique,345000,Mobile money,Oui
+R001329,U0108,2026-04,Commande client,116352,Mobile money,Non
+R001330,U0108,2026-04,Vente boutique,282000,Cash,Non
+R001331,U0108,2026-04,Service local,73957,Mobile money,Non
+R001332,U0108,2026-06,Vente boutique,251648,Mobile money,Oui
+R001333,U0109,2025-07,Prestation digitale,217216,Virement,Oui
+R001334,U0109,2025-08,Contrat ponctuel,83285,Mobile money,Oui
+R001335,U0109,2025-09,Contrat ponctuel,119136,Cash,Non
+R001336,U0109,2025-09,Contrat ponctuel,287721,Mobile money,Oui
+R001337,U0109,2025-09,Prestation digitale,108300,Cash,Oui
+R001338,U0109,2025-10,Contrat ponctuel,88034,Mobile money,Oui
+R001339,U0109,2025-11,Contrat ponctuel,214126,Mobile money,Non
+R001340,U0109,2025-12,Prestation digitale,163930,Mobile money,Oui
+R001341,U0109,2026-01,Prestation digitale,205813,Mobile money,Non
+R001342,U0109,2026-02,Mission freelance,214938,Mobile money,Non
+R001343,U0109,2026-02,Contrat ponctuel,93000,Mobile money,Oui
+R001344,U0109,2026-02,Mission freelance,162149,Mobile money,Oui
+R001345,U0109,2026-03,Mission freelance,192937,Mobile money,Non
+R001346,U0109,2026-04,Mission freelance,160000,Mobile money,Oui
+R001347,U0109,2026-05,Contrat ponctuel,100230,Mobile money,Oui
+R001348,U0109,2026-06,Contrat ponctuel,52400,Cash,Non
+R001349,U0110,2025-07,Marketplace,190000,Cash,Oui
+R001350,U0110,2025-09,Commande WhatsApp,201341,Virement,Oui
+R001351,U0110,2025-09,Commande WhatsApp,51000,Cash,Oui
+R001352,U0110,2025-10,Marketplace,79861,Mobile money,Non
+R001353,U0110,2025-12,Marketplace,92000,Mobile money,Non
+R001354,U0110,2026-02,Vente en ligne,65000,Cash,Non
+R001355,U0110,2026-02,Commande WhatsApp,139573,Mobile money,Oui
+R001356,U0110,2026-05,Commande WhatsApp,131000,Cash,Oui
+R001357,U0111,2025-11,Marketplace,193109,Mobile money,Oui
+R001358,U0111,2025-11,Commande WhatsApp,119000,Mobile money,Non
+R001359,U0111,2026-01,Marketplace,141000,Cash,Oui
+R001360,U0111,2026-04,Commande WhatsApp,70000,Mobile money,Oui
+R001361,U0111,2026-04,Commande WhatsApp,202000,Mobile money,Oui
+R001362,U0112,2025-07,Mission freelance,215811,Virement,Oui
+R001363,U0112,2025-08,Prestation digitale,203160,Mobile money,Oui
+R001364,U0112,2025-09,Contrat ponctuel,254000,Mobile money,Non
+R001365,U0112,2025-10,Contrat ponctuel,247464,Mobile money,Oui
+R001366,U0112,2025-10,Mission freelance,224845,Cash,Oui
+R001367,U0112,2025-11,Mission freelance,139444,Cash,Oui
+R001368,U0112,2025-11,Mission freelance,172499,Mobile money,Oui
+R001369,U0112,2025-11,Contrat ponctuel,223262,Mobile money,Oui
+R001370,U0112,2025-12,Contrat ponctuel,146461,Mobile money,Non
+R001371,U0112,2025-12,Contrat ponctuel,235468,Virement,Non
+R001372,U0112,2026-01,Contrat ponctuel,157989,Mobile money,Non
+R001373,U0112,2026-01,Prestation digitale,229667,Mobile money,Oui
+R001374,U0112,2026-03,Contrat ponctuel,88537,Cash,Oui
+R001375,U0112,2026-04,Mission freelance,181000,Mobile money,Non
+R001376,U0112,2026-05,Prestation digitale,233912,Cash,Oui
+R001377,U0113,2025-07,Maintenance,80000,Cash,Oui
+R001378,U0113,2025-07,Service client,153474,Mobile money,Oui
+R001379,U0113,2025-11,Service client,193000,Mobile money,Oui
+R001380,U0113,2025-12,Maintenance,176000,Mobile money,Oui
+R001381,U0113,2025-12,Service client,77000,Cash,Oui
+R001382,U0113,2025-12,Service client,46000,Cash,Non
+R001383,U0113,2026-01,Service client,182266,Cash,Oui
+R001384,U0113,2026-02,Service client,170346,Mobile money,Oui
+R001385,U0113,2026-03,Maintenance,96000,Mobile money,Non
+R001386,U0113,2026-03,Maintenance,127000,Mobile money,Oui
+R001387,U0113,2026-04,Maintenance,119962,Mobile money,Oui
+R001388,U0113,2026-04,Maintenance,89283,Cash,Non
+R001389,U0113,2026-05,Prestation,225000,Mobile money,Non
+R001390,U0113,2026-05,Prestation,149000,Cash,Non
+R001391,U0113,2026-05,Prestation,233000,Cash,Non
+R001392,U0114,2025-07,Contrat ponctuel,158168,Mobile money,Oui
+R001393,U0114,2025-10,Contrat ponctuel,83058,Mobile money,Oui
+R001394,U0114,2025-11,Contrat ponctuel,124000,Cash,Non
+R001395,U0114,2025-11,Prestation digitale,213173,Cash,Oui
+R001396,U0114,2025-12,Contrat ponctuel,186000,Mobile money,Non
+R001397,U0114,2026-01,Mission freelance,101552,Mobile money,Oui
+R001398,U0114,2026-01,Mission freelance,92119,Mobile money,Oui
+R001399,U0114,2026-03,Mission freelance,98985,Mobile money,Oui
+R001400,U0114,2026-03,Prestation digitale,129000,Mobile money,Non
+R001401,U0114,2026-05,Contrat ponctuel,215000,Mobile money,Oui
+R001402,U0114,2026-06,Contrat ponctuel,78573,Virement,Non
+R001403,U0115,2025-07,Mission freelance,133000,Mobile money,Oui
+R001404,U0115,2025-08,Prestation digitale,215787,Mobile money,Non
+R001405,U0115,2025-09,Contrat ponctuel,132646,Mobile money,Non
+R001406,U0115,2025-09,Prestation digitale,147719,Cash,Non
+R001407,U0115,2025-10,Prestation digitale,65000,Mobile money,Oui
+R001408,U0115,2026-02,Mission freelance,133000,Mobile money,Oui
+R001409,U0115,2026-02,Prestation digitale,254000,Mobile money,Non
+R001410,U0116,2025-09,Vente boutique,167965,Cash,Non
+R001411,U0116,2025-11,Service local,300780,Cash,Oui
+R001412,U0116,2025-11,Service local,102000,Mobile money,Non
+R001413,U0116,2026-01,Vente boutique,115000,Cash,Oui
+R001414,U0117,2025-07,Marketplace,193000,Mobile money,Oui
+R001415,U0117,2025-08,Vente en ligne,166886,Cash,Non
+R001416,U0117,2025-09,Marketplace,155000,Mobile money,Non
+R001417,U0117,2025-11,Marketplace,118027,Mobile money,Non
+R001418,U0117,2025-12,Commande WhatsApp,133203,Mobile money,Oui
+R001419,U0117,2025-12,Vente en ligne,51263,Mobile money,Oui
+R001420,U0117,2026-02,Vente en ligne,213757,Virement,Oui
+R001421,U0117,2026-03,Commande WhatsApp,165108,Mobile money,Non
+R001422,U0117,2026-04,Vente en ligne,99525,Mobile money,Non
+R001423,U0117,2026-05,Marketplace,179212,Mobile money,Oui
+R001424,U0118,2025-07,Commande WhatsApp,67961,Mobile money,Non
+R001425,U0118,2025-08,Commande WhatsApp,178721,Cash,Non
+R001426,U0118,2025-09,Commande WhatsApp,185819,Mobile money,Non
+R001427,U0118,2025-11,Vente en ligne,34000,Cash,Non
+R001428,U0118,2025-12,Marketplace,69474,Mobile money,Non
+R001429,U0118,2026-01,Marketplace,52827,Mobile money,Oui
+R001430,U0118,2026-01,Commande WhatsApp,104374,Mobile money,Non
+R001431,U0119,2025-07,Salaire partiel,39567,Mobile money,Oui
+R001432,U0119,2025-10,Mission ponctuelle,159000,Mobile money,Non
+R001433,U0119,2025-11,Mission ponctuelle,197458,Mobile money,Oui
+R001434,U0119,2025-11,Petit commerce,144918,Cash,Non
+R001435,U0119,2026-02,Petit commerce,165000,Mobile money,Oui
+R001436,U0119,2026-02,Salaire partiel,139531,Virement,Non
+R001437,U0119,2026-03,Mission ponctuelle,42000,Cash,Non
+R001438,U0119,2026-05,Salaire partiel,159740,Mobile money,Oui
+R001439,U0119,2026-05,Mission ponctuelle,156000,Virement,Oui
+R001440,U0119,2026-05,Salaire partiel,118708,Virement,Non
+R001441,U0119,2026-06,Mission ponctuelle,82753,Cash,Non
+R001442,U0119,2026-06,Petit commerce,104374,Cash,Non
+R001443,U0120,2025-09,Course directe,144000,Mobile money,Oui
+R001444,U0120,2025-09,Livraisons,45151,Cash,Oui
+R001445,U0120,2025-10,Livraisons,67344,Mobile money,Oui
+R001446,U0120,2025-10,Bonus plateforme,96281,Mobile money,Oui
+R001447,U0120,2025-12,Bonus plateforme,101000,Mobile money,Oui
+R001448,U0120,2026-01,Course directe,139000,Cash,Oui
+R001449,U0120,2026-01,Course directe,92441,Mobile money,Oui
+R001450,U0120,2026-01,Course directe,28000,Mobile money,Oui
+R001451,U0120,2026-03,Bonus plateforme,137000,Mobile money,Oui
+R001452,U0120,2026-03,Livraisons,88000,Mobile money,Non
+R001453,U0120,2026-05,Course directe,31953,Mobile money,Oui
+R001454,U0120,2026-05,Course directe,41000,Mobile money,Non
+R001455,U0120,2026-06,Livraisons,130644,Cash,Non
+R001456,U0121,2025-07,Vente boutique,53836,Virement,Non
+R001457,U0121,2025-08,Vente boutique,138540,Mobile money,Non
+R001458,U0121,2025-11,Commande client,180563,Cash,Non
+R001459,U0121,2025-12,Service local,126000,Mobile money,Non
+R001460,U0121,2025-12,Commande client,289000,Cash,Non
+R001461,U0121,2025-12,Commande client,75860,Mobile money,Oui
+R001462,U0121,2026-01,Service local,289748,Mobile money,Non
+R001463,U0121,2026-02,Vente boutique,219342,Mobile money,Oui
+R001464,U0121,2026-03,Vente boutique,227535,Cash,Oui
+R001465,U0121,2026-03,Commande client,117395,Virement,Non
+R001466,U0121,2026-05,Vente boutique,120177,Cash,Non
+R001467,U0121,2026-05,Vente boutique,145594,Mobile money,Oui
+R001468,U0121,2026-06,Service local,228000,Mobile money,Oui
+R001469,U0122,2025-07,Service local,97897,Mobile money,Oui
+R001470,U0122,2025-10,Vente boutique,173943,Cash,Oui
+R001471,U0122,2025-10,Commande client,161000,Cash,Non
+R001472,U0122,2025-11,Service local,278074,Mobile money,Oui
+R001473,U0122,2025-11,Vente boutique,157000,Mobile money,Oui
+R001474,U0122,2026-02,Service local,154000,Mobile money,Non
+R001475,U0122,2026-06,Service local,205000,Mobile money,Non
+R001476,U0123,2025-08,Prestation,137000,Mobile money,Non
+R001477,U0123,2025-08,Maintenance,74377,Mobile money,Oui
+R001478,U0123,2025-12,Service client,56047,Cash,Oui
+R001479,U0123,2025-12,Maintenance,175000,Mobile money,Non
+R001480,U0123,2025-12,Maintenance,154817,Cash,Non
+R001481,U0123,2026-03,Maintenance,209000,Mobile money,Non
+R001482,U0123,2026-03,Prestation,240109,Virement,Oui
+R001483,U0123,2026-05,Maintenance,203434,Mobile money,Non
+R001484,U0123,2026-05,Maintenance,236000,Mobile money,Non
+R001485,U0124,2025-07,Petit commerce,37025,Mobile money,Non
+R001486,U0124,2025-10,Salaire partiel,183353,Mobile money,Non
+R001487,U0124,2025-11,Salaire partiel,155000,Mobile money,Non
+R001488,U0124,2025-11,Salaire partiel,143986,Mobile money,Non
+R001489,U0124,2025-12,Salaire partiel,197463,Virement,Oui
+R001490,U0124,2026-01,Petit commerce,73024,Cash,Non
+R001491,U0124,2026-01,Petit commerce,84000,Mobile money,Non
+R001492,U0124,2026-01,Salaire partiel,173316,Mobile money,Oui
+R001493,U0124,2026-03,Mission ponctuelle,144963,Virement,Non
+R001494,U0124,2026-04,Salaire partiel,73471,Virement,Oui
+R001495,U0124,2026-05,Salaire partiel,41467,Cash,Non
+R001496,U0124,2026-05,Salaire partiel,56621,Cash,Oui
+R001497,U0124,2026-06,Salaire partiel,82877,Mobile money,Non
+R001498,U0125,2025-07,Contrat ponctuel,155864,Mobile money,Non
+R001499,U0125,2025-08,Mission freelance,245102,Cash,Oui
+R001500,U0125,2025-08,Mission freelance,227000,Mobile money,Oui
+R001501,U0125,2025-11,Prestation digitale,81695,Cash,Non
+R001502,U0125,2025-11,Contrat ponctuel,229692,Mobile money,Oui
+R001503,U0125,2025-12,Mission freelance,157837,Virement,Oui
+R001504,U0125,2026-01,Prestation digitale,186932,Mobile money,Oui
+R001505,U0125,2026-02,Mission freelance,110532,Mobile money,Oui
+R001506,U0125,2026-02,Contrat ponctuel,206128,Virement,Oui
+R001507,U0125,2026-03,Contrat ponctuel,153198,Cash,Oui
+R001508,U0125,2026-03,Prestation digitale,283285,Cash,Non
+R001509,U0125,2026-03,Contrat ponctuel,218322,Cash,Non
+R001510,U0125,2026-04,Mission freelance,93436,Virement,Non
+R001511,U0125,2026-04,Mission freelance,81000,Mobile money,Oui
+R001512,U0125,2026-05,Contrat ponctuel,168633,Mobile money,Non
+R001513,U0125,2026-05,Contrat ponctuel,122836,Mobile money,Non
+R001514,U0125,2026-05,Contrat ponctuel,189377,Mobile money,Oui
+R001515,U0125,2026-06,Contrat ponctuel,103573,Mobile money,Oui
+R001516,U0126,2025-07,Commande WhatsApp,41000,Mobile money,Non
+R001517,U0126,2025-07,Commande WhatsApp,62000,Mobile money,Non
+R001518,U0126,2025-08,Vente en ligne,62000,Mobile money,Non
+R001519,U0126,2025-08,Marketplace,83000,Mobile money,Non
+R001520,U0126,2025-09,Commande WhatsApp,176000,Mobile money,Non
+R001521,U0126,2025-10,Commande WhatsApp,91000,Mobile money,Oui
+R001522,U0126,2025-10,Vente en ligne,153000,Mobile money,Oui
+R001523,U0126,2025-12,Commande WhatsApp,121924,Cash,Non
+R001524,U0126,2026-02,Vente en ligne,85440,Virement,Non
+R001525,U0127,2025-08,Prestation,159263,Mobile money,Non
+R001526,U0127,2025-08,Prestation,151000,Mobile money,Non
+R001527,U0127,2025-08,Prestation,81000,Mobile money,Non
+R001528,U0127,2025-11,Maintenance,244235,Mobile money,Non
+R001529,U0127,2025-11,Service client,140217,Mobile money,Non
+R001530,U0127,2025-12,Prestation,285586,Mobile money,Oui
+R001531,U0127,2026-02,Maintenance,102186,Mobile money,Non
+R001532,U0127,2026-03,Service client,84963,Mobile money,Non
+R001533,U0127,2026-03,Maintenance,55000,Cash,Non
+R001534,U0127,2026-04,Prestation,96000,Cash,Oui
+R001535,U0127,2026-05,Prestation,77000,Virement,Non
+R001536,U0127,2026-05,Maintenance,207693,Mobile money,Non
+R001537,U0127,2026-06,Service client,164000,Mobile money,Non
+R001538,U0127,2026-06,Service client,61000,Cash,Oui
+R001539,U0128,2025-07,Service client,130454,Cash,Oui
+R001540,U0128,2025-07,Prestation,222916,Mobile money,Non
+R001541,U0128,2025-08,Service client,115893,Cash,Non
+R001542,U0128,2025-08,Maintenance,109414,Mobile money,Oui
+R001543,U0128,2025-09,Maintenance,178428,Cash,Non
+R001544,U0128,2025-09,Service client,136000,Mobile money,Oui
+R001545,U0128,2025-10,Maintenance,93946,Mobile money,Non
+R001546,U0128,2025-11,Prestation,166000,Cash,Oui
+R001547,U0128,2025-12,Maintenance,252526,Mobile money,Oui
+R001548,U0128,2026-01,Maintenance,135066,Mobile money,Non
+R001549,U0128,2026-03,Service client,88000,Cash,Oui
+R001550,U0128,2026-04,Service client,74000,Mobile money,Non
+R001551,U0128,2026-04,Service client,266179,Mobile money,Oui
+R001552,U0128,2026-04,Service client,127807,Mobile money,Oui
+R001553,U0128,2026-05,Prestation,36912,Cash,Oui
+R001554,U0128,2026-06,Service client,106129,Mobile money,Non
+R001555,U0129,2025-07,Commande WhatsApp,79437,Virement,Oui
+R001556,U0129,2025-08,Marketplace,152655,Mobile money,Non
+R001557,U0129,2025-10,Commande WhatsApp,152908,Mobile money,Oui
+R001558,U0129,2025-10,Vente en ligne,195292,Mobile money,Oui
+R001559,U0129,2025-11,Marketplace,78906,Mobile money,Oui
+R001560,U0129,2025-12,Marketplace,162000,Virement,Oui
+R001561,U0129,2026-04,Marketplace,41000,Mobile money,Oui
+R001562,U0129,2026-05,Commande WhatsApp,96625,Virement,Oui
+R001563,U0129,2026-06,Marketplace,119247,Mobile money,Oui
+R001564,U0130,2025-08,Mission freelance,138043,Virement,Oui
+R001565,U0130,2025-08,Contrat ponctuel,185000,Mobile money,Non
+R001566,U0130,2025-09,Mission freelance,245874,Cash,Oui
+R001567,U0130,2025-11,Prestation digitale,165558,Virement,Non
+R001568,U0130,2025-11,Prestation digitale,129000,Virement,Non
+R001569,U0130,2025-12,Mission freelance,85087,Mobile money,Oui
+R001570,U0130,2026-02,Mission freelance,57797,Mobile money,Non
+R001571,U0130,2026-02,Contrat ponctuel,215350,Mobile money,Non
+R001572,U0130,2026-04,Prestation digitale,230000,Mobile money,Non
+R001573,U0130,2026-06,Contrat ponctuel,74014,Virement,Non
+R001574,U0130,2026-06,Mission freelance,213000,Virement,Non
+R001575,U0130,2026-06,Contrat ponctuel,93077,Mobile money,Oui
+R001576,U0131,2025-11,Petit commerce,136000,Mobile money,Oui
+R001577,U0131,2026-05,Salaire partiel,68000,Cash,Non
+R001578,U0131,2026-05,Petit commerce,175000,Mobile money,Non
+R001579,U0131,2026-06,Mission ponctuelle,170000,Cash,Oui
+R001580,U0131,2026-06,Salaire partiel,117048,Mobile money,Non
+R001581,U0132,2025-08,Commande client,242000,Mobile money,Non
+R001582,U0132,2025-08,Commande client,251000,Mobile money,Oui
+R001583,U0132,2025-09,Service local,100000,Mobile money,Oui
+R001584,U0132,2025-09,Commande client,71884,Cash,Oui
+R001585,U0132,2025-11,Service local,169000,Virement,Oui
+R001586,U0132,2025-11,Commande client,106960,Mobile money,Non
+R001587,U0132,2026-01,Service local,249000,Cash,Non
+R001588,U0132,2026-01,Commande client,297690,Mobile money,Oui
+R001589,U0132,2026-02,Commande client,239290,Mobile money,Oui
+R001590,U0132,2026-02,Vente boutique,166026,Cash,Oui
+R001591,U0132,2026-03,Vente boutique,117702,Cash,Oui
+R001592,U0132,2026-04,Vente boutique,243202,Mobile money,Oui
+R001593,U0132,2026-05,Vente boutique,397142,Mobile money,Oui
+R001594,U0132,2026-06,Vente boutique,229014,Mobile money,Oui
+R001595,U0132,2026-06,Commande client,95000,Mobile money,Non
+R001596,U0133,2025-07,Course directe,37583,Mobile money,Oui
+R001597,U0133,2025-09,Livraisons,48934,Mobile money,Non
+R001598,U0133,2025-10,Course directe,145000,Cash,Oui
+R001599,U0133,2025-11,Course directe,122000,Mobile money,Non
+R001600,U0133,2025-12,Bonus plateforme,125248,Mobile money,Non
+R001601,U0133,2026-02,Course directe,40027,Virement,Oui
+R001602,U0133,2026-03,Bonus plateforme,173389,Mobile money,Non
+R001603,U0133,2026-04,Course directe,65617,Virement,Oui
+R001604,U0133,2026-05,Livraisons,36536,Mobile money,Non
+R001605,U0133,2026-06,Bonus plateforme,120000,Mobile money,Non
+R001606,U0133,2026-06,Livraisons,169157,Virement,Non
+R001607,U0134,2025-07,Vente en ligne,87431,Mobile money,Non
+R001608,U0134,2025-07,Vente en ligne,42000,Mobile money,Non
+R001609,U0134,2025-08,Marketplace,54264,Mobile money,Oui
+R001610,U0134,2025-09,Commande WhatsApp,96353,Virement,Non
+R001611,U0134,2025-10,Marketplace,130608,Mobile money,Non
+R001612,U0134,2025-11,Commande WhatsApp,232256,Mobile money,Non
+R001613,U0134,2025-11,Vente en ligne,51904,Cash,Non
+R001614,U0134,2025-11,Marketplace,77618,Mobile money,Oui
+R001615,U0134,2025-12,Marketplace,80000,Cash,Oui
+R001616,U0134,2026-01,Vente en ligne,208631,Mobile money,Non
+R001617,U0134,2026-01,Commande WhatsApp,175000,Virement,Non
+R001618,U0134,2026-02,Vente en ligne,32304,Cash,Oui
+R001619,U0134,2026-03,Commande WhatsApp,105444,Mobile money,Non
+R001620,U0134,2026-04,Vente en ligne,148155,Cash,Non
+R001621,U0134,2026-04,Commande WhatsApp,102104,Virement,Oui
+R001622,U0134,2026-06,Vente en ligne,51174,Mobile money,Non
+R001623,U0135,2025-07,Maintenance,80313,Cash,Oui
+R001624,U0135,2025-07,Maintenance,177707,Mobile money,Non
+R001625,U0135,2025-08,Maintenance,109000,Mobile money,Oui
+R001626,U0135,2025-08,Maintenance,64000,Mobile money,Oui
+R001627,U0135,2025-09,Maintenance,162000,Mobile money,Non
+R001628,U0135,2025-09,Maintenance,214846,Mobile money,Non
+R001629,U0135,2025-11,Prestation,65000,Mobile money,Oui
+R001630,U0135,2025-12,Prestation,232073,Cash,Oui
+R001631,U0135,2025-12,Prestation,186847,Mobile money,Oui
+R001632,U0135,2025-12,Prestation,76000,Mobile money,Oui
+R001633,U0135,2026-01,Prestation,62000,Mobile money,Non
+R001634,U0135,2026-01,Prestation,105246,Cash,Non
+R001635,U0135,2026-02,Prestation,114724,Virement,Oui
+R001636,U0135,2026-02,Prestation,137392,Mobile money,Oui
+R001637,U0135,2026-03,Prestation,214189,Virement,Oui
+R001638,U0135,2026-03,Maintenance,62000,Mobile money,Oui
+R001639,U0135,2026-06,Prestation,78000,Cash,Oui
+R001640,U0136,2025-07,Marketplace,184215,Cash,Oui
+R001641,U0136,2025-07,Commande WhatsApp,109774,Mobile money,Non
+R001642,U0136,2025-08,Commande WhatsApp,199109,Mobile money,Oui
+R001643,U0136,2025-08,Commande WhatsApp,135245,Virement,Non
+R001644,U0136,2025-09,Commande WhatsApp,150128,Cash,Non
+R001645,U0136,2025-10,Commande WhatsApp,49236,Mobile money,Oui
+R001646,U0136,2025-10,Marketplace,75553,Cash,Non
+R001647,U0136,2025-10,Marketplace,32075,Cash,Non
+R001648,U0136,2025-12,Vente en ligne,50000,Mobile money,Oui
+R001649,U0136,2025-12,Vente en ligne,231415,Mobile money,Oui
+R001650,U0136,2026-02,Marketplace,148682,Cash,Non
+R001651,U0136,2026-02,Commande WhatsApp,92659,Mobile money,Non
+R001652,U0136,2026-03,Vente en ligne,170000,Mobile money,Non
+R001653,U0136,2026-04,Marketplace,103536,Mobile money,Oui
+R001654,U0136,2026-04,Vente en ligne,68000,Mobile money,Oui
+R001655,U0136,2026-05,Marketplace,115250,Cash,Oui
+R001656,U0137,2025-07,Bonus plateforme,56000,Mobile money,Non
+R001657,U0137,2025-08,Course directe,102922,Mobile money,Non
+R001658,U0137,2025-08,Bonus plateforme,140000,Cash,Non
+R001659,U0137,2025-09,Bonus plateforme,151148,Cash,Oui
+R001660,U0137,2025-09,Bonus plateforme,40165,Mobile money,Non
+R001661,U0137,2025-11,Course directe,134514,Mobile money,Oui
+R001662,U0137,2025-12,Bonus plateforme,61177,Mobile money,Oui
+R001663,U0137,2026-01,Course directe,69560,Cash,Oui
+R001664,U0137,2026-01,Livraisons,70882,Cash,Non
+R001665,U0137,2026-01,Bonus plateforme,116698,Mobile money,Oui
+R001666,U0137,2026-04,Course directe,29888,Mobile money,Non
+R001667,U0137,2026-04,Course directe,108763,Cash,Oui
+R001668,U0137,2026-05,Bonus plateforme,40292,Cash,Oui
+R001669,U0137,2026-05,Course directe,89831,Virement,Non
+R001670,U0137,2026-06,Course directe,131000,Mobile money,Oui
+R001671,U0137,2026-06,Livraisons,94000,Cash,Non
+R001672,U0138,2025-07,Livraisons,163075,Mobile money,Oui
+R001673,U0138,2025-08,Bonus plateforme,130000,Cash,Non
+R001674,U0138,2025-09,Bonus plateforme,36128,Mobile money,Non
+R001675,U0138,2025-09,Livraisons,118655,Mobile money,Non
+R001676,U0138,2025-12,Livraisons,102239,Virement,Non
+R001677,U0138,2025-12,Course directe,125073,Cash,Oui
+R001678,U0138,2026-01,Course directe,82000,Mobile money,Non
+R001679,U0138,2026-03,Course directe,54114,Virement,Oui
+R001680,U0138,2026-03,Bonus plateforme,46322,Cash,Oui
+R001681,U0138,2026-03,Bonus plateforme,139000,Mobile money,Non
+R001682,U0138,2026-04,Course directe,45576,Mobile money,Non
+R001683,U0138,2026-04,Bonus plateforme,91615,Virement,Non
+R001684,U0138,2026-04,Course directe,132724,Cash,Non
+R001685,U0138,2026-06,Livraisons,78434,Cash,Non
+R001686,U0138,2026-06,Bonus plateforme,159476,Virement,Oui
+R001687,U0139,2025-08,Commande WhatsApp,100685,Mobile money,Non
+R001688,U0139,2025-09,Commande WhatsApp,187366,Mobile money,Oui
+R001689,U0139,2025-10,Marketplace,202327,Cash,Non
+R001690,U0139,2026-01,Marketplace,164028,Cash,Oui
+R001691,U0139,2026-02,Vente en ligne,84134,Mobile money,Non
+R001692,U0139,2026-02,Commande WhatsApp,215000,Mobile money,Non
+R001693,U0139,2026-03,Marketplace,69380,Mobile money,Oui
+R001694,U0139,2026-04,Commande WhatsApp,53714,Cash,Non
+R001695,U0139,2026-04,Marketplace,113000,Mobile money,Non
+R001696,U0139,2026-05,Commande WhatsApp,182464,Cash,Oui
+R001697,U0139,2026-06,Marketplace,266087,Virement,Oui
+R001698,U0139,2026-06,Vente en ligne,77165,Cash,Non
+R001699,U0140,2025-07,Vente boutique,123897,Cash,Oui
+R001700,U0140,2025-07,Commande client,62975,Virement,Non
+R001701,U0140,2025-07,Service local,278948,Mobile money,Oui
+R001702,U0140,2025-08,Commande client,287695,Mobile money,Non
+R001703,U0140,2025-09,Vente boutique,343559,Mobile money,Oui
+R001704,U0140,2025-10,Service local,300835,Cash,Oui
+R001705,U0140,2025-11,Service local,389971,Cash,Non
+R001706,U0140,2025-11,Service local,225622,Mobile money,Oui
+R001707,U0140,2025-12,Vente boutique,187674,Virement,Oui
+R001708,U0140,2025-12,Service local,298663,Mobile money,Non
+R001709,U0140,2026-01,Vente boutique,250648,Cash,Oui
+R001710,U0140,2026-02,Commande client,84342,Mobile money,Oui
+R001711,U0140,2026-02,Commande client,262652,Mobile money,Non
+R001712,U0140,2026-02,Service local,304236,Mobile money,Non
+R001713,U0140,2026-03,Commande client,262060,Cash,Non
+R001714,U0140,2026-03,Service local,88423,Mobile money,Non
+R001715,U0140,2026-03,Service local,172519,Cash,Oui
+R001716,U0140,2026-04,Commande client,318227,Cash,Non
+R001717,U0140,2026-04,Vente boutique,237422,Virement,Oui
+R001718,U0140,2026-04,Vente boutique,275878,Cash,Oui
+R001719,U0140,2026-05,Service local,362498,Mobile money,Oui
+R001720,U0140,2026-06,Commande client,137629,Mobile money,Non
+R001721,U0140,2026-06,Commande client,310735,Mobile money,Oui
+R001722,U0141,2025-07,Vente en ligne,99000,Mobile money,Oui
+R001723,U0141,2025-07,Commande WhatsApp,93291,Mobile money,Oui
+R001724,U0141,2025-08,Marketplace,125000,Mobile money,Oui
+R001725,U0141,2025-09,Vente en ligne,201571,Cash,Oui
+R001726,U0141,2025-10,Commande WhatsApp,100000,Mobile money,Oui
+R001727,U0141,2025-11,Marketplace,173817,Cash,Oui
+R001728,U0141,2025-11,Commande WhatsApp,201818,Mobile money,Oui
+R001729,U0141,2025-12,Marketplace,102859,Mobile money,Non
+R001730,U0141,2026-01,Vente en ligne,33000,Cash,Non
+R001731,U0141,2026-01,Vente en ligne,39663,Cash,Oui
+R001732,U0141,2026-02,Vente en ligne,187632,Mobile money,Non
+R001733,U0141,2026-03,Commande WhatsApp,201243,Mobile money,Oui
+R001734,U0141,2026-03,Commande WhatsApp,119587,Mobile money,Oui
+R001735,U0141,2026-04,Vente en ligne,74699,Cash,Non
+R001736,U0141,2026-05,Commande WhatsApp,86417,Mobile money,Oui
+R001737,U0141,2026-05,Marketplace,126000,Virement,Oui
+R001738,U0141,2026-06,Marketplace,116000,Mobile money,Oui
+R001739,U0142,2025-07,Mission ponctuelle,47000,Mobile money,Oui
+R001740,U0142,2025-07,Mission ponctuelle,60637,Mobile money,Oui
+R001741,U0142,2025-07,Mission ponctuelle,161035,Virement,Oui
+R001742,U0142,2025-08,Petit commerce,83518,Mobile money,Oui
+R001743,U0142,2025-08,Petit commerce,47503,Cash,Oui
+R001744,U0142,2025-09,Mission ponctuelle,132800,Mobile money,Oui
+R001745,U0142,2025-09,Petit commerce,158934,Mobile money,Non
+R001746,U0142,2025-11,Petit commerce,78941,Virement,Oui
+R001747,U0142,2025-11,Petit commerce,163000,Mobile money,Oui
+R001748,U0142,2025-11,Salaire partiel,124423,Virement,Oui
+R001749,U0142,2025-12,Salaire partiel,113714,Mobile money,Non
+R001750,U0142,2025-12,Petit commerce,108511,Mobile money,Non
+R001751,U0142,2025-12,Petit commerce,109995,Mobile money,Oui
+R001752,U0142,2026-01,Salaire partiel,36765,Mobile money,Oui
+R001753,U0142,2026-02,Petit commerce,36304,Cash,Oui
+R001754,U0142,2026-03,Mission ponctuelle,120185,Mobile money,Oui
+R001755,U0142,2026-04,Mission ponctuelle,60587,Cash,Non
+R001756,U0142,2026-05,Salaire partiel,113980,Mobile money,Oui
+R001757,U0142,2026-05,Petit commerce,42644,Mobile money,Non
+R001758,U0143,2025-07,Contrat ponctuel,261640,Cash,Oui
+R001759,U0143,2025-07,Prestation digitale,84874,Mobile money,Oui
+R001760,U0143,2025-11,Prestation digitale,163000,Mobile money,Oui
+R001761,U0143,2026-01,Contrat ponctuel,211000,Mobile money,Oui
+R001762,U0143,2026-01,Prestation digitale,108509,Cash,Non
+R001763,U0143,2026-01,Contrat ponctuel,227000,Mobile money,Oui
+R001764,U0143,2026-04,Mission freelance,156282,Virement,Non
+R001765,U0143,2026-04,Mission freelance,259522,Mobile money,Oui
+R001766,U0143,2026-05,Mission freelance,77945,Mobile money,Non
+R001767,U0143,2026-06,Contrat ponctuel,74821,Cash,Oui
+R001768,U0144,2025-08,Vente boutique,205000,Cash,Non
+R001769,U0144,2025-09,Commande client,74436,Mobile money,Oui
+R001770,U0144,2025-11,Commande client,133079,Mobile money,Oui
+R001771,U0144,2025-12,Vente boutique,88000,Cash,Non
+R001772,U0144,2026-01,Service local,140425,Mobile money,Oui
+R001773,U0144,2026-02,Service local,106000,Cash,Non
+R001774,U0144,2026-06,Commande client,202000,Mobile money,Non
+R001775,U0144,2026-06,Vente boutique,141562,Mobile money,Non
+R001776,U0145,2025-12,Vente en ligne,129000,Cash,Oui
+R001777,U0145,2026-02,Marketplace,120695,Cash,Oui
+R001778,U0145,2026-02,Vente en ligne,52646,Mobile money,Non
+R001779,U0145,2026-02,Commande WhatsApp,156986,Mobile money,Non
+R001780,U0145,2026-03,Vente en ligne,37000,Virement,Non
+R001781,U0145,2026-05,Vente en ligne,205000,Cash,Oui
+R001782,U0145,2026-05,Marketplace,159000,Cash,Non
+R001783,U0146,2025-07,Contrat ponctuel,80000,Virement,Oui
+R001784,U0146,2025-08,Mission freelance,57080,Cash,Non
+R001785,U0146,2025-09,Mission freelance,211000,Mobile money,Oui
+R001786,U0146,2025-10,Prestation digitale,219055,Cash,Oui
+R001787,U0146,2025-11,Contrat ponctuel,54845,Mobile money,Non
+R001788,U0146,2025-11,Mission freelance,321648,Mobile money,Non
+R001789,U0146,2026-02,Contrat ponctuel,56000,Mobile money,Non
+R001790,U0146,2026-04,Mission freelance,231150,Mobile money,Oui
+R001791,U0146,2026-04,Mission freelance,213602,Virement,Non
+R001792,U0146,2026-05,Contrat ponctuel,289666,Cash,Oui
+R001793,U0146,2026-06,Contrat ponctuel,193000,Virement,Non
+R001794,U0146,2026-06,Prestation digitale,228000,Mobile money,Non
+R001795,U0147,2025-08,Service local,156727,Cash,Oui
+R001796,U0147,2025-10,Service local,80000,Mobile money,Non
+R001797,U0147,2026-02,Vente boutique,82930,Mobile money,Non
+R001798,U0147,2026-02,Service local,252619,Mobile money,Oui
+R001799,U0147,2026-04,Vente boutique,85113,Cash,Non
+R001800,U0147,2026-05,Commande client,242000,Mobile money,Oui
+R001801,U0147,2026-06,Commande client,135000,Cash,Non
+R001802,U0148,2025-08,Marketplace,140000,Mobile money,Oui
+R001803,U0148,2025-10,Marketplace,109000,Cash,Oui
+R001804,U0148,2026-01,Vente en ligne,215000,Virement,Non
+R001805,U0148,2026-01,Marketplace,47000,Mobile money,Oui
+R001806,U0148,2026-02,Vente en ligne,96000,Cash,Non
+R001807,U0148,2026-03,Commande WhatsApp,46121,Cash,Oui
+R001808,U0148,2026-03,Vente en ligne,148000,Mobile money,Oui
+R001809,U0148,2026-06,Commande WhatsApp,96000,Mobile money,Oui
+R001810,U0149,2025-07,Livraisons,90121,Mobile money,Non
+R001811,U0149,2025-08,Livraisons,149000,Mobile money,Oui
+R001812,U0149,2025-10,Course directe,47857,Mobile money,Non
+R001813,U0149,2025-11,Bonus plateforme,43085,Mobile money,Non
+R001814,U0149,2025-12,Livraisons,73000,Mobile money,Non
+R001815,U0149,2026-01,Livraisons,110060,Mobile money,Non
+R001816,U0149,2026-01,Course directe,68068,Mobile money,Non
+R001817,U0149,2026-01,Course directe,56833,Cash,Non
+R001818,U0149,2026-02,Livraisons,37676,Mobile money,Non
+R001819,U0149,2026-03,Bonus plateforme,95418,Mobile money,Oui
+R001820,U0149,2026-04,Bonus plateforme,96000,Mobile money,Oui
+R001821,U0149,2026-04,Livraisons,64741,Mobile money,Oui
+R001822,U0149,2026-05,Livraisons,43869,Mobile money,Oui
+R001823,U0149,2026-06,Livraisons,81034,Mobile money,Oui
+R001824,U0149,2026-06,Livraisons,84249,Cash,Oui
+R001825,U0150,2025-07,Vente boutique,245940,Cash,Non
+R001826,U0150,2025-07,Commande client,75852,Mobile money,Oui
+R001827,U0150,2025-07,Vente boutique,93000,Mobile money,Non
+R001828,U0150,2025-08,Commande client,337147,Mobile money,Non
+R001829,U0150,2025-10,Vente boutique,270081,Mobile money,Oui
+R001830,U0150,2025-11,Service local,371380,Cash,Oui
+R001831,U0150,2025-11,Service local,235959,Virement,Oui
+R001832,U0150,2025-12,Service local,138929,Mobile money,Oui
+R001833,U0150,2026-01,Service local,155000,Virement,Oui
+R001834,U0150,2026-01,Vente boutique,149085,Virement,Non
+R001835,U0150,2026-02,Commande client,58372,Mobile money,Non
+R001836,U0150,2026-02,Service local,332000,Mobile money,Oui
+R001837,U0150,2026-02,Vente boutique,333211,Mobile money,Non
+R001838,U0150,2026-03,Service local,200307,Virement,Oui
+R001839,U0150,2026-03,Commande client,305037,Cash,Oui
+R001840,U0150,2026-04,Vente boutique,292403,Mobile money,Oui
+R001841,U0150,2026-04,Vente boutique,137594,Virement,Non
+R001842,U0150,2026-05,Vente boutique,135148,Mobile money,Oui
+R001843,U0150,2026-05,Commande client,127151,Cash,Non
+R001844,U0151,2025-07,Petit commerce,134643,Cash,Oui
+R001845,U0151,2025-07,Mission ponctuelle,122000,Mobile money,Non
+R001846,U0151,2025-09,Petit commerce,149963,Mobile money,Non
+R001847,U0151,2025-09,Salaire partiel,104879,Mobile money,Oui
+R001848,U0151,2025-10,Petit commerce,196214,Mobile money,Oui
+R001849,U0151,2025-10,Salaire partiel,149000,Cash,Non
+R001850,U0151,2025-11,Petit commerce,88034,Mobile money,Non
+R001851,U0151,2025-11,Mission ponctuelle,141413,Cash,Oui
+R001852,U0151,2025-11,Mission ponctuelle,71000,Cash,Non
+R001853,U0151,2025-12,Petit commerce,101864,Mobile money,Non
+R001854,U0151,2025-12,Mission ponctuelle,107895,Mobile money,Oui
+R001855,U0151,2026-01,Mission ponctuelle,67932,Cash,Oui
+R001856,U0151,2026-01,Salaire partiel,42383,Mobile money,Oui
+R001857,U0151,2026-01,Petit commerce,42000,Mobile money,Non
+R001858,U0151,2026-03,Salaire partiel,65838,Virement,Oui
+R001859,U0151,2026-04,Petit commerce,158257,Mobile money,Oui
+R001860,U0151,2026-05,Mission ponctuelle,76589,Virement,Oui
+R001861,U0151,2026-06,Salaire partiel,87429,Virement,Non
+R001862,U0151,2026-06,Salaire partiel,176218,Mobile money,Oui
+R001863,U0152,2025-07,Vente boutique,372167,Cash,Oui
+R001864,U0152,2025-08,Vente boutique,200178,Cash,Oui
+R001865,U0152,2025-08,Vente boutique,220220,Cash,Oui
+R001866,U0152,2025-08,Commande client,74893,Mobile money,Non
+R001867,U0152,2025-09,Commande client,207235,Mobile money,Non
+R001868,U0152,2025-10,Service local,299520,Cash,Non
+R001869,U0152,2026-01,Vente boutique,287000,Mobile money,Oui
+R001870,U0152,2026-02,Service local,60000,Mobile money,Oui
+R001871,U0152,2026-02,Vente boutique,111215,Mobile money,Non
+R001872,U0152,2026-03,Vente boutique,128850,Virement,Non
+R001873,U0152,2026-03,Commande client,107049,Virement,Oui
+R001874,U0152,2026-03,Service local,216844,Mobile money,Oui
+R001875,U0152,2026-06,Service local,188195,Mobile money,Non
+R001876,U0153,2025-07,Commande client,303498,Mobile money,Oui
+R001877,U0153,2025-08,Vente boutique,67993,Cash,Oui
+R001878,U0153,2025-12,Service local,213000,Mobile money,Oui
+R001879,U0153,2026-01,Service local,103000,Mobile money,Oui
+R001880,U0153,2026-02,Vente boutique,396985,Virement,Non
+R001881,U0153,2026-05,Service local,107500,Cash,Non
+R001882,U0153,2026-05,Commande client,144288,Mobile money,Oui
+R001883,U0153,2026-06,Commande client,347134,Cash,Oui
+R001884,U0153,2026-06,Vente boutique,66539,Mobile money,Oui
+R001885,U0154,2025-08,Bonus plateforme,118607,Mobile money,Non
+R001886,U0154,2025-09,Livraisons,139000,Mobile money,Non
+R001887,U0154,2025-11,Bonus plateforme,99829,Mobile money,Oui
+R001888,U0154,2025-11,Livraisons,174328,Mobile money,Oui
+R001889,U0154,2025-12,Course directe,145398,Virement,Non
+R001890,U0154,2025-12,Livraisons,84610,Virement,Non
+R001891,U0154,2026-02,Course directe,118621,Mobile money,Non
+R001892,U0154,2026-02,Course directe,98000,Mobile money,Non
+R001893,U0154,2026-03,Bonus plateforme,112084,Mobile money,Oui
+R001894,U0154,2026-06,Bonus plateforme,149319,Virement,Oui
+R001895,U0154,2026-06,Bonus plateforme,142571,Virement,Non
+R001896,U0154,2026-06,Bonus plateforme,32000,Mobile money,Non
+R001897,U0155,2025-07,Salaire partiel,213627,Cash,Oui
+R001898,U0155,2025-08,Petit commerce,115105,Virement,Oui
+R001899,U0155,2025-08,Salaire partiel,116916,Mobile money,Oui
+R001900,U0155,2025-09,Salaire partiel,137000,Virement,Non
+R001901,U0155,2025-09,Mission ponctuelle,43000,Mobile money,Non
+R001902,U0155,2025-10,Salaire partiel,182494,Mobile money,Oui
+R001903,U0155,2025-12,Mission ponctuelle,97403,Mobile money,Non
+R001904,U0155,2025-12,Petit commerce,190892,Cash,Oui
+R001905,U0155,2026-01,Salaire partiel,67000,Virement,Oui
+R001906,U0155,2026-01,Mission ponctuelle,97443,Mobile money,Non
+R001907,U0155,2026-02,Mission ponctuelle,114000,Virement,Oui
+R001908,U0155,2026-05,Mission ponctuelle,37000,Mobile money,Non
+R001909,U0156,2025-08,Course directe,87879,Mobile money,Non
+R001910,U0156,2025-09,Livraisons,26000,Mobile money,Non
+R001911,U0156,2025-09,Bonus plateforme,128000,Mobile money,Non
+R001912,U0156,2025-09,Bonus plateforme,41000,Virement,Non
+R001913,U0156,2025-10,Livraisons,148000,Mobile money,Oui
+R001914,U0156,2025-11,Livraisons,85000,Virement,Non
+R001915,U0156,2026-01,Livraisons,160650,Cash,Oui
+R001916,U0156,2026-01,Bonus plateforme,72000,Mobile money,Non
+R001917,U0156,2026-02,Course directe,76887,Cash,Oui
+R001918,U0156,2026-02,Course directe,46000,Mobile money,Oui
+R001919,U0156,2026-02,Bonus plateforme,109000,Mobile money,Non
+R001920,U0156,2026-03,Course directe,28874,Cash,Non
+R001921,U0156,2026-03,Course directe,140588,Mobile money,Oui
+R001922,U0156,2026-03,Course directe,113148,Virement,Oui
+R001923,U0156,2026-04,Livraisons,89000,Cash,Non
+R001924,U0156,2026-04,Course directe,71000,Mobile money,Non
+R001925,U0156,2026-05,Livraisons,115000,Mobile money,Oui
+R001926,U0156,2026-05,Livraisons,48000,Mobile money,Oui
+R001927,U0156,2026-06,Livraisons,87648,Mobile money,Non
+R001928,U0157,2025-07,Vente boutique,114574,Cash,Non
+R001929,U0157,2025-08,Vente boutique,313710,Mobile money,Non
+R001930,U0157,2025-09,Commande client,164697,Cash,Oui
+R001931,U0157,2025-10,Commande client,392526,Mobile money,Non
+R001932,U0157,2025-11,Vente boutique,94697,Mobile money,Non
+R001933,U0157,2025-12,Service local,97974,Mobile money,Oui
+R001934,U0157,2026-01,Service local,356174,Virement,Non
+R001935,U0157,2026-01,Service local,101030,Mobile money,Oui
+R001936,U0157,2026-02,Vente boutique,185881,Cash,Non
+R001937,U0157,2026-03,Commande client,272915,Cash,Oui
+R001938,U0157,2026-03,Vente boutique,81740,Mobile money,Oui
+R001939,U0157,2026-03,Service local,130217,Mobile money,Oui
+R001940,U0157,2026-04,Vente boutique,90762,Mobile money,Non
+R001941,U0157,2026-05,Service local,104849,Virement,Non
+R001942,U0157,2026-05,Commande client,82830,Mobile money,Oui
+R001943,U0157,2026-06,Commande client,61154,Mobile money,Oui
+R001944,U0158,2025-07,Commande client,102000,Mobile money,Non
+R001945,U0158,2025-07,Vente boutique,198000,Mobile money,Oui
+R001946,U0158,2025-08,Commande client,305303,Cash,Oui
+R001947,U0158,2025-08,Commande client,115663,Mobile money,Oui
+R001948,U0158,2026-02,Service local,244000,Mobile money,Oui
+R001949,U0159,2025-07,Salaire partiel,85000,Cash,Oui
+R001950,U0159,2025-09,Mission ponctuelle,78000,Virement,Oui
+R001951,U0159,2025-09,Salaire partiel,172000,Cash,Oui
+R001952,U0159,2025-09,Petit commerce,173000,Mobile money,Oui
+R001953,U0159,2025-11,Petit commerce,145000,Mobile money,Non
+R001954,U0159,2025-11,Mission ponctuelle,35000,Mobile money,Non
+R001955,U0159,2026-01,Salaire partiel,42000,Virement,Non
+R001956,U0159,2026-02,Petit commerce,96000,Mobile money,Non
+R001957,U0159,2026-03,Mission ponctuelle,115536,Mobile money,Oui
+R001958,U0159,2026-04,Petit commerce,127000,Mobile money,Oui
+R001959,U0159,2026-05,Mission ponctuelle,49000,Mobile money,Oui
+R001960,U0159,2026-05,Petit commerce,36339,Cash,Oui
+R001961,U0160,2025-09,Bonus plateforme,107201,Mobile money,Oui
+R001962,U0160,2025-10,Bonus plateforme,94000,Mobile money,Oui
+R001963,U0160,2025-12,Bonus plateforme,98000,Cash,Oui
+R001964,U0160,2026-04,Course directe,98000,Mobile money,Oui
+R001965,U0160,2026-05,Livraisons,140007,Cash,Oui
+R001966,U0160,2026-06,Course directe,127703,Mobile money,Non
+R001967,U0161,2025-07,Maintenance,239057,Mobile money,Non
+R001968,U0161,2025-08,Prestation,260089,Cash,Non
+R001969,U0161,2025-08,Service client,200193,Mobile money,Oui
+R001970,U0161,2025-08,Maintenance,187000,Cash,Non
+R001971,U0161,2025-09,Maintenance,131023,Mobile money,Non
+R001972,U0161,2025-09,Maintenance,242671,Cash,Non
+R001973,U0161,2025-10,Prestation,75697,Mobile money,Oui
+R001974,U0161,2025-10,Service client,95251,Mobile money,Non
+R001975,U0161,2025-11,Prestation,40605,Cash,Oui
+R001976,U0161,2025-11,Service client,227121,Mobile money,Non
+R001977,U0161,2025-12,Prestation,73838,Mobile money,Non
+R001978,U0161,2026-02,Prestation,159000,Mobile money,Oui
+R001979,U0161,2026-04,Service client,280784,Mobile money,Non
+R001980,U0161,2026-04,Service client,232000,Mobile money,Non
+R001981,U0161,2026-06,Service client,186000,Virement,Non
+R001982,U0162,2025-10,Livraisons,83000,Cash,Oui
+R001983,U0162,2025-10,Livraisons,43000,Cash,Oui
+R001984,U0162,2025-10,Livraisons,123000,Virement,Oui
+R001985,U0162,2025-11,Livraisons,131402,Mobile money,Non
+R001986,U0162,2025-12,Bonus plateforme,99327,Mobile money,Oui
+R001987,U0162,2025-12,Bonus plateforme,148000,Mobile money,Non
+R001988,U0162,2025-12,Course directe,101911,Cash,Non
+R001989,U0162,2026-03,Livraisons,44294,Cash,Non
+R001990,U0162,2026-03,Course directe,69253,Mobile money,Non
+R001991,U0162,2026-03,Course directe,63206,Mobile money,Non
+R001992,U0162,2026-04,Livraisons,109387,Mobile money,Oui
+R001993,U0162,2026-04,Bonus plateforme,84864,Cash,Non
+R001994,U0162,2026-05,Course directe,50465,Mobile money,Non
+R001995,U0163,2025-07,Salaire partiel,91000,Cash,Oui
+R001996,U0163,2025-09,Mission ponctuelle,141143,Mobile money,Non
+R001997,U0163,2025-10,Salaire partiel,38000,Mobile money,Oui
+R001998,U0163,2025-11,Petit commerce,88413,Mobile money,Oui
+R001999,U0163,2025-12,Petit commerce,104744,Mobile money,Oui
+R002000,U0163,2026-03,Salaire partiel,81164,Mobile money,Non
+R002001,U0163,2026-03,Mission ponctuelle,166000,Mobile money,Non
+R002002,U0163,2026-04,Petit commerce,50862,Virement,Non
+R002003,U0163,2026-04,Mission ponctuelle,32000,Mobile money,Non
+R002004,U0163,2026-05,Petit commerce,166535,Mobile money,Oui
+R002005,U0163,2026-05,Petit commerce,82979,Cash,Non
+R002006,U0163,2026-05,Salaire partiel,83677,Mobile money,Non
+R002007,U0163,2026-06,Salaire partiel,128555,Mobile money,Non
+R002008,U0164,2025-07,Maintenance,190776,Mobile money,Oui
+R002009,U0164,2025-08,Service client,213000,Mobile money,Oui
+R002010,U0164,2025-10,Service client,113000,Mobile money,Non
+R002011,U0164,2025-10,Prestation,85642,Mobile money,Non
+R002012,U0164,2025-11,Prestation,61662,Mobile money,Non
+R002013,U0164,2025-12,Service client,54228,Cash,Non
+R002014,U0164,2026-01,Service client,190199,Virement,Non
+R002015,U0164,2026-01,Prestation,234506,Mobile money,Oui
+R002016,U0164,2026-02,Maintenance,230000,Virement,Non
+R002017,U0164,2026-03,Service client,171529,Cash,Non
+R002018,U0164,2026-04,Maintenance,57000,Cash,Non
+R002019,U0164,2026-04,Prestation,159305,Mobile money,Non
+R002020,U0164,2026-05,Service client,54373,Mobile money,Non
+R002021,U0164,2026-05,Maintenance,189410,Mobile money,Oui
+R002022,U0165,2025-07,Contrat ponctuel,124000,Mobile money,Oui
+R002023,U0165,2025-08,Mission freelance,165499,Cash,Oui
+R002024,U0165,2025-10,Prestation digitale,147965,Mobile money,Non
+R002025,U0165,2025-11,Prestation digitale,220000,Mobile money,Oui
+R002026,U0165,2025-11,Prestation digitale,161000,Cash,Non
+R002027,U0165,2025-12,Mission freelance,216000,Mobile money,Non
+R002028,U0165,2026-03,Mission freelance,211000,Cash,Oui
+R002029,U0165,2026-03,Mission freelance,46000,Mobile money,Non
+R002030,U0165,2026-04,Contrat ponctuel,167211,Mobile money,Oui
+R002031,U0165,2026-04,Contrat ponctuel,254613,Cash,Non
+R002032,U0165,2026-04,Mission freelance,149355,Mobile money,Oui
+R002033,U0165,2026-06,Prestation digitale,248000,Mobile money,Non
+R002034,U0166,2025-07,Prestation digitale,106000,Virement,Oui
+R002035,U0166,2025-11,Contrat ponctuel,118632,Virement,Oui
+R002036,U0166,2025-12,Contrat ponctuel,235582,Mobile money,Non
+R002037,U0166,2025-12,Mission freelance,260000,Mobile money,Non
+R002038,U0166,2025-12,Prestation digitale,186000,Cash,Non
+R002039,U0166,2026-02,Mission freelance,61000,Virement,Oui
+R002040,U0166,2026-04,Contrat ponctuel,235000,Mobile money,Non
+R002041,U0166,2026-04,Contrat ponctuel,228000,Mobile money,Oui
+R002042,U0166,2026-05,Prestation digitale,76000,Mobile money,Non
+R002043,U0167,2025-07,Vente en ligne,172000,Cash,Non
+R002044,U0167,2025-09,Commande WhatsApp,182000,Mobile money,Non
+R002045,U0167,2025-10,Vente en ligne,145000,Mobile money,Oui
+R002046,U0167,2025-11,Vente en ligne,49563,Mobile money,Non
+R002047,U0167,2025-11,Commande WhatsApp,74000,Cash,Non
+R002048,U0167,2025-12,Commande WhatsApp,65878,Virement,Oui
+R002049,U0167,2025-12,Commande WhatsApp,132454,Cash,Oui
+R002050,U0167,2026-01,Commande WhatsApp,148000,Mobile money,Non
+R002051,U0167,2026-01,Marketplace,205640,Cash,Oui
+R002052,U0167,2026-02,Vente en ligne,157387,Virement,Oui
+R002053,U0167,2026-04,Marketplace,208169,Mobile money,Oui
+R002054,U0167,2026-04,Commande WhatsApp,135693,Cash,Oui
+R002055,U0167,2026-05,Marketplace,175193,Mobile money,Non
+R002056,U0167,2026-06,Vente en ligne,74457,Virement,Oui
+R002057,U0168,2025-08,Mission freelance,106243,Cash,Oui
+R002058,U0168,2025-11,Contrat ponctuel,51476,Cash,Non
+R002059,U0168,2025-11,Mission freelance,175000,Cash,Non
+R002060,U0168,2026-01,Prestation digitale,202465,Cash,Oui
+R002061,U0168,2026-01,Mission freelance,73000,Cash,Non
+R002062,U0168,2026-06,Prestation digitale,259377,Mobile money,Oui
+R002063,U0168,2026-06,Mission freelance,216057,Mobile money,Oui
+R002064,U0169,2025-08,Prestation digitale,263060,Mobile money,Oui
+R002065,U0169,2025-08,Contrat ponctuel,75572,Mobile money,Non
+R002066,U0169,2026-02,Contrat ponctuel,319648,Mobile money,Oui
+R002067,U0169,2026-02,Prestation digitale,125957,Virement,Non
+R002068,U0169,2026-02,Contrat ponctuel,67000,Virement,Non
+R002069,U0169,2026-05,Mission freelance,84220,Mobile money,Oui
+R002070,U0169,2026-05,Prestation digitale,143100,Mobile money,Oui
+R002071,U0169,2026-06,Contrat ponctuel,250656,Virement,Non
+R002072,U0170,2025-07,Mission freelance,190812,Mobile money,Non
+R002073,U0170,2025-08,Contrat ponctuel,45000,Cash,Oui
+R002074,U0170,2025-08,Mission freelance,110035,Mobile money,Oui
+R002075,U0170,2025-10,Contrat ponctuel,184000,Mobile money,Non
+R002076,U0170,2025-10,Mission freelance,144391,Virement,Non
+R002077,U0170,2025-11,Mission freelance,130638,Mobile money,Oui
+R002078,U0170,2025-11,Mission freelance,80142,Mobile money,Non
+R002079,U0170,2025-12,Contrat ponctuel,139000,Mobile money,Non
+R002080,U0170,2026-02,Contrat ponctuel,90004,Mobile money,Non
+R002081,U0170,2026-04,Contrat ponctuel,120688,Mobile money,Oui
+R002082,U0170,2026-04,Mission freelance,63112,Mobile money,Oui
+R002083,U0170,2026-05,Prestation digitale,129584,Cash,Oui
+R002084,U0170,2026-06,Prestation digitale,225000,Mobile money,Oui
+R002085,U0170,2026-06,Prestation digitale,68841,Mobile money,Oui
+R002086,U0171,2025-08,Vente en ligne,70000,Mobile money,Non
+R002087,U0171,2025-09,Commande WhatsApp,100416,Mobile money,Oui
+R002088,U0171,2025-09,Marketplace,207661,Mobile money,Oui
+R002089,U0171,2025-11,Vente en ligne,108795,Cash,Oui
+R002090,U0171,2026-05,Commande WhatsApp,93000,Cash,Non
+R002091,U0171,2026-05,Vente en ligne,36000,Virement,Non
+R002092,U0172,2025-11,Course directe,39000,Cash,Oui
+R002093,U0172,2025-12,Livraisons,44000,Virement,Oui
+R002094,U0172,2025-12,Livraisons,33355,Mobile money,Oui
+R002095,U0173,2025-07,Commande client,108840,Cash,Oui
+R002096,U0173,2025-08,Commande client,228429,Virement,Oui
+R002097,U0173,2025-09,Vente boutique,94752,Mobile money,Oui
+R002098,U0173,2025-10,Vente boutique,164201,Cash,Oui
+R002099,U0173,2025-11,Vente boutique,264179,Virement,Non
+R002100,U0173,2025-12,Commande client,105000,Mobile money,Oui
+R002101,U0173,2026-01,Commande client,82000,Cash,Non
+R002102,U0173,2026-01,Service local,90000,Cash,Oui
+R002103,U0173,2026-01,Commande client,78000,Virement,Oui
+R002104,U0173,2026-02,Vente boutique,61988,Cash,Oui
+R002105,U0173,2026-02,Commande client,56419,Cash,Oui
+R002106,U0173,2026-03,Service local,242000,Mobile money,Oui
+R002107,U0173,2026-04,Commande client,192763,Mobile money,Oui
+R002108,U0173,2026-04,Service local,279534,Mobile money,Oui
+R002109,U0173,2026-04,Vente boutique,285778,Cash,Non
+R002110,U0173,2026-06,Service local,214453,Cash,Non
+R002111,U0173,2026-06,Vente boutique,125576,Virement,Non
+R002112,U0174,2025-09,Livraisons,82437,Mobile money,Non
+R002113,U0174,2025-09,Bonus plateforme,146000,Cash,Non
+R002114,U0174,2025-10,Course directe,136000,Mobile money,Non
+R002115,U0174,2025-11,Bonus plateforme,79564,Cash,Non
+R002116,U0174,2025-12,Livraisons,36565,Cash,Non
+R002117,U0174,2025-12,Livraisons,55594,Mobile money,Oui
+R002118,U0174,2025-12,Bonus plateforme,147140,Mobile money,Non
+R002119,U0174,2026-01,Livraisons,109518,Mobile money,Non
+R002120,U0174,2026-01,Livraisons,114659,Virement,Non
+R002121,U0174,2026-01,Course directe,55044,Mobile money,Non
+R002122,U0174,2026-02,Bonus plateforme,154855,Cash,Non
+R002123,U0174,2026-03,Course directe,48000,Cash,Non
+R002124,U0174,2026-04,Livraisons,46764,Cash,Oui
+R002125,U0174,2026-05,Bonus plateforme,146774,Cash,Oui
+R002126,U0174,2026-05,Livraisons,65000,Virement,Oui
+R002127,U0175,2025-07,Marketplace,64618,Mobile money,Non
+R002128,U0175,2025-07,Marketplace,181861,Cash,Non
+R002129,U0175,2025-08,Vente en ligne,152356,Mobile money,Non
+R002130,U0175,2025-09,Vente en ligne,83496,Mobile money,Non
+R002131,U0175,2025-11,Vente en ligne,190456,Mobile money,Non
+R002132,U0175,2025-12,Marketplace,62999,Mobile money,Oui
+R002133,U0175,2025-12,Commande WhatsApp,180516,Virement,Oui
+R002134,U0175,2026-01,Commande WhatsApp,157052,Mobile money,Non
+R002135,U0175,2026-01,Marketplace,43401,Virement,Non
+R002136,U0175,2026-02,Marketplace,174387,Mobile money,Non
+R002137,U0175,2026-02,Marketplace,175030,Mobile money,Oui
+R002138,U0175,2026-03,Vente en ligne,102186,Cash,Oui
+R002139,U0175,2026-04,Commande WhatsApp,183432,Mobile money,Oui
+R002140,U0175,2026-05,Vente en ligne,205954,Mobile money,Oui
+R002141,U0175,2026-06,Vente en ligne,226860,Mobile money,Oui
+R002142,U0176,2025-07,Vente boutique,246929,Mobile money,Oui
+R002143,U0176,2025-07,Commande client,58000,Cash,Non
+R002144,U0176,2025-07,Service local,319808,Mobile money,Oui
+R002145,U0176,2025-08,Commande client,85968,Mobile money,Oui
+R002146,U0176,2025-09,Commande client,114000,Mobile money,Oui
+R002147,U0176,2025-12,Vente boutique,144196,Mobile money,Oui
+R002148,U0176,2025-12,Vente boutique,156059,Mobile money,Oui
+R002149,U0176,2026-01,Service local,144054,Virement,Non
+R002150,U0176,2026-03,Service local,252772,Mobile money,Oui
+R002151,U0176,2026-05,Vente boutique,215000,Mobile money,Oui
+R002152,U0176,2026-06,Vente boutique,239776,Mobile money,Oui
+R002153,U0177,2025-09,Contrat ponctuel,115000,Cash,Non
+R002154,U0177,2025-12,Mission freelance,83324,Mobile money,Non
+R002155,U0177,2025-12,Mission freelance,101686,Mobile money,Oui
+R002156,U0177,2025-12,Contrat ponctuel,200600,Cash,Oui
+R002157,U0177,2026-01,Contrat ponctuel,258000,Virement,Non
+R002158,U0177,2026-01,Prestation digitale,118890,Mobile money,Non
+R002159,U0177,2026-02,Mission freelance,198000,Mobile money,Oui
+R002160,U0177,2026-02,Mission freelance,183367,Cash,Oui
+R002161,U0177,2026-04,Mission freelance,167000,Mobile money,Non
+R002162,U0177,2026-04,Contrat ponctuel,137000,Mobile money,Oui
+R002163,U0177,2026-05,Prestation digitale,94000,Virement,Non
+R002164,U0177,2026-06,Contrat ponctuel,232113,Cash,Non
+R002165,U0177,2026-06,Mission freelance,197000,Cash,Oui
+R002166,U0178,2025-07,Marketplace,163277,Virement,Non
+R002167,U0178,2025-08,Marketplace,57859,Mobile money,Non
+R002168,U0178,2025-09,Commande WhatsApp,156629,Mobile money,Oui
+R002169,U0178,2025-10,Vente en ligne,130181,Mobile money,Non
+R002170,U0178,2025-11,Commande WhatsApp,109954,Mobile money,Oui
+R002171,U0178,2025-12,Commande WhatsApp,42000,Cash,Oui
+R002172,U0178,2026-02,Marketplace,126196,Mobile money,Non
+R002173,U0178,2026-04,Vente en ligne,121870,Cash,Non
+R002174,U0178,2026-04,Commande WhatsApp,45000,Mobile money,Non
+R002175,U0178,2026-05,Marketplace,185228,Cash,Non
+R002176,U0178,2026-06,Marketplace,158094,Cash,Oui
+R002177,U0178,2026-06,Marketplace,56172,Mobile money,Non
+R002178,U0178,2026-06,Vente en ligne,136951,Mobile money,Non
+R002179,U0179,2025-07,Commande client,151163,Mobile money,Oui
+R002180,U0179,2025-08,Commande client,367274,Mobile money,Non
+R002181,U0179,2025-10,Service local,327931,Mobile money,Oui
+R002182,U0179,2025-11,Commande client,242000,Mobile money,Oui
+R002183,U0179,2026-01,Service local,230024,Mobile money,Oui
+R002184,U0179,2026-01,Service local,342000,Cash,Non
+R002185,U0179,2026-01,Commande client,274974,Virement,Oui
+R002186,U0179,2026-02,Vente boutique,203382,Mobile money,Non
+R002187,U0179,2026-04,Service local,281345,Cash,Non
+R002188,U0179,2026-05,Service local,64000,Mobile money,Oui
+R002189,U0179,2026-05,Service local,199496,Cash,Non
+R002190,U0179,2026-06,Commande client,115450,Virement,Non
+R002191,U0180,2025-10,Commande client,200106,Virement,Non
+R002192,U0180,2025-10,Service local,132778,Cash,Oui
+R002193,U0180,2025-12,Service local,350000,Mobile money,Non
+R002194,U0180,2026-01,Commande client,226227,Mobile money,Non
+R002195,U0180,2026-01,Service local,311218,Cash,Oui
+R002196,U0180,2026-02,Service local,288000,Mobile money,Oui
+R002197,U0180,2026-03,Vente boutique,229000,Mobile money,Non
+R002198,U0180,2026-03,Commande client,255791,Mobile money,Non
+R002199,U0180,2026-03,Service local,240300,Cash,Non
+R002200,U0180,2026-06,Service local,205049,Mobile money,Non
+R002201,U0180,2026-06,Commande client,315000,Virement,Non
+R002202,U0181,2025-08,Service client,69000,Cash,Oui
+R002203,U0181,2025-08,Maintenance,64000,Mobile money,Oui
+R002204,U0181,2025-09,Maintenance,127000,Mobile money,Non
+R002205,U0181,2025-09,Service client,95736,Mobile money,Non
+R002206,U0181,2025-10,Service client,204653,Mobile money,Non
+R002207,U0181,2025-11,Prestation,138654,Cash,Non
+R002208,U0181,2025-12,Service client,163090,Mobile money,Oui
+R002209,U0181,2026-01,Prestation,115097,Cash,Oui
+R002210,U0181,2026-01,Service client,83000,Mobile money,Oui
+R002211,U0181,2026-01,Service client,196000,Mobile money,Oui
+R002212,U0181,2026-02,Service client,216000,Mobile money,Oui
+R002213,U0181,2026-03,Maintenance,147000,Mobile money,Oui
+R002214,U0181,2026-03,Prestation,201001,Mobile money,Oui
+R002215,U0181,2026-05,Maintenance,197000,Mobile money,Oui
+R002216,U0181,2026-06,Service client,151315,Mobile money,Non
+R002217,U0181,2026-06,Prestation,218997,Mobile money,Oui
+R002218,U0181,2026-06,Prestation,213283,Mobile money,Oui
+R002219,U0182,2025-07,Service local,279814,Cash,Non
+R002220,U0182,2025-08,Service local,192212,Mobile money,Oui
+R002221,U0182,2025-09,Vente boutique,275177,Mobile money,Oui
+R002222,U0182,2025-10,Service local,71298,Mobile money,Non
+R002223,U0182,2025-10,Vente boutique,257952,Cash,Oui
+R002224,U0182,2025-10,Service local,353323,Mobile money,Oui
+R002225,U0182,2025-11,Service local,264063,Virement,Oui
+R002226,U0182,2026-01,Commande client,230300,Cash,Non
+R002227,U0182,2026-01,Service local,293535,Mobile money,Non
+R002228,U0182,2026-02,Commande client,162418,Mobile money,Oui
+R002229,U0182,2026-02,Vente boutique,164190,Mobile money,Non
+R002230,U0182,2026-02,Service local,372374,Cash,Non
+R002231,U0182,2026-03,Commande client,66536,Mobile money,Oui
+R002232,U0182,2026-03,Commande client,292777,Mobile money,Oui
+R002233,U0182,2026-04,Service local,163320,Mobile money,Oui
+R002234,U0182,2026-04,Service local,247471,Mobile money,Oui
+R002235,U0182,2026-05,Commande client,299492,Cash,Non
+R002236,U0182,2026-06,Vente boutique,129078,Mobile money,Oui
+R002237,U0182,2026-06,Service local,146737,Mobile money,Oui
+R002238,U0183,2025-08,Prestation digitale,207138,Mobile money,Oui
+R002239,U0183,2025-09,Prestation digitale,131000,Mobile money,Non
+R002240,U0183,2025-09,Contrat ponctuel,183000,Cash,Non
+R002241,U0183,2025-09,Contrat ponctuel,233000,Virement,Oui
+R002242,U0183,2025-10,Prestation digitale,98070,Virement,Non
+R002243,U0183,2025-10,Mission freelance,163000,Mobile money,Oui
+R002244,U0183,2025-12,Mission freelance,140545,Mobile money,Non
+R002245,U0183,2025-12,Mission freelance,190000,Cash,Oui
+R002246,U0183,2025-12,Contrat ponctuel,264025,Mobile money,Oui
+R002247,U0183,2026-01,Prestation digitale,95957,Mobile money,Non
+R002248,U0183,2026-02,Mission freelance,192000,Cash,Non
+R002249,U0183,2026-04,Mission freelance,125000,Mobile money,Oui
+R002250,U0184,2025-07,Prestation,80000,Mobile money,Oui
+R002251,U0184,2025-08,Prestation,64023,Mobile money,Oui
+R002252,U0184,2025-08,Service client,107000,Mobile money,Oui
+R002253,U0184,2025-09,Service client,158000,Mobile money,Non
+R002254,U0184,2025-09,Service client,176000,Cash,Oui
+R002255,U0184,2025-10,Service client,284398,Virement,Non
+R002256,U0184,2025-12,Prestation,210000,Mobile money,Non
+R002257,U0184,2026-02,Prestation,95000,Virement,Oui
+R002258,U0184,2026-02,Service client,217000,Mobile money,Oui
+R002259,U0184,2026-03,Maintenance,75000,Virement,Non
+R002260,U0184,2026-03,Maintenance,154000,Cash,Oui
+R002261,U0184,2026-03,Service client,81470,Cash,Non
+R002262,U0184,2026-04,Service client,76750,Cash,Non
+R002263,U0184,2026-05,Prestation,207000,Mobile money,Oui
+R002264,U0184,2026-05,Service client,93631,Mobile money,Oui
+R002265,U0184,2026-06,Prestation,201977,Cash,Oui
+R002266,U0185,2025-07,Marketplace,38000,Mobile money,Non
+R002267,U0185,2025-08,Marketplace,150171,Mobile money,Oui
+R002268,U0185,2025-12,Marketplace,172493,Mobile money,Oui
+R002269,U0185,2025-12,Vente en ligne,196000,Mobile money,Oui
+R002270,U0185,2026-02,Marketplace,180000,Mobile money,Non
+R002271,U0185,2026-06,Marketplace,142860,Cash,Non
+R002272,U0186,2025-07,Vente en ligne,80668,Virement,Oui
+R002273,U0186,2025-07,Marketplace,89492,Mobile money,Non
+R002274,U0186,2025-09,Marketplace,150915,Mobile money,Oui
+R002275,U0186,2025-09,Commande WhatsApp,99244,Mobile money,Oui
+R002276,U0186,2025-11,Marketplace,130397,Cash,Oui
+R002277,U0186,2025-12,Marketplace,59000,Mobile money,Non
+R002278,U0186,2025-12,Vente en ligne,81000,Mobile money,Oui
+R002279,U0186,2026-01,Marketplace,70092,Cash,Oui
+R002280,U0186,2026-01,Vente en ligne,118246,Mobile money,Non
+R002281,U0186,2026-01,Marketplace,85000,Mobile money,Oui
+R002282,U0186,2026-02,Marketplace,57000,Cash,Oui
+R002283,U0186,2026-03,Commande WhatsApp,206208,Mobile money,Oui
+R002284,U0186,2026-04,Commande WhatsApp,97461,Cash,Non
+R002285,U0186,2026-06,Marketplace,73000,Mobile money,Non
+R002286,U0187,2025-07,Prestation,59535,Cash,Non
+R002287,U0187,2025-08,Prestation,63240,Mobile money,Non
+R002288,U0187,2025-08,Service client,153651,Mobile money,Oui
+R002289,U0187,2025-09,Prestation,121646,Mobile money,Oui
+R002290,U0187,2025-10,Maintenance,175000,Cash,Non
+R002291,U0187,2025-11,Prestation,155238,Mobile money,Non
+R002292,U0187,2025-11,Service client,121397,Virement,Non
+R002293,U0187,2025-12,Maintenance,148575,Mobile money,Non
+R002294,U0187,2026-01,Service client,193230,Virement,Oui
+R002295,U0187,2026-02,Maintenance,138743,Virement,Oui
+R002296,U0187,2026-02,Prestation,206807,Mobile money,Oui
+R002297,U0187,2026-03,Maintenance,78536,Mobile money,Oui
+R002298,U0187,2026-04,Maintenance,178132,Cash,Non
+R002299,U0187,2026-04,Maintenance,182455,Mobile money,Oui
+R002300,U0187,2026-05,Maintenance,110815,Cash,Non
+R002301,U0188,2025-07,Commande WhatsApp,168791,Cash,Oui
+R002302,U0188,2025-07,Vente en ligne,150118,Mobile money,Non
+R002303,U0188,2025-08,Vente en ligne,207814,Virement,Oui
+R002304,U0188,2025-09,Vente en ligne,51857,Cash,Oui
+R002305,U0188,2025-09,Marketplace,150917,Mobile money,Non
+R002306,U0188,2025-10,Vente en ligne,169563,Mobile money,Oui
+R002307,U0188,2025-12,Commande WhatsApp,183014,Cash,Oui
+R002308,U0188,2026-01,Marketplace,140512,Cash,Non
+R002309,U0188,2026-01,Commande WhatsApp,153419,Cash,Oui
+R002310,U0188,2026-02,Vente en ligne,89000,Mobile money,Oui
+R002311,U0188,2026-03,Marketplace,242388,Mobile money,Non
+R002312,U0188,2026-04,Commande WhatsApp,40699,Cash,Oui
+R002313,U0188,2026-06,Vente en ligne,176058,Virement,Non
+R002314,U0189,2025-07,Petit commerce,126777,Cash,Non
+R002315,U0189,2025-08,Petit commerce,170000,Mobile money,Non
+R002316,U0189,2025-08,Mission ponctuelle,120884,Mobile money,Oui
+R002317,U0189,2025-10,Mission ponctuelle,192934,Virement,Oui
+R002318,U0189,2025-10,Petit commerce,31000,Mobile money,Oui
+R002319,U0189,2025-10,Petit commerce,188123,Cash,Oui
+R002320,U0189,2025-11,Salaire partiel,156916,Virement,Oui
+R002321,U0189,2025-12,Petit commerce,62299,Virement,Oui
+R002322,U0189,2026-01,Salaire partiel,182833,Cash,Non
+R002323,U0189,2026-01,Petit commerce,41303,Cash,Oui
+R002324,U0189,2026-02,Petit commerce,113954,Virement,Oui
+R002325,U0189,2026-02,Petit commerce,158000,Virement,Oui
+R002326,U0189,2026-03,Petit commerce,167000,Mobile money,Oui
+R002327,U0189,2026-04,Petit commerce,149000,Mobile money,Non
+R002328,U0189,2026-05,Salaire partiel,144766,Cash,Non
+R002329,U0190,2025-07,Commande WhatsApp,125308,Mobile money,Oui
+R002330,U0190,2025-07,Marketplace,183109,Mobile money,Oui
+R002331,U0190,2025-07,Vente en ligne,47113,Mobile money,Non
+R002332,U0190,2025-08,Marketplace,229507,Virement,Oui
+R002333,U0190,2025-09,Vente en ligne,117416,Mobile money,Oui
+R002334,U0190,2025-10,Vente en ligne,209238,Virement,Oui
+R002335,U0190,2025-11,Commande WhatsApp,118478,Virement,Oui
+R002336,U0190,2025-11,Commande WhatsApp,78911,Cash,Oui
+R002337,U0190,2025-12,Vente en ligne,168430,Mobile money,Non
+R002338,U0190,2026-01,Commande WhatsApp,169785,Mobile money,Oui
+R002339,U0190,2026-02,Marketplace,173757,Mobile money,Non
+R002340,U0190,2026-02,Marketplace,91770,Mobile money,Non
+R002341,U0190,2026-02,Commande WhatsApp,141681,Mobile money,Non
+R002342,U0190,2026-03,Commande WhatsApp,230450,Mobile money,Oui
+R002343,U0190,2026-04,Commande WhatsApp,30246,Mobile money,Non
+R002344,U0190,2026-05,Vente en ligne,202425,Mobile money,Oui
+R002345,U0190,2026-06,Commande WhatsApp,110901,Cash,Oui
+R002346,U0191,2025-07,Commande WhatsApp,176000,Virement,Non
+R002347,U0191,2025-07,Vente en ligne,152329,Mobile money,Oui
+R002348,U0191,2025-08,Commande WhatsApp,136826,Mobile money,Non
+R002349,U0191,2025-08,Marketplace,30622,Cash,Non
+R002350,U0191,2025-10,Marketplace,246698,Mobile money,Oui
+R002351,U0191,2025-11,Marketplace,132093,Cash,Non
+R002352,U0191,2025-11,Marketplace,165000,Cash,Non
+R002353,U0191,2026-01,Commande WhatsApp,208793,Mobile money,Oui
+R002354,U0191,2026-03,Marketplace,84621,Virement,Oui
+R002355,U0191,2026-04,Marketplace,236017,Mobile money,Oui
+R002356,U0191,2026-06,Marketplace,82792,Mobile money,Oui
+R002357,U0191,2026-06,Commande WhatsApp,156831,Mobile money,Oui
+R002358,U0191,2026-06,Commande WhatsApp,212000,Cash,Non
+R002359,U0192,2025-08,Prestation,228979,Mobile money,Oui
+R002360,U0192,2025-08,Maintenance,149000,Mobile money,Oui
+R002361,U0192,2025-08,Service client,133169,Virement,Oui
+R002362,U0192,2025-09,Service client,57352,Mobile money,Oui
+R002363,U0192,2025-11,Prestation,102000,Mobile money,Non
+R002364,U0192,2026-02,Service client,128000,Cash,Non
+R002365,U0192,2026-03,Maintenance,79000,Virement,Oui
+R002366,U0192,2026-03,Service client,62792,Mobile money,Oui
+R002367,U0192,2026-04,Maintenance,155789,Mobile money,Non
+R002368,U0192,2026-06,Prestation,93151,Mobile money,Non
+R002369,U0192,2026-06,Service client,95438,Mobile money,Oui
+R002370,U0193,2025-07,Commande WhatsApp,53000,Mobile money,Oui
+R002371,U0193,2025-07,Commande WhatsApp,110692,Cash,Oui
+R002372,U0193,2025-08,Commande WhatsApp,68000,Mobile money,Non
+R002373,U0193,2025-08,Marketplace,219594,Cash,Oui
+R002374,U0193,2025-09,Vente en ligne,220988,Cash,Oui
+R002375,U0193,2025-11,Vente en ligne,155088,Mobile money,Non
+R002376,U0193,2025-12,Marketplace,154000,Cash,Oui
+R002377,U0193,2025-12,Commande WhatsApp,49000,Mobile money,Non
+R002378,U0193,2026-01,Marketplace,199125,Mobile money,Oui
+R002379,U0193,2026-01,Commande WhatsApp,123943,Virement,Oui
+R002380,U0193,2026-01,Commande WhatsApp,177000,Mobile money,Oui
+R002381,U0193,2026-03,Marketplace,153802,Cash,Non
+R002382,U0193,2026-05,Marketplace,167347,Virement,Oui
+R002383,U0193,2026-05,Marketplace,35000,Mobile money,Non
+R002384,U0193,2026-06,Vente en ligne,56811,Cash,Non
+R002385,U0193,2026-06,Marketplace,60000,Mobile money,Oui
+R002386,U0193,2026-06,Marketplace,87975,Mobile money,Oui
+R002387,U0194,2025-10,Prestation,105258,Mobile money,Oui
+R002388,U0194,2025-12,Service client,159636,Mobile money,Oui
+R002389,U0194,2025-12,Service client,55000,Mobile money,Non
+R002390,U0194,2026-01,Maintenance,69000,Mobile money,Oui
+R002391,U0194,2026-01,Maintenance,73870,Mobile money,Oui
+R002392,U0194,2026-02,Prestation,150608,Mobile money,Non
+R002393,U0194,2026-02,Maintenance,114371,Cash,Non
+R002394,U0194,2026-03,Service client,235773,Mobile money,Oui
+R002395,U0194,2026-05,Maintenance,80129,Mobile money,Non
+R002396,U0195,2025-08,Contrat ponctuel,119431,Mobile money,Non
+R002397,U0195,2025-09,Mission freelance,106000,Mobile money,Oui
+R002398,U0195,2025-10,Contrat ponctuel,209635,Cash,Non
+R002399,U0195,2025-10,Prestation digitale,201291,Mobile money,Non
+R002400,U0195,2025-10,Mission freelance,196000,Mobile money,Non
+R002401,U0195,2025-12,Contrat ponctuel,94000,Virement,Oui
+R002402,U0195,2025-12,Mission freelance,168020,Virement,Oui
+R002403,U0195,2026-02,Contrat ponctuel,62000,Mobile money,Oui
+R002404,U0195,2026-02,Prestation digitale,158009,Mobile money,Oui
+R002405,U0195,2026-02,Prestation digitale,84915,Mobile money,Non
+R002406,U0195,2026-03,Prestation digitale,126632,Cash,Non
+R002407,U0195,2026-03,Mission freelance,186101,Cash,Non
+R002408,U0195,2026-04,Contrat ponctuel,232000,Cash,Non
+R002409,U0195,2026-05,Contrat ponctuel,93000,Cash,Oui
+R002410,U0195,2026-06,Contrat ponctuel,98000,Mobile money,Oui
+R002411,U0195,2026-06,Prestation digitale,269431,Mobile money,Non
+R002412,U0196,2025-10,Vente en ligne,204000,Virement,Oui
+R002413,U0196,2025-12,Vente en ligne,107139,Mobile money,Non
+R002414,U0196,2026-01,Vente en ligne,50020,Cash,Oui
+R002415,U0196,2026-04,Commande WhatsApp,103000,Mobile money,Oui
+R002416,U0196,2026-05,Commande WhatsApp,100000,Mobile money,Non
+R002417,U0197,2025-07,Vente boutique,237790,Cash,Non
+R002418,U0197,2025-08,Vente boutique,92000,Mobile money,Non
+R002419,U0197,2025-09,Service local,118478,Mobile money,Oui
+R002420,U0197,2025-10,Vente boutique,101981,Cash,Non
+R002421,U0197,2025-11,Service local,226981,Mobile money,Oui
+R002422,U0197,2025-12,Vente boutique,237568,Mobile money,Oui
+R002423,U0197,2026-01,Commande client,320456,Mobile money,Non
+R002424,U0197,2026-02,Commande client,193000,Mobile money,Oui
+R002425,U0197,2026-02,Vente boutique,291124,Mobile money,Non
+R002426,U0197,2026-03,Vente boutique,266000,Mobile money,Oui
+R002427,U0197,2026-03,Service local,294464,Mobile money,Oui
+R002428,U0197,2026-04,Service local,292546,Cash,Non
+R002429,U0197,2026-04,Commande client,138057,Cash,Non
+R002430,U0197,2026-04,Vente boutique,98736,Virement,Oui
+R002431,U0198,2025-10,Commande client,117000,Mobile money,Oui
+R002432,U0198,2025-10,Service local,161000,Mobile money,Non
+R002433,U0198,2025-12,Vente boutique,72640,Cash,Non
+R002434,U0198,2026-02,Vente boutique,92000,Mobile money,Oui
+R002435,U0198,2026-05,Vente boutique,210000,Cash,Oui
+R002436,U0198,2026-06,Vente boutique,81765,Virement,Oui
+R002437,U0199,2025-08,Vente boutique,140000,Virement,Non
+R002438,U0199,2025-10,Commande client,295000,Mobile money,Non
+R002439,U0199,2026-04,Commande client,289149,Mobile money,Oui
+R002440,U0199,2026-04,Vente boutique,75000,Mobile money,Oui
+R002441,U0199,2026-04,Service local,251000,Mobile money,Oui
+R002442,U0199,2026-06,Service local,324000,Cash,Oui
+R002443,U0200,2025-07,Maintenance,185000,Mobile money,Oui
+R002444,U0200,2025-07,Prestation,126726,Mobile money,Oui
+R002445,U0200,2025-08,Service client,219985,Mobile money,Non
+R002446,U0200,2025-08,Prestation,84766,Mobile money,Non
+R002447,U0200,2025-08,Maintenance,122301,Cash,Non
+R002448,U0200,2025-10,Prestation,216749,Mobile money,Non
+R002449,U0200,2025-11,Prestation,137000,Mobile money,Non
+R002450,U0200,2026-06,Maintenance,233466,Mobile money,Non
+R002451,U0200,2026-06,Maintenance,66000,Mobile money,Oui
+R002452,U0201,2025-11,Salaire partiel,42229,Cash,Oui
+R002453,U0201,2025-12,Mission ponctuelle,55603,Mobile money,Oui
+R002454,U0201,2025-12,Salaire partiel,126000,Virement,Non
+R002455,U0201,2026-02,Mission ponctuelle,99000,Cash,Non
+R002456,U0201,2026-03,Mission ponctuelle,179000,Mobile money,Oui
+R002457,U0201,2026-04,Petit commerce,26125,Mobile money,Non
+R002458,U0201,2026-04,Mission ponctuelle,82000,Cash,Oui
+R002459,U0201,2026-05,Salaire partiel,119000,Cash,Non
+R002460,U0202,2025-09,Bonus plateforme,133284,Mobile money,Non
+R002461,U0202,2026-01,Course directe,127290,Cash,Oui
+R002462,U0202,2026-01,Bonus plateforme,137026,Cash,Oui
+R002463,U0202,2026-02,Course directe,51516,Cash,Oui
+R002464,U0202,2026-04,Livraisons,115196,Mobile money,Non
+R002465,U0202,2026-05,Livraisons,112783,Mobile money,Non
+R002466,U0202,2026-05,Livraisons,147670,Cash,Non
+R002467,U0202,2026-05,Livraisons,145758,Cash,Oui
+R002468,U0202,2026-06,Livraisons,41238,Cash,Non
+R002469,U0202,2026-06,Course directe,80942,Mobile money,Non
+R002470,U0203,2025-07,Livraisons,27000,Mobile money,Oui
+R002471,U0203,2025-08,Course directe,98000,Cash,Oui
+R002472,U0203,2025-08,Livraisons,71000,Cash,Non
+R002473,U0203,2025-09,Livraisons,78000,Mobile money,Oui
+R002474,U0203,2026-01,Course directe,105405,Cash,Oui
+R002475,U0203,2026-03,Course directe,100885,Cash,Oui
+R002476,U0203,2026-03,Course directe,61000,Mobile money,Non
+R002477,U0203,2026-05,Livraisons,127719,Mobile money,Oui
+R002478,U0203,2026-05,Bonus plateforme,138000,Cash,Non
+R002479,U0204,2025-08,Service local,130260,Virement,Non
+R002480,U0204,2025-09,Commande client,267000,Virement,Oui
+R002481,U0204,2025-10,Vente boutique,177081,Mobile money,Oui
+R002482,U0204,2025-11,Commande client,250320,Mobile money,Non
+R002483,U0204,2025-12,Commande client,69477,Cash,Non
+R002484,U0204,2026-01,Vente boutique,261000,Mobile money,Non
+R002485,U0204,2026-01,Service local,188297,Mobile money,Oui
+R002486,U0204,2026-01,Commande client,153491,Mobile money,Oui
+R002487,U0204,2026-03,Service local,338066,Mobile money,Non
+R002488,U0204,2026-05,Service local,202000,Mobile money,Non
+R002489,U0204,2026-05,Service local,112000,Mobile money,Non
+R002490,U0204,2026-06,Vente boutique,79958,Virement,Non
+R002491,U0204,2026-06,Service local,191000,Mobile money,Oui
+R002492,U0205,2025-07,Prestation,83808,Mobile money,Non
+R002493,U0205,2025-09,Maintenance,191696,Mobile money,Non
+R002494,U0205,2025-09,Prestation,72000,Mobile money,Non
+R002495,U0205,2025-10,Maintenance,65000,Cash,Oui
+R002496,U0205,2025-10,Prestation,177440,Virement,Non
+R002497,U0205,2025-11,Service client,198000,Mobile money,Oui
+R002498,U0205,2025-12,Maintenance,141747,Mobile money,Non
+R002499,U0205,2026-01,Service client,100504,Mobile money,Oui
+R002500,U0205,2026-02,Service client,139958,Mobile money,Oui
+R002501,U0205,2026-03,Service client,78284,Cash,Oui
+R002502,U0205,2026-03,Prestation,233206,Mobile money,Non
+R002503,U0205,2026-04,Maintenance,148050,Mobile money,Oui
+R002504,U0205,2026-04,Prestation,114000,Cash,Oui
+R002505,U0205,2026-05,Service client,46076,Virement,Oui
+R002506,U0205,2026-06,Service client,180000,Cash,Oui
+R002507,U0206,2025-07,Commande WhatsApp,174000,Cash,Oui
+R002508,U0206,2025-08,Vente en ligne,206731,Mobile money,Non
+R002509,U0206,2025-09,Marketplace,184190,Mobile money,Non
+R002510,U0206,2026-01,Vente en ligne,208000,Mobile money,Oui
+R002511,U0206,2026-01,Marketplace,191700,Cash,Non
+R002512,U0206,2026-04,Marketplace,102116,Virement,Non
+R002513,U0206,2026-05,Commande WhatsApp,63555,Cash,Non
+R002514,U0206,2026-06,Marketplace,81217,Cash,Non
+R002515,U0206,2026-06,Marketplace,202138,Cash,Non
+R002516,U0207,2025-07,Commande WhatsApp,133830,Cash,Oui
+R002517,U0207,2025-09,Marketplace,204816,Mobile money,Non
+R002518,U0207,2025-09,Vente en ligne,184000,Cash,Oui
+R002519,U0207,2025-10,Vente en ligne,96000,Mobile money,Non
+R002520,U0207,2025-10,Vente en ligne,145000,Mobile money,Non
+R002521,U0207,2025-11,Vente en ligne,73442,Mobile money,Oui
+R002522,U0207,2025-12,Vente en ligne,176000,Mobile money,Oui
+R002523,U0207,2026-01,Marketplace,120987,Mobile money,Oui
+R002524,U0207,2026-02,Commande WhatsApp,148174,Cash,Non
+R002525,U0207,2026-04,Marketplace,137000,Mobile money,Oui
+R002526,U0207,2026-04,Commande WhatsApp,83141,Cash,Oui
+R002527,U0207,2026-05,Commande WhatsApp,82000,Cash,Non
+R002528,U0207,2026-05,Marketplace,151323,Cash,Oui
+R002529,U0208,2025-07,Service local,87661,Mobile money,Oui
+R002530,U0208,2025-08,Commande client,323000,Cash,Oui
+R002531,U0208,2025-08,Service local,228000,Mobile money,Oui
+R002532,U0208,2025-09,Commande client,237000,Virement,Oui
+R002533,U0208,2025-09,Service local,170000,Virement,Non
+R002534,U0208,2026-02,Service local,165000,Mobile money,Oui
+R002535,U0208,2026-02,Vente boutique,225000,Mobile money,Oui
+R002536,U0209,2025-07,Prestation,198579,Mobile money,Oui
+R002537,U0209,2025-07,Prestation,214000,Cash,Non
+R002538,U0209,2025-08,Maintenance,78152,Mobile money,Oui
+R002539,U0209,2025-10,Prestation,70000,Mobile money,Non
+R002540,U0209,2025-11,Maintenance,249070,Cash,Non
+R002541,U0209,2025-12,Service client,192929,Cash,Oui
+R002542,U0209,2026-01,Service client,117454,Mobile money,Non
+R002543,U0209,2026-01,Maintenance,112487,Mobile money,Non
+R002544,U0209,2026-02,Prestation,76756,Cash,Oui
+R002545,U0209,2026-02,Service client,124882,Cash,Non
+R002546,U0209,2026-03,Service client,66343,Mobile money,Non
+R002547,U0209,2026-04,Service client,80808,Mobile money,Oui
+R002548,U0209,2026-04,Prestation,65000,Cash,Oui
+R002549,U0209,2026-05,Maintenance,183034,Mobile money,Oui
+R002550,U0209,2026-05,Service client,216000,Virement,Oui
+R002551,U0209,2026-05,Maintenance,183512,Virement,Non
+R002552,U0210,2025-07,Commande client,230132,Virement,Oui
+R002553,U0210,2025-08,Vente boutique,247261,Mobile money,Non
+R002554,U0210,2025-08,Service local,125000,Cash,Oui
+R002555,U0210,2025-08,Vente boutique,180826,Mobile money,Non
+R002556,U0210,2025-09,Commande client,278263,Mobile money,Oui
+R002557,U0210,2025-09,Vente boutique,344000,Cash,Oui
+R002558,U0210,2025-10,Commande client,160476,Mobile money,Non
+R002559,U0210,2025-10,Vente boutique,112000,Cash,Oui
+R002560,U0210,2025-11,Service local,270755,Mobile money,Non
+R002561,U0210,2026-01,Vente boutique,298241,Mobile money,Non
+R002562,U0210,2026-02,Vente boutique,228761,Virement,Oui
+R002563,U0210,2026-03,Commande client,292930,Mobile money,Non
+R002564,U0210,2026-04,Vente boutique,257118,Cash,Non
+R002565,U0210,2026-05,Vente boutique,171225,Cash,Non
+R002566,U0210,2026-06,Vente boutique,340047,Mobile money,Oui
+R002567,U0210,2026-06,Service local,123520,Mobile money,Non
+R002568,U0211,2025-07,Vente boutique,76000,Mobile money,Oui
+R002569,U0211,2025-08,Commande client,145634,Cash,Oui
+R002570,U0211,2025-09,Commande client,167732,Mobile money,Non
+R002571,U0211,2025-10,Commande client,363938,Mobile money,Oui
+R002572,U0211,2025-11,Service local,185000,Cash,Oui
+R002573,U0211,2025-11,Vente boutique,272000,Mobile money,Non
+R002574,U0211,2025-11,Vente boutique,205486,Cash,Oui
+R002575,U0211,2025-12,Vente boutique,121464,Cash,Oui
+R002576,U0211,2025-12,Vente boutique,138000,Mobile money,Oui
+R002577,U0211,2025-12,Service local,194000,Mobile money,Oui
+R002578,U0211,2026-02,Service local,321066,Mobile money,Non
+R002579,U0211,2026-02,Vente boutique,180315,Cash,Oui
+R002580,U0211,2026-04,Vente boutique,187229,Mobile money,Oui
+R002581,U0211,2026-05,Service local,235466,Mobile money,Oui
+R002582,U0212,2025-08,Commande WhatsApp,209125,Mobile money,Oui
+R002583,U0212,2025-08,Marketplace,157000,Mobile money,Oui
+R002584,U0212,2025-09,Marketplace,136354,Mobile money,Oui
+R002585,U0212,2025-11,Vente en ligne,193038,Mobile money,Non
+R002586,U0212,2025-12,Commande WhatsApp,215533,Cash,Oui
+R002587,U0212,2026-01,Vente en ligne,254715,Mobile money,Oui
+R002588,U0212,2026-01,Commande WhatsApp,121549,Mobile money,Non
+R002589,U0212,2026-01,Vente en ligne,110061,Mobile money,Non
+R002590,U0212,2026-02,Vente en ligne,164000,Mobile money,Non
+R002591,U0212,2026-03,Marketplace,156000,Cash,Non
+R002592,U0212,2026-03,Commande WhatsApp,216000,Mobile money,Non
+R002593,U0212,2026-04,Vente en ligne,114344,Cash,Oui
+R002594,U0212,2026-05,Vente en ligne,142354,Mobile money,Non
+R002595,U0212,2026-05,Commande WhatsApp,82651,Cash,Oui
+R002596,U0212,2026-06,Vente en ligne,150000,Virement,Oui
+R002597,U0213,2025-07,Vente boutique,81125,Mobile money,Non
+R002598,U0213,2025-08,Service local,216000,Mobile money,Oui
+R002599,U0213,2025-09,Commande client,66641,Mobile money,Oui
+R002600,U0213,2025-10,Vente boutique,94490,Mobile money,Oui
+R002601,U0213,2025-11,Service local,403378,Cash,Oui
+R002602,U0213,2025-12,Commande client,250861,Virement,Oui
+R002603,U0213,2026-01,Commande client,364649,Cash,Oui
+R002604,U0213,2026-01,Commande client,83000,Mobile money,Oui
+R002605,U0213,2026-01,Service local,259327,Mobile money,Non
+R002606,U0213,2026-02,Commande client,91000,Mobile money,Oui
+R002607,U0213,2026-06,Service local,224130,Mobile money,Oui
+R002608,U0214,2025-07,Commande client,56000,Mobile money,Non
+R002609,U0214,2025-08,Vente boutique,211000,Cash,Oui
+R002610,U0214,2025-09,Vente boutique,249000,Cash,Non
+R002611,U0214,2025-09,Commande client,238804,Virement,Non
+R002612,U0214,2025-10,Vente boutique,235501,Mobile money,Non
+R002613,U0214,2025-11,Vente boutique,306000,Cash,Oui
+R002614,U0214,2025-12,Vente boutique,179924,Mobile money,Non
+R002615,U0214,2026-03,Service local,107374,Cash,Non
+R002616,U0214,2026-04,Service local,226819,Mobile money,Oui
+R002617,U0214,2026-05,Service local,155486,Mobile money,Non
+R002618,U0214,2026-05,Service local,390948,Cash,Oui
+R002619,U0215,2025-08,Petit commerce,107580,Cash,Oui
+R002620,U0215,2025-09,Mission ponctuelle,162543,Virement,Oui
+R002621,U0215,2025-09,Mission ponctuelle,182271,Cash,Non
+R002622,U0215,2025-09,Petit commerce,66683,Mobile money,Oui
+R002623,U0215,2025-10,Mission ponctuelle,33000,Mobile money,Non
+R002624,U0215,2025-11,Petit commerce,46487,Mobile money,Non
+R002625,U0215,2025-11,Petit commerce,96370,Virement,Oui
+R002626,U0215,2025-12,Petit commerce,116000,Cash,Oui
+R002627,U0215,2025-12,Petit commerce,43000,Virement,Non
+R002628,U0215,2026-01,Salaire partiel,148832,Cash,Non
+R002629,U0215,2026-01,Petit commerce,115916,Mobile money,Non
+R002630,U0215,2026-03,Mission ponctuelle,192062,Virement,Non
+R002631,U0215,2026-03,Mission ponctuelle,105511,Mobile money,Oui
+R002632,U0215,2026-04,Mission ponctuelle,151651,Mobile money,Oui
+R002633,U0215,2026-06,Salaire partiel,101000,Cash,Non
+R002634,U0216,2025-07,Course directe,38674,Mobile money,Oui
+R002635,U0216,2025-07,Livraisons,31000,Cash,Non
+R002636,U0216,2025-10,Course directe,34000,Mobile money,Non
+R002637,U0216,2025-11,Course directe,125610,Virement,Non
+R002638,U0216,2025-11,Livraisons,70866,Mobile money,Oui
+R002639,U0216,2025-12,Course directe,58000,Mobile money,Oui
+R002640,U0216,2025-12,Livraisons,56000,Mobile money,Non
+R002641,U0216,2025-12,Course directe,55122,Virement,Oui
+R002642,U0216,2026-04,Livraisons,120858,Mobile money,Oui
+R002643,U0216,2026-05,Livraisons,106000,Virement,Oui
+R002644,U0216,2026-05,Livraisons,71000,Virement,Oui
+R002645,U0216,2026-06,Course directe,89000,Virement,Non
+R002646,U0217,2025-07,Livraisons,91325,Mobile money,Oui
+R002647,U0217,2025-08,Course directe,47313,Cash,Non
+R002648,U0217,2025-10,Bonus plateforme,115880,Cash,Oui
+R002649,U0217,2025-11,Bonus plateforme,60000,Mobile money,Oui
+R002650,U0217,2025-11,Livraisons,146000,Cash,Oui
+R002651,U0217,2025-11,Course directe,80214,Mobile money,Non
+R002652,U0217,2026-01,Bonus plateforme,104239,Mobile money,Non
+R002653,U0217,2026-03,Bonus plateforme,37000,Cash,Oui
+R002654,U0217,2026-03,Livraisons,149005,Mobile money,Non
+R002655,U0217,2026-04,Course directe,111532,Mobile money,Non
+R002656,U0218,2025-07,Service local,319571,Cash,Non
+R002657,U0218,2025-07,Commande client,159272,Cash,Oui
+R002658,U0218,2025-09,Service local,174000,Mobile money,Non
+R002659,U0218,2025-09,Commande client,144436,Mobile money,Oui
+R002660,U0218,2025-10,Commande client,135430,Virement,Oui
+R002661,U0218,2025-10,Commande client,254067,Cash,Non
+R002662,U0218,2025-11,Vente boutique,121917,Cash,Oui
+R002663,U0218,2025-12,Service local,162552,Mobile money,Non
+R002664,U0218,2025-12,Vente boutique,150798,Mobile money,Non
+R002665,U0218,2026-02,Service local,63003,Mobile money,Non
+R002666,U0218,2026-02,Commande client,229708,Mobile money,Oui
+R002667,U0218,2026-03,Vente boutique,259876,Cash,Oui
+R002668,U0218,2026-04,Vente boutique,133407,Mobile money,Non
+R002669,U0218,2026-05,Vente boutique,150000,Virement,Non
+R002670,U0218,2026-06,Vente boutique,125420,Mobile money,Oui
+R002671,U0218,2026-06,Commande client,72512,Mobile money,Non
+R002672,U0218,2026-06,Service local,92682,Cash,Non
+R002673,U0219,2025-07,Livraisons,99000,Cash,Non
+R002674,U0219,2025-07,Bonus plateforme,100000,Mobile money,Oui
+R002675,U0219,2025-10,Livraisons,36000,Cash,Non
+R002676,U0219,2026-03,Bonus plateforme,43000,Virement,Oui
+R002677,U0219,2026-05,Bonus plateforme,41000,Mobile money,Non
+R002678,U0220,2025-07,Course directe,111412,Mobile money,Oui
+R002679,U0220,2025-08,Bonus plateforme,139934,Mobile money,Oui
+R002680,U0220,2025-08,Course directe,160909,Mobile money,Non
+R002681,U0220,2025-09,Course directe,25000,Mobile money,Non
+R002682,U0220,2025-10,Bonus plateforme,58000,Mobile money,Oui
+R002683,U0220,2025-10,Course directe,126332,Cash,Oui
+R002684,U0220,2025-10,Bonus plateforme,137000,Mobile money,Non
+R002685,U0220,2025-11,Course directe,118000,Cash,Non
+R002686,U0220,2026-01,Course directe,143000,Virement,Non
+R002687,U0220,2026-01,Bonus plateforme,79606,Mobile money,Oui
+R002688,U0220,2026-01,Bonus plateforme,82000,Virement,Non
+R002689,U0220,2026-04,Course directe,129000,Virement,Oui
+R002690,U0220,2026-04,Livraisons,149000,Cash,Oui
+R002691,U0220,2026-04,Course directe,48220,Cash,Oui
+R002692,U0221,2025-07,Prestation digitale,217990,Cash,Oui
+R002693,U0221,2025-08,Contrat ponctuel,257064,Cash,Oui
+R002694,U0221,2025-08,Mission freelance,94000,Mobile money,Oui
+R002695,U0221,2025-09,Contrat ponctuel,139108,Mobile money,Non
+R002696,U0221,2025-09,Contrat ponctuel,69000,Cash,Oui
+R002697,U0221,2025-12,Prestation digitale,280082,Mobile money,Non
+R002698,U0221,2026-02,Mission freelance,236000,Mobile money,Oui
+R002699,U0221,2026-04,Mission freelance,160098,Mobile money,Non
+R002700,U0221,2026-04,Prestation digitale,146109,Mobile money,Non
+R002701,U0221,2026-05,Mission freelance,167434,Mobile money,Oui
+R002702,U0221,2026-05,Mission freelance,178614,Cash,Oui
+R002703,U0221,2026-06,Prestation digitale,171000,Mobile money,Non
+R002704,U0221,2026-06,Contrat ponctuel,49066,Cash,Oui
+R002705,U0221,2026-06,Mission freelance,94077,Virement,Oui
+R002706,U0222,2025-07,Marketplace,94000,Mobile money,Oui
+R002707,U0222,2025-07,Marketplace,156000,Cash,Non
+R002708,U0222,2025-08,Marketplace,69000,Cash,Oui
+R002709,U0222,2025-11,Marketplace,147669,Mobile money,Non
+R002710,U0222,2025-11,Vente en ligne,189000,Cash,Oui
+R002711,U0222,2025-12,Marketplace,106000,Mobile money,Oui
+R002712,U0222,2026-04,Vente en ligne,61865,Mobile money,Oui
+R002713,U0222,2026-06,Vente en ligne,158000,Mobile money,Oui
+R002714,U0223,2025-07,Vente en ligne,172946,Mobile money,Non
+R002715,U0223,2025-07,Vente en ligne,191384,Mobile money,Non
+R002716,U0223,2025-09,Vente en ligne,146073,Mobile money,Oui
+R002717,U0223,2025-10,Marketplace,148561,Cash,Non
+R002718,U0223,2025-10,Commande WhatsApp,185200,Mobile money,Non
+R002719,U0223,2025-12,Marketplace,177000,Mobile money,Oui
+R002720,U0223,2026-01,Marketplace,73528,Virement,Oui
+R002721,U0223,2026-01,Vente en ligne,134000,Mobile money,Non
+R002722,U0223,2026-02,Marketplace,95686,Mobile money,Oui
+R002723,U0223,2026-03,Commande WhatsApp,150998,Mobile money,Oui
+R002724,U0223,2026-04,Commande WhatsApp,85683,Mobile money,Oui
+R002725,U0223,2026-06,Vente en ligne,180460,Cash,Oui
+R002726,U0223,2026-06,Commande WhatsApp,181778,Mobile money,Oui
+R002727,U0224,2025-08,Marketplace,31321,Cash,Oui
+R002728,U0224,2025-09,Vente en ligne,73433,Mobile money,Non
+R002729,U0224,2025-10,Vente en ligne,116518,Cash,Oui
+R002730,U0224,2025-11,Commande WhatsApp,70449,Cash,Oui
+R002731,U0224,2025-11,Marketplace,38013,Cash,Oui
+R002732,U0224,2025-11,Marketplace,92413,Mobile money,Non
+R002733,U0224,2025-12,Marketplace,79714,Mobile money,Oui
+R002734,U0224,2026-01,Commande WhatsApp,112941,Mobile money,Non
+R002735,U0224,2026-01,Commande WhatsApp,147057,Mobile money,Oui
+R002736,U0224,2026-02,Marketplace,168568,Mobile money,Oui
+R002737,U0224,2026-02,Commande WhatsApp,177505,Mobile money,Oui
+R002738,U0224,2026-03,Commande WhatsApp,88000,Cash,Non
+R002739,U0224,2026-04,Marketplace,97567,Mobile money,Oui
+R002740,U0224,2026-05,Commande WhatsApp,103159,Cash,Oui
+R002741,U0224,2026-05,Commande WhatsApp,93564,Mobile money,Oui
+R002742,U0225,2025-07,Salaire partiel,115686,Mobile money,Non
+R002743,U0225,2025-07,Petit commerce,89000,Mobile money,Oui
+R002744,U0225,2025-08,Mission ponctuelle,59851,Mobile money,Non
+R002745,U0225,2025-09,Salaire partiel,72000,Virement,Non
+R002746,U0225,2025-10,Salaire partiel,170186,Mobile money,Non
+R002747,U0225,2025-11,Petit commerce,154805,Virement,Oui
+R002748,U0225,2025-11,Salaire partiel,144032,Mobile money,Non
+R002749,U0225,2025-12,Mission ponctuelle,134911,Cash,Oui
+R002750,U0225,2026-02,Mission ponctuelle,128463,Cash,Oui
+R002751,U0225,2026-03,Salaire partiel,125700,Mobile money,Oui
+R002752,U0225,2026-03,Mission ponctuelle,49235,Mobile money,Oui
+R002753,U0225,2026-04,Salaire partiel,95000,Mobile money,Oui
+R002754,U0225,2026-05,Salaire partiel,34000,Cash,Oui
+R002755,U0225,2026-05,Mission ponctuelle,113995,Mobile money,Oui
+R002756,U0225,2026-06,Petit commerce,128098,Cash,Non
+R002757,U0225,2026-06,Salaire partiel,56114,Mobile money,Oui
+R002758,U0225,2026-06,Mission ponctuelle,80000,Mobile money,Non
+R002759,U0226,2025-07,Course directe,106969,Cash,Non
+R002760,U0226,2025-07,Livraisons,87595,Cash,Non
+R002761,U0226,2025-07,Livraisons,150624,Virement,Oui
+R002762,U0226,2025-08,Livraisons,60706,Mobile money,Oui
+R002763,U0226,2025-09,Livraisons,29947,Mobile money,Non
+R002764,U0226,2025-10,Livraisons,162202,Mobile money,Oui
+R002765,U0226,2025-10,Livraisons,38768,Cash,Oui
+R002766,U0226,2025-11,Bonus plateforme,119947,Virement,Oui
+R002767,U0226,2025-11,Livraisons,100609,Mobile money,Oui
+R002768,U0226,2025-12,Livraisons,36364,Mobile money,Non
+R002769,U0226,2026-01,Course directe,63932,Virement,Non
+R002770,U0226,2026-01,Livraisons,140000,Mobile money,Non
+R002771,U0226,2026-01,Livraisons,149370,Cash,Non
+R002772,U0226,2026-02,Course directe,182979,Cash,Oui
+R002773,U0226,2026-02,Bonus plateforme,130000,Virement,Non
+R002774,U0226,2026-03,Livraisons,56000,Mobile money,Non
+R002775,U0226,2026-04,Course directe,37612,Cash,Non
+R002776,U0226,2026-05,Livraisons,87315,Mobile money,Non
+R002777,U0226,2026-06,Livraisons,106000,Mobile money,Oui
+R002778,U0227,2025-07,Prestation,76141,Mobile money,Non
+R002779,U0227,2025-08,Service client,256141,Virement,Non
+R002780,U0227,2025-08,Maintenance,209234,Mobile money,Oui
+R002781,U0227,2025-10,Maintenance,277612,Mobile money,Non
+R002782,U0227,2025-10,Prestation,53822,Mobile money,Oui
+R002783,U0227,2025-11,Service client,186599,Cash,Non
+R002784,U0227,2025-11,Maintenance,51700,Cash,Oui
+R002785,U0227,2025-12,Service client,208553,Cash,Non
+R002786,U0227,2025-12,Maintenance,214121,Virement,Non
+R002787,U0227,2026-02,Maintenance,201000,Mobile money,Oui
+R002788,U0227,2026-02,Service client,158685,Mobile money,Oui
+R002789,U0227,2026-03,Maintenance,73000,Cash,Oui
+R002790,U0227,2026-05,Service client,242849,Mobile money,Non
+R002791,U0227,2026-05,Service client,185844,Mobile money,Oui
+R002792,U0227,2026-06,Service client,244361,Virement,Oui
+R002793,U0227,2026-06,Service client,228636,Mobile money,Oui
+R002794,U0227,2026-06,Prestation,230895,Mobile money,Oui
+R002795,U0228,2025-07,Prestation,172117,Mobile money,Oui
+R002796,U0228,2025-07,Prestation,76896,Virement,Non
+R002797,U0228,2025-09,Maintenance,140466,Virement,Oui
+R002798,U0228,2025-09,Prestation,215405,Mobile money,Non
+R002799,U0228,2025-11,Service client,231000,Mobile money,Oui
+R002800,U0228,2026-01,Service client,52000,Virement,Oui
+R002801,U0228,2026-03,Maintenance,125000,Cash,Oui
+R002802,U0228,2026-03,Maintenance,103397,Cash,Non
+R002803,U0228,2026-03,Service client,141257,Mobile money,Oui
+R002804,U0228,2026-05,Prestation,216000,Mobile money,Oui
+R002805,U0228,2026-06,Prestation,103187,Virement,Oui
+R002806,U0229,2025-07,Mission freelance,152285,Mobile money,Non
+R002807,U0229,2025-07,Mission freelance,68645,Mobile money,Non
+R002808,U0229,2025-07,Prestation digitale,69258,Mobile money,Oui
+R002809,U0229,2025-09,Contrat ponctuel,140657,Virement,Oui
+R002810,U0229,2025-10,Contrat ponctuel,177000,Cash,Non
+R002811,U0229,2025-11,Prestation digitale,276100,Mobile money,Oui
+R002812,U0229,2025-12,Mission freelance,234242,Cash,Oui
+R002813,U0229,2026-06,Mission freelance,255000,Cash,Oui
+R002814,U0230,2025-07,Commande client,275493,Mobile money,Non
+R002815,U0230,2025-09,Service local,327412,Mobile money,Non
+R002816,U0230,2025-09,Vente boutique,211959,Mobile money,Oui
+R002817,U0230,2025-10,Commande client,229000,Cash,Non
+R002818,U0230,2025-10,Commande client,236098,Mobile money,Oui
+R002819,U0230,2025-11,Commande client,236000,Mobile money,Non
+R002820,U0230,2025-11,Service local,326100,Mobile money,Non
+R002821,U0230,2025-12,Vente boutique,247000,Cash,Oui
+R002822,U0230,2025-12,Vente boutique,58799,Cash,Non
+R002823,U0230,2026-01,Service local,282601,Mobile money,Non
+R002824,U0230,2026-01,Commande client,137766,Virement,Oui
+R002825,U0230,2026-02,Commande client,107370,Mobile money,Non
+R002826,U0230,2026-03,Vente boutique,174000,Mobile money,Non
+R002827,U0230,2026-03,Commande client,100794,Mobile money,Oui
+R002828,U0230,2026-04,Vente boutique,107272,Mobile money,Non
+R002829,U0230,2026-04,Vente boutique,232000,Mobile money,Oui
+R002830,U0230,2026-05,Vente boutique,90833,Mobile money,Oui
+R002831,U0230,2026-06,Vente boutique,225953,Mobile money,Non
+R002832,U0230,2026-06,Vente boutique,62262,Mobile money,Oui
+R002833,U0231,2025-07,Petit commerce,64006,Virement,Oui
+R002834,U0231,2025-07,Salaire partiel,102112,Mobile money,Oui
+R002835,U0231,2025-09,Mission ponctuelle,37181,Mobile money,Non
+R002836,U0231,2025-10,Salaire partiel,135221,Mobile money,Non
+R002837,U0231,2025-12,Petit commerce,92108,Mobile money,Oui
+R002838,U0231,2025-12,Salaire partiel,123000,Cash,Non
+R002839,U0231,2026-02,Petit commerce,114743,Cash,Oui
+R002840,U0231,2026-02,Mission ponctuelle,127000,Mobile money,Oui
+R002841,U0231,2026-02,Mission ponctuelle,50258,Mobile money,Oui
+R002842,U0231,2026-03,Mission ponctuelle,36590,Cash,Oui
+R002843,U0231,2026-05,Mission ponctuelle,64112,Mobile money,Non
+R002844,U0231,2026-05,Salaire partiel,51629,Mobile money,Oui
+R002845,U0232,2025-07,Commande client,100910,Mobile money,Oui
+R002846,U0232,2025-08,Vente boutique,120908,Cash,Non
+R002847,U0232,2025-10,Service local,241625,Mobile money,Non
+R002848,U0232,2025-11,Vente boutique,165814,Mobile money,Non
+R002849,U0232,2025-11,Service local,202000,Mobile money,Oui
+R002850,U0232,2025-12,Vente boutique,224749,Cash,Non
+R002851,U0232,2026-01,Vente boutique,243824,Virement,Oui
+R002852,U0232,2026-04,Vente boutique,143132,Cash,Non
+R002853,U0232,2026-05,Commande client,159659,Cash,Non
+R002854,U0233,2025-07,Commande WhatsApp,223855,Mobile money,Oui
+R002855,U0233,2025-08,Commande WhatsApp,211450,Cash,Non
+R002856,U0233,2025-08,Vente en ligne,64296,Virement,Oui
+R002857,U0233,2025-09,Vente en ligne,39637,Virement,Non
+R002858,U0233,2025-10,Vente en ligne,120145,Mobile money,Non
+R002859,U0233,2025-10,Commande WhatsApp,84852,Cash,Oui
+R002860,U0233,2025-11,Commande WhatsApp,216465,Cash,Non
+R002861,U0233,2025-12,Vente en ligne,203879,Mobile money,Non
+R002862,U0233,2025-12,Commande WhatsApp,67961,Mobile money,Non
+R002863,U0233,2026-02,Vente en ligne,42000,Cash,Non
+R002864,U0233,2026-02,Vente en ligne,143645,Cash,Non
+R002865,U0233,2026-03,Vente en ligne,87000,Virement,Non
+R002866,U0233,2026-03,Commande WhatsApp,84157,Cash,Non
+R002867,U0233,2026-03,Vente en ligne,226224,Cash,Non
+R002868,U0233,2026-04,Marketplace,148892,Virement,Oui
+R002869,U0233,2026-05,Commande WhatsApp,227990,Virement,Non
+R002870,U0234,2025-07,Course directe,169984,Mobile money,Oui
+R002871,U0234,2025-09,Course directe,32775,Mobile money,Oui
+R002872,U0234,2025-09,Livraisons,46621,Cash,Oui
+R002873,U0234,2026-01,Bonus plateforme,150027,Mobile money,Oui
+R002874,U0234,2026-01,Livraisons,90327,Cash,Non
+R002875,U0234,2026-02,Livraisons,65142,Mobile money,Non
+R002876,U0234,2026-02,Course directe,85546,Cash,Oui
+R002877,U0234,2026-03,Course directe,139617,Mobile money,Oui
+R002878,U0234,2026-03,Livraisons,41000,Cash,Non
+R002879,U0234,2026-03,Bonus plateforme,114000,Mobile money,Non
+R002880,U0234,2026-04,Course directe,72257,Mobile money,Non
+R002881,U0234,2026-04,Livraisons,62000,Mobile money,Non
+R002882,U0234,2026-04,Course directe,176887,Cash,Oui
+R002883,U0234,2026-05,Livraisons,77663,Mobile money,Oui
+R002884,U0234,2026-06,Bonus plateforme,120000,Cash,Non
+R002885,U0234,2026-06,Course directe,26529,Mobile money,Oui
+R002886,U0235,2025-09,Vente boutique,82115,Virement,Non
+R002887,U0235,2025-12,Service local,112207,Cash,Non
+R002888,U0235,2025-12,Service local,171000,Virement,Oui
+R002889,U0235,2025-12,Commande client,263000,Cash,Non
+R002890,U0235,2026-01,Service local,91000,Mobile money,Non
+R002891,U0235,2026-01,Service local,317000,Cash,Non
+R002892,U0235,2026-02,Vente boutique,128000,Mobile money,Non
+R002893,U0235,2026-04,Commande client,301000,Mobile money,Non
+R002894,U0236,2025-07,Prestation digitale,199340,Virement,Non
+R002895,U0236,2025-07,Mission freelance,157608,Mobile money,Non
+R002896,U0236,2025-08,Mission freelance,141000,Virement,Oui
+R002897,U0236,2025-08,Contrat ponctuel,57450,Mobile money,Non
+R002898,U0236,2025-11,Mission freelance,53000,Mobile money,Oui
+R002899,U0236,2025-11,Prestation digitale,122944,Mobile money,Non
+R002900,U0236,2025-12,Prestation digitale,67000,Cash,Non
+R002901,U0236,2026-01,Mission freelance,81104,Cash,Non
+R002902,U0236,2026-02,Contrat ponctuel,60000,Mobile money,Non
+R002903,U0236,2026-03,Mission freelance,140000,Cash,Non
+R002904,U0236,2026-05,Contrat ponctuel,248786,Mobile money,Non
+R002905,U0237,2025-08,Commande client,262511,Cash,Oui
+R002906,U0237,2025-09,Vente boutique,78000,Cash,Non
+R002907,U0237,2025-10,Service local,404396,Mobile money,Non
+R002908,U0237,2025-12,Commande client,320340,Mobile money,Non
+R002909,U0237,2026-01,Service local,115203,Virement,Oui
+R002910,U0237,2026-01,Commande client,200210,Cash,Non
+R002911,U0237,2026-01,Service local,342525,Mobile money,Oui
+R002912,U0237,2026-02,Service local,100956,Mobile money,Non
+R002913,U0237,2026-02,Commande client,345370,Mobile money,Oui
+R002914,U0237,2026-03,Service local,266666,Virement,Non
+R002915,U0237,2026-03,Vente boutique,343000,Cash,Oui
+R002916,U0237,2026-04,Vente boutique,144551,Mobile money,Non
+R002917,U0237,2026-04,Commande client,191000,Mobile money,Oui
+R002918,U0238,2025-07,Prestation digitale,121000,Mobile money,Non
+R002919,U0238,2025-10,Mission freelance,80000,Mobile money,Non
+R002920,U0238,2025-10,Mission freelance,126000,Virement,Oui
+R002921,U0238,2025-10,Prestation digitale,244799,Mobile money,Non
+R002922,U0238,2025-11,Contrat ponctuel,152000,Mobile money,Oui
+R002923,U0238,2026-04,Prestation digitale,208000,Cash,Oui
+R002924,U0239,2025-07,Vente boutique,120776,Mobile money,Oui
+R002925,U0239,2025-08,Vente boutique,191961,Virement,Oui
+R002926,U0239,2025-08,Service local,340098,Mobile money,Non
+R002927,U0239,2025-09,Service local,181676,Mobile money,Non
+R002928,U0239,2025-10,Commande client,238067,Virement,Non
+R002929,U0239,2025-10,Service local,93959,Mobile money,Non
+R002930,U0239,2025-11,Commande client,344271,Cash,Oui
+R002931,U0239,2025-12,Commande client,77904,Cash,Non
+R002932,U0239,2025-12,Service local,245963,Cash,Non
+R002933,U0239,2026-01,Service local,404194,Mobile money,Non
+R002934,U0239,2026-02,Commande client,311293,Mobile money,Non
+R002935,U0239,2026-02,Vente boutique,289554,Cash,Oui
+R002936,U0239,2026-03,Service local,174057,Mobile money,Oui
+R002937,U0239,2026-03,Commande client,315783,Virement,Non
+R002938,U0239,2026-04,Service local,141982,Cash,Non
+R002939,U0239,2026-05,Service local,218870,Mobile money,Non
+R002940,U0239,2026-05,Vente boutique,169142,Mobile money,Non
+R002941,U0239,2026-06,Service local,84279,Cash,Non
+R002942,U0240,2025-08,Contrat ponctuel,125698,Virement,Non
+R002943,U0240,2025-08,Contrat ponctuel,248000,Cash,Oui
+R002944,U0240,2025-09,Prestation digitale,63224,Mobile money,Oui
+R002945,U0240,2025-12,Prestation digitale,84666,Mobile money,Oui
+R002946,U0240,2026-01,Mission freelance,234000,Cash,Non
+R002947,U0240,2026-01,Mission freelance,193090,Mobile money,Non
+R002948,U0240,2026-03,Contrat ponctuel,222000,Virement,Non
+R002949,U0240,2026-04,Mission freelance,128697,Mobile money,Oui
+R002950,U0240,2026-05,Mission freelance,103833,Mobile money,Non
+R002951,U0240,2026-06,Prestation digitale,74565,Mobile money,Oui
+R002952,U0240,2026-06,Mission freelance,199000,Cash,Non
+R002953,U0240,2026-06,Prestation digitale,71000,Virement,Non
+R002954,U0241,2025-07,Mission ponctuelle,52440,Mobile money,Oui
+R002955,U0241,2025-07,Petit commerce,26566,Cash,Non
+R002956,U0241,2025-07,Mission ponctuelle,112305,Mobile money,Non
+R002957,U0241,2025-08,Petit commerce,130417,Cash,Oui
+R002958,U0241,2025-09,Salaire partiel,83491,Mobile money,Oui
+R002959,U0241,2025-09,Mission ponctuelle,84110,Mobile money,Oui
+R002960,U0241,2025-10,Petit commerce,110343,Cash,Oui
+R002961,U0241,2025-11,Salaire partiel,152000,Cash,Oui
+R002962,U0241,2025-12,Petit commerce,161688,Mobile money,Oui
+R002963,U0241,2026-01,Mission ponctuelle,118787,Mobile money,Non
+R002964,U0241,2026-02,Mission ponctuelle,53546,Mobile money,Non
+R002965,U0241,2026-02,Mission ponctuelle,178286,Mobile money,Oui
+R002966,U0241,2026-03,Salaire partiel,107410,Mobile money,Oui
+R002967,U0241,2026-03,Petit commerce,188618,Cash,Oui
+R002968,U0241,2026-04,Salaire partiel,112000,Virement,Oui
+R002969,U0241,2026-04,Petit commerce,167055,Mobile money,Oui
+R002970,U0241,2026-05,Petit commerce,42551,Mobile money,Non
+R002971,U0241,2026-05,Salaire partiel,134777,Cash,Oui
+R002972,U0241,2026-06,Salaire partiel,76227,Mobile money,Oui
+R002973,U0242,2025-09,Vente en ligne,30000,Mobile money,Oui
+R002974,U0242,2025-09,Commande WhatsApp,129926,Virement,Oui
+R002975,U0242,2025-09,Vente en ligne,180056,Mobile money,Oui
+R002976,U0242,2025-11,Commande WhatsApp,202000,Cash,Non
+R002977,U0242,2025-11,Commande WhatsApp,58000,Mobile money,Non
+R002978,U0242,2025-12,Commande WhatsApp,28129,Mobile money,Non
+R002979,U0242,2025-12,Commande WhatsApp,164000,Virement,Oui
+R002980,U0242,2026-01,Vente en ligne,110077,Mobile money,Oui
+R002981,U0242,2026-01,Marketplace,177100,Mobile money,Non
+R002982,U0242,2026-01,Marketplace,161895,Mobile money,Oui
+R002983,U0242,2026-02,Commande WhatsApp,219000,Cash,Oui
+R002984,U0242,2026-02,Commande WhatsApp,200405,Virement,Oui
+R002985,U0242,2026-03,Marketplace,105269,Cash,Non
+R002986,U0242,2026-04,Marketplace,164000,Mobile money,Oui
+R002987,U0242,2026-05,Commande WhatsApp,108935,Mobile money,Non
+R002988,U0242,2026-06,Vente en ligne,140005,Virement,Oui
+R002989,U0243,2025-07,Vente en ligne,47360,Cash,Non
+R002990,U0243,2025-07,Commande WhatsApp,216286,Virement,Oui
+R002991,U0243,2025-08,Vente en ligne,221435,Cash,Non
+R002992,U0243,2025-09,Marketplace,161044,Virement,Oui
+R002993,U0243,2025-09,Vente en ligne,178160,Mobile money,Non
+R002994,U0243,2025-10,Commande WhatsApp,25734,Mobile money,Oui
+R002995,U0243,2025-10,Marketplace,84706,Virement,Oui
+R002996,U0243,2025-11,Vente en ligne,203377,Cash,Oui
+R002997,U0243,2025-12,Marketplace,119000,Cash,Non
+R002998,U0243,2026-02,Commande WhatsApp,59764,Mobile money,Oui
+R002999,U0243,2026-05,Commande WhatsApp,205000,Mobile money,Oui
+R003000,U0244,2025-11,Marketplace,104381,Cash,Oui
+R003001,U0244,2025-12,Marketplace,78662,Mobile money,Oui
+R003002,U0244,2026-01,Commande WhatsApp,106914,Mobile money,Non
+R003003,U0244,2026-03,Vente en ligne,126000,Cash,Non
+R003004,U0244,2026-03,Commande WhatsApp,59000,Mobile money,Non
+R003005,U0244,2026-04,Marketplace,107908,Cash,Oui
+R003006,U0244,2026-05,Vente en ligne,63562,Mobile money,Non
+R003007,U0244,2026-05,Commande WhatsApp,115156,Mobile money,Oui
+R003008,U0244,2026-05,Vente en ligne,104312,Cash,Oui
+R003009,U0245,2025-07,Commande client,64134,Mobile money,Non
+R003010,U0245,2025-07,Service local,362983,Mobile money,Oui
+R003011,U0245,2025-07,Vente boutique,215737,Mobile money,Oui
+R003012,U0245,2025-08,Service local,232000,Mobile money,Non
+R003013,U0245,2025-09,Commande client,239339,Mobile money,Oui
+R003014,U0245,2025-09,Service local,254640,Mobile money,Oui
+R003015,U0245,2025-10,Commande client,87504,Mobile money,Non
+R003016,U0245,2025-11,Commande client,84091,Virement,Non
+R003017,U0245,2025-12,Vente boutique,264461,Mobile money,Oui
+R003018,U0245,2026-01,Commande client,210979,Mobile money,Oui
+R003019,U0245,2026-02,Commande client,201646,Cash,Non
+R003020,U0245,2026-03,Service local,252645,Mobile money,Oui
+R003021,U0245,2026-03,Vente boutique,262701,Mobile money,Non
+R003022,U0245,2026-03,Service local,125398,Mobile money,Oui
+R003023,U0245,2026-04,Vente boutique,261927,Mobile money,Oui
+R003024,U0245,2026-04,Commande client,364354,Cash,Oui
+R003025,U0245,2026-04,Vente boutique,184622,Mobile money,Non
+R003026,U0245,2026-05,Vente boutique,263831,Cash,Non
+R003027,U0245,2026-06,Vente boutique,68667,Mobile money,Non
+R003028,U0246,2025-07,Mission freelance,240443,Cash,Oui
+R003029,U0246,2025-07,Prestation digitale,58000,Mobile money,Non
+R003030,U0246,2025-07,Contrat ponctuel,112419,Cash,Oui
+R003031,U0246,2025-08,Prestation digitale,80001,Mobile money,Oui
+R003032,U0246,2025-08,Mission freelance,120468,Mobile money,Non
+R003033,U0246,2025-09,Mission freelance,132361,Mobile money,Non
+R003034,U0246,2025-10,Prestation digitale,292123,Mobile money,Oui
+R003035,U0246,2025-12,Contrat ponctuel,125000,Cash,Non
+R003036,U0246,2025-12,Contrat ponctuel,184180,Mobile money,Oui
+R003037,U0246,2026-01,Mission freelance,199511,Virement,Non
+R003038,U0246,2026-02,Mission freelance,246000,Cash,Oui
+R003039,U0246,2026-02,Contrat ponctuel,96000,Cash,Non
+R003040,U0246,2026-05,Prestation digitale,191732,Mobile money,Oui
+R003041,U0246,2026-06,Mission freelance,158459,Virement,Oui
+R003042,U0247,2025-12,Contrat ponctuel,59480,Cash,Oui
+R003043,U0247,2026-02,Prestation digitale,60000,Cash,Non
+R003044,U0247,2026-04,Mission freelance,170000,Mobile money,Non
+R003045,U0247,2026-05,Contrat ponctuel,58216,Virement,Oui
+R003046,U0247,2026-06,Contrat ponctuel,224000,Virement,Oui
+R003047,U0247,2026-06,Contrat ponctuel,63260,Cash,Non
+R003048,U0248,2025-07,Mission freelance,236846,Mobile money,Non
+R003049,U0248,2025-07,Prestation digitale,98663,Mobile money,Oui
+R003050,U0248,2025-07,Mission freelance,129607,Cash,Oui
+R003051,U0248,2025-08,Mission freelance,118487,Virement,Non
+R003052,U0248,2025-09,Mission freelance,94722,Mobile money,Oui
+R003053,U0248,2025-10,Prestation digitale,48129,Cash,Oui
+R003054,U0248,2025-11,Mission freelance,102624,Cash,Oui
+R003055,U0248,2025-11,Mission freelance,67141,Mobile money,Non
+R003056,U0248,2025-12,Contrat ponctuel,45457,Cash,Non
+R003057,U0248,2025-12,Mission freelance,67089,Cash,Non
+R003058,U0248,2026-01,Prestation digitale,79901,Mobile money,Oui
+R003059,U0248,2026-02,Mission freelance,72167,Mobile money,Oui
+R003060,U0248,2026-03,Mission freelance,153855,Cash,Oui
+R003061,U0248,2026-04,Mission freelance,198730,Virement,Oui
+R003062,U0248,2026-05,Prestation digitale,72351,Mobile money,Non
+R003063,U0248,2026-05,Mission freelance,127850,Mobile money,Oui
+R003064,U0248,2026-06,Mission freelance,263003,Cash,Oui
+R003065,U0249,2025-08,Prestation digitale,52398,Virement,Oui
+R003066,U0249,2025-11,Mission freelance,59789,Mobile money,Oui
+R003067,U0249,2025-11,Contrat ponctuel,244878,Mobile money,Oui
+R003068,U0249,2026-02,Prestation digitale,249000,Cash,Non
+R003069,U0249,2026-03,Mission freelance,55614,Virement,Oui
+R003070,U0249,2026-04,Contrat ponctuel,93000,Mobile money,Non
+R003071,U0249,2026-04,Contrat ponctuel,317483,Virement,Non
+R003072,U0249,2026-06,Prestation digitale,85076,Cash,Non
+R003073,U0250,2025-07,Commande WhatsApp,204324,Mobile money,Non
+R003074,U0250,2025-07,Vente en ligne,49000,Mobile money,Non
+R003075,U0250,2025-08,Marketplace,103000,Virement,Oui
+R003076,U0250,2025-09,Vente en ligne,42255,Cash,Non
+R003077,U0250,2025-09,Vente en ligne,112361,Virement,Oui
+R003078,U0250,2025-09,Commande WhatsApp,59386,Virement,Non
+R003079,U0250,2025-11,Commande WhatsApp,112416,Mobile money,Non
+R003080,U0250,2025-12,Vente en ligne,68916,Mobile money,Oui
+R003081,U0250,2026-01,Vente en ligne,247567,Mobile money,Oui
+R003082,U0250,2026-02,Commande WhatsApp,207372,Virement,Oui
+R003083,U0250,2026-02,Vente en ligne,51000,Mobile money,Non
+R003084,U0250,2026-03,Vente en ligne,138191,Virement,Oui
+R003085,U0250,2026-04,Marketplace,193000,Mobile money,Non
+R003086,U0250,2026-04,Commande WhatsApp,195145,Mobile money,Non
+R003087,U0250,2026-05,Commande WhatsApp,146515,Cash,Oui
+R003088,U0250,2026-05,Vente en ligne,106000,Cash,Non
+R003089,U0250,2026-05,Marketplace,224485,Mobile money,Oui
+R003090,U0250,2026-06,Commande WhatsApp,39382,Cash,Oui
+R003091,U0250,2026-06,Marketplace,154771,Mobile money,Non
