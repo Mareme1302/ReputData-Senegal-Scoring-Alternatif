@@ -1,7 +1,7 @@
-# 🇸🇳 ReputData Sénégal - Scoring alternatif & inclusion financière
+# ReputData Sénégal - Scoring alternatif & inclusion financière
 
 
-## 📌 Présentation du projet
+##  Présentation du projet
 
 **ReputData Sénégal** est un prototype analytique développé sous **Power BI**. Il explore comment utiliser des données économiques alternatives pour construire un **score de fiabilité** destiné aux profils peu bancarisés.
 
@@ -11,11 +11,11 @@
 * **Livreurs** & acteurs de la Gig Economy.
 * **Micro-entrepreneurs** du secteur informel.
 
-> ⚠️ **Note importante** : L’objectif n'est pas de remplacer une décision bancaire, mais de proposer un outil d’aide à l’analyse pour une fintech, une microfinance (IMF) ou une structure d'inclusion financière.
+> **Note importante** : L’objectif n'est pas de remplacer une décision bancaire, mais de proposer un outil d’aide à l’analyse pour une fintech, une microfinance (IMF) ou une structure d'inclusion financière.
 
 ---
 
-## 🔍 Problématique & Solution
+## Problématique & Solution
 
 ### Le constat
 De nombreux profils actifs restent exclus du système bancaire classique par manque de :
@@ -32,9 +32,9 @@ Centraliser et valoriser les signaux économiques dispersés pour générer des 
 
 ---
 
-## 📊 Données & Modélisation
+##  Données & Modélisation
 
-> 💡 *Les données utilisées dans ce projet sont entièrement fictives et générées à des fins de démonstration pour ce portfolio.*
+>  *Les données utilisées dans ce projet sont entièrement fictives et générées à des fins de démonstration pour ce portfolio.*
 
 ### Architecture des tables
 
@@ -63,18 +63,18 @@ Le modèle repose sur une table de dimension centrale reliée en `1 à plusieurs
 
 ---
 
-## 🧮 Logique du Score Alternatif
+##  Logique du Score Alternatif
 
 Le score final est calculé sur **100 points** selon la pondération suivante :
 
 ```text
-🎨 Complétude profil [5%]
-⏳ Ancienneté [10%]
-⭐️ Recommandations [10%]
-📈 Volume Transactions [15%]
-💼 Stabilité Activité [15%]
-⏱ Ponctualité Paiements [20%]
-💰 Régularité Revenus [25%]
+ Complétude profil [5%]
+ Ancienneté [10%]
+ Recommandations [10%]
+ Volume Transactions [15%]
+ Stabilité Activité [15%]
+ Ponctualité Paiements [20%]
+ Régularité Revenus [25%]
 ```
 
 ### Segmentation des classes de risque
@@ -86,7 +86,7 @@ Le score final est calculé sur **100 points** selon la pondération suivante :
 
 ---
 
-## 🖥️ Structure du Dashboard Power BI
+##  Structure du Dashboard Power BI
 
 Le rapport visuel est structuré en **6 pages complémentaires** :
 
@@ -99,7 +99,7 @@ Le rapport visuel est structuré en **6 pages complémentaires** :
 
 ---
 
-## 📈 Résultats Clés du Prototype
+## Résultats Clés du Prototype
 
 * **Profils analysés** : 250 utilisateurs
 * **Score moyen global** : 66,46 / 100
@@ -110,7 +110,7 @@ Le rapport visuel est structuré en **6 pages complémentaires** :
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 * **Modélisation** : Power BI Desktop, Power Query
 * **Langages** : DAX (Mesures calculées), SQL (Analyses exploratoires)
@@ -118,7 +118,7 @@ Le rapport visuel est structuré en **6 pages complémentaires** :
 
 ---
 
-## 🗂️ Structure du Dépôt
+## Structure du Dépôt
 ```text
 ReputData-Senegal-Scoring-Alternatif/
 │
@@ -155,7 +155,7 @@ ReputData-Senegal-Scoring-Alternatif/
 ---
 
 
-## 📸 Aperçu du Dashboard
+##  Aperçu du Dashboard
 
 | Page 1 : Vue d'ensemble | Page 2 : Score Alternatif |
 |---|---|
@@ -171,7 +171,7 @@ ReputData-Senegal-Scoring-Alternatif/
 
 ---
 
-## 🛑 Limites & Perspectives
+##  Limites & Perspectives
 
 ### Limites actuelles
 * **Données simulées** : Pas de confrontation au comportement réel du marché.
