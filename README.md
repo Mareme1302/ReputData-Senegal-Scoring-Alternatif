@@ -119,35 +119,41 @@ Le rapport visuel est structuré en **6 pages complémentaires** :
 ---
 
 ## 🗂️ Structure du Dépôt
-
 ```text
 ReputData-Senegal-Scoring-Alternatif/
+│
 ├── README.md
-├── 1_data/                                       # Jeux de données fictifs
-│   ├── utilisateurs_reputdata.csv
-│   ├── revenus_reputdata.csv
-│   ├── paiements_reputdata.csv
-│   ├── transactions_reputdata.csv
-│   ├── missions_reputdata.csv
-│   └── scores_reputdata.csv
 │
-├── 2_sql/                                        # Scripts de validation
-│   └── requetes_analyse_reputdata.sql
-├── 3_powerbi/                                        # dashbord
-│   └── projetdata.pbix
-│
-└── 4_maquettes/                                # Visuels du dashboard
-    ├── page1_vue_ensemble.png
-    ├── page2_score_alternatif.png
-    ├── page3_revenus_activite.png
-    ├── page4_paiements_fiabilite.png
-    ├── page5_analyse_risque.png
-    └── page6_ethique_limites.png
-├── 5_documentation/
-│   └── ReputData_Senegal_Presentation_GitHub.pdf
+└── Reput_data/
+    │
+    ├── 01_donnees/
+    │   ├── utilisateurs_reputdata.csv
+    │   ├── revenus_reputdata.csv
+    │   ├── paiements_reputdata.csv
+    │   ├── transactions_reputdata.csv
+    │   ├── missions_reputdata.csv
+    │   └── scores_reputdata.csv
+    │
+    ├── 02_sql/
+    │   └── requetes_analyse_reputdata.sql
+    │
+    ├── 03_powerbi/
+    │   └── projetdata.pbix
+    │
+    ├── 04_maquettes/
+    │   ├── page1_vue_ensemble.png
+    │   ├── page2_score_alternatif.png
+    │   ├── page3_revenus_activite.png
+    │   ├── page4_paiements_fiabilite.png
+    │   ├── page5_analyse_risque.png
+    │   └── page6_ethique_limites.png
+    │
+    └── 05_documentation/
+        └── ReputData_Senegal_Presentation_GitHub.pdf
 ```
 
 ---
+
 
 ## 📸 Aperçu du Dashboard
 
@@ -176,3 +182,10 @@ ReputData-Senegal-Scoring-Alternatif/
 * **Machine Learning** : Intégration d'un modèle de prédiction du défaut avec Python (`scikit-learn`).
 * **Analyse de biais** : Audit algorithmique pour éviter les discriminations (genre, région).
 * **Simulation** : Ajout d'un module d'octroi de microcrédit fictif en temps réel.
+
+---
+
+## Conclusion
+
+ReputData Sénégal montre comment la data peut contribuer à l’inclusion financière en transformant des données économiques dispersées en indicateurs lisibles.  
+Le projet met en avant des compétences en **SQL, Power BI, DAX, modélisation de données et analyse métier fintech**.
