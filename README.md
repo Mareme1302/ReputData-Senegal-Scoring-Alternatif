@@ -153,15 +153,15 @@ ReputData-Senegal-Scoring-Alternatif/
 
 | Page 1 : Vue d'ensemble | Page 2 : Score Alternatif |
 |---|---|
-| ![Vue d’ensemble](Reput_data/04_maquettes/screenshots/page1_vue_ensemble.png) | ![Score alternatif](4_maquettes/screenshots/page2_score_alternatif.png) |
+| ![Vue d’ensemble](Reput_data/04_maquettes/screenshots/page1_vue_ensemble.png) | ![Score alternatif](Reput_data/04_maquettes/screenshots/page2_score_alternatif.png) |
 
 | Page 3 : Revenus & Activité | Page 4 : Paiements & Fiabilité |
 |---|---|
-| ![Revenus et activité](4_maquettes/screenshots/page3_revenus_activite.png) | ![Paiements et fiabilité](4_maquettes/screenshots/page4_paiements_fiabilite.png) |
+| ![Revenus et activité](Reput_data/04_maquettes/screenshots/page3_revenus_activite.png) | ![Paiements et fiabilité](Reput_data/04_maquettes/screenshots/page4_paiements_fiabilite.png) |
 
 | Page 5 : Analyse Risque | Page 6 : Éthique & Limites |
 |---|---|
-| ![Analyse risque](4_maquettes/screenshots/page5_analyse_risque.png) | ![Éthique et limites](4_maquettes/screenshots/page6_ethique_limites.png) |
+| ![Analyse risque](Reput_data/04_maquettes/screenshots/page5_analyse_risque.png) | ![Éthique et limites](Reput_data/04_maquettes/screenshots/page6_ethique_limites.png) |
 
 ---
 
